@@ -36,10 +36,11 @@ class ClassifierSignal:
             
         result = self._query({"inputs": text})
         
-        # The API returns a list of lists: [[{'label': 'LABEL_0', 'score': 0.1}, {'label': 'LABEL_1', 'score': 0.9}]]
-        if result and isinstance(result, list) and len(result) > 0 and isinstance(result[0], list):
-            for label_score in result[0]:
-                if label_score.get("label") == "LABEL_1":
+        if result and isinstance(result, list) and len(result) > 0:
+            # Handle both [[{...}, {...}]] and [{...}, {...}]
+            items = result[0] if isinstance(result[0], list) else result
+            for label_score in items:
+                if isinstance(label_score, dict) and label_score.get("label") == "LABEL_1":
                     return float(label_score.get("score"))
                     
         return 0.5
@@ -59,10 +60,11 @@ class ClassifierSignal:
             if api_result and isinstance(api_result, list):
                 for s_result in api_result:
                     ai_prob = 0.5
-                    if isinstance(s_result, list):
-                        for label_score in s_result:
-                            if label_score.get("label") == "LABEL_1":
-                                ai_prob = float(label_score.get("score"))
+                    # Handle both [[{...}], [{...}]] and [{...}]
+                    items = s_result if isinstance(s_result, list) else [s_result]
+                    for label_score in items:
+                        if isinstance(label_score, dict) and label_score.get("label") == "LABEL_1":
+                            ai_prob = float(label_score.get("score"))
                     results.append(ai_prob)
             else:
                 results.extend([0.5] * len(batch_texts))
