@@ -9,4 +9,4 @@ requests==2.31.0
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
 nltk==3.8.1
 textstat==0.7.3
-groq==0.5.0
+groq
