@@ -39,9 +39,18 @@ class ClassifierSignal:
         if result and isinstance(result, list) and len(result) > 0:
             # Handle both [[{...}, {...}]] and [{...}, {...}]
             items = result[0] if isinstance(result[0], list) else result
+            
+            ai_prob = 0.0
+            found_labels = False
             for label_score in items:
-                if isinstance(label_score, dict) and label_score.get("label") == "LABEL_1":
-                    return float(label_score.get("score"))
+                if isinstance(label_score, dict):
+                    label = str(label_score.get("label", "")).lower()
+                    if label in ["ai", "ai_polished", "ai_paraphrased", "label_1"]:
+                        ai_prob += float(label_score.get("score", 0))
+                        found_labels = True
+                        
+            if found_labels:
+                return min(1.0, ai_prob)
                     
         return 0.5
 
@@ -59,13 +68,19 @@ class ClassifierSignal:
             
             if api_result and isinstance(api_result, list):
                 for s_result in api_result:
-                    ai_prob = 0.5
+                    ai_prob = 0.0
+                    found_labels = False
+                    
                     # Handle both [[{...}], [{...}]] and [{...}]
                     items = s_result if isinstance(s_result, list) else [s_result]
                     for label_score in items:
-                        if isinstance(label_score, dict) and label_score.get("label") == "LABEL_1":
-                            ai_prob = float(label_score.get("score"))
-                    results.append(ai_prob)
+                        if isinstance(label_score, dict):
+                            label = str(label_score.get("label", "")).lower()
+                            if label in ["ai", "ai_polished", "ai_paraphrased", "label_1"]:
+                                ai_prob += float(label_score.get("score", 0))
+                                found_labels = True
+                                
+                    results.append(min(1.0, ai_prob) if found_labels else 0.5)
             else:
                 results.extend([0.5] * len(batch_texts))
                 
