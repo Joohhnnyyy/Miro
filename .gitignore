@@ -48,3 +48,4 @@ data/
 *.bin
 *.csv
 *.jsonl
+test_venv/
