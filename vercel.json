@@ -1,8 +1,13 @@
 {
+  "name": "miro-ai-detection",
   "framework": "vite",
   "buildCommand": "cd frontend && npm install && npm run build",
   "outputDirectory": "frontend/dist",
   "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://miro-nu6j.onrender.com/api/$1"
+    },
     {
       "source": "/(.*)",
       "destination": "/frontend/dist/$1"
