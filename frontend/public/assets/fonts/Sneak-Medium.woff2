@@ -1,0 +1,2471 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <meta name="description" content="wild">
+  
+    <title>404  </title>
+    <link rel="canonical" href="">
+    <meta property="og:url" content="">
+    <meta property="og:site_name" content="">
+    <meta property="og:title" content="404  ">
+    <meta property="og:description" content="">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="en-US">
+    <meta property="og:image" content="https://wild-website.b-cdn.net/seo/share.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@madebywild">
+    <meta name="twitter:creator" content="@madebywild">
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@graph":[{"@type":"Person","@id":"https:\/\/wild.as#site-owner","url":"https:\/\/wild.as"},{"@type":"WebSite","url":"https:\/\/wild.as","publisher":{"@id":"https:\/\/wild.as#site-owner"},"@id":"https:\/\/wild.as#website"},{"@type":"WebPage","@id":"https:\/\/wild.as#web_page","url":"https:\/\/wild.as\/assets\/fonts\/Sneak-Medium.woff2","name":"404  ","isPartOf":{"@id":"https:\/\/wild.as#website"},"inLanguage":"en-US","breadcrumb":{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Thing","name":"Home","id":"https:\/\/wild.as"}}]}}]}</script>
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript" charset="UTF-8" src="/js/cookie-consent-4.0.0.js" async></script>
+<script type="text/javascript" charset="UTF-8">
+  window.addEventListener("load", function () {
+    window.consent = cookieconsent.run({
+      notice_banner_type: "simple",
+      consent_type: "express",
+      palette: "light",
+      language: "en",
+      page_load_consent_levels: ["strictly-necessary"],
+      notice_banner_reject_button_hide: false,
+      open_preferences_center_selector: ".open-preferences-center",
+      preferences_center_close_button_hide: false,
+      website_name: "English",
+      website_privacy_policy_url: "",
+      cookie_domain: ".wild.as",
+    });
+  });
+</script>
+
+    <script>
+  // If tracking consent is absent (never granted or revoked), remove any
+  // identifiers a previous PostHog session left behind.
+  window.addEventListener("CC_CONSENT_UPDATED", function (event) {
+    var tracking = event.detail && event.detail.tracking;
+    if (!tracking || tracking.consent) return;
+    var isPosthogName = function (name) {
+      return name.indexOf("ph_") === 0 && name.indexOf("_posthog") !== -1;
+    };
+    try {
+      Object.keys(window.localStorage).forEach(function (name) {
+        if (isPosthogName(name)) window.localStorage.removeItem(name);
+      });
+    } catch (error) {
+      /* storage unavailable (private mode) — nothing to clean */
+    }
+    document.cookie.split(";").forEach(function (part) {
+      var name = part.split("=")[0].trim();
+      if (!isPosthogName(name)) return;
+      var expire = "=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+      document.cookie = name + expire;
+      document.cookie = name + expire + "; domain=." + location.hostname.replace(/^www\./, "");
+    });
+  });
+</script>
+<!-- The cookie-consent library executes this only after "tracking" consent is granted -->
+<script type="text/plain" cookie-consent="tracking">
+  (function () {
+    var key = "phc_ofCkV2YKZ2UaHlX0Vou5BesJFGhgSQRhx4GyjfZEE3d";
+    if (!key) return;
+    /* Official posthog-js loader snippet (posthog.com/docs/libraries/js, defaults 2026-05-30) */
+    !function(t,e){var o,n,p,r;e.__SV||(window.posthog && window.posthog.__loaded)||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="Fi Di init Ji Xi Tr Ki tn Zi capture calculateEventProperties ln register register_once register_for_session unregister unregister_for_session dn getFeatureFlag getFeatureFlagPayload getFeatureFlagResult getAllFeatureFlags isFeatureEnabled reloadFeatureFlags updateFlags updateEarlyAccessFeatureEnrollment getEarlyAccessFeatures on onFeatureFlags onSurveysLoaded onSessionId getSurveys getActiveMatchingSurveys renderSurvey displaySurvey cancelPendingSurvey canRenderSurvey canRenderSurveyAsync cn identify setPersonProperties unsetPersonProperties group resetGroups setPersonPropertiesForFlags resetPersonPropertiesForFlags setGroupPropertiesForFlags resetGroupPropertiesForFlags reset shutdown setIdentity clearIdentity get_distinct_id getGroups get_session_id get_session_replay_url alias set_config startSessionRecording stopSessionRecording sessionRecordingStarted captureException addExceptionStep captureLog startExceptionAutocapture stopExceptionAutocapture loadToolbar get_property getSessionProperty un sn createPersonProfile setInternalOrTestUser hn Wi pn opt_in_capturing opt_out_capturing has_opted_in_capturing has_opted_out_capturing get_explicit_consent_status is_capturing clear_opt_in_out_capturing rn debug Er it getPageViewId captureTraceFeedback captureTraceMetric Ui".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+    posthog.init(key, {
+      api_host: "https://mana.wild.as",
+      // Points UI links (toolbar, replay, flags) back to PostHog while events
+      // route through the mana.wild.as reverse proxy set as api_host
+      ui_host: "https://eu.posthog.com",
+      defaults: "2026-05-30",
+      // Barba.js navigates via pushState; without this only the first
+      // full pageload would be captured as a pageview
+      capture_pageview: "history_change",
+    });
+  })();
+</script>
+
+  
+    <style>
+      .preloder {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        position: fixed;
+        z-index: 1000000;
+        top: 0;
+        right: 0;
+        left: 0;
+        height: 100vh;
+        min-height: 100vh;
+        background-color: #fff;
+        -ms-flex-line-pack: center;
+        align-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        pointer-events: none;
+        opacity: 1;
+      }
+
+      @media (max-width: 765px) {
+        .preloder {
+          height: var(--vh100, 100vh);
+          min-height: var(--vh100, 100vh);
+        }
+      }
+
+      .preloder__canvas {
+        width: 200px;
+        height: 56px;
+        overflow: hidden;
+        display: block;
+      }
+
+      @-webkit-keyframes animate {
+        100% {
+          margin-top: -560px;
+        }
+      }
+
+      @keyframes animate {
+        100% {
+          margin-top: -560px;
+        }
+      }
+
+      @media (min-width: 765px) {
+        .preloder__canvas {
+          width: 250px;
+          height: 70px;
+        }
+
+        @-webkit-keyframes animate {
+          100% {
+            margin-top: -700px;
+          }
+        }
+
+        @keyframes animate {
+          100% {
+            margin-top: -700px;
+          }
+        }
+      }
+
+      .preloder__canvas svg {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        transform: translateZ(0);
+        -webkit-animation: animate 1s steps(10) infinite;
+        animation: animate 1s steps(10) infinite;
+      }
+
+      /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-size:2em;margin:.67em 0}hr{box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent}abbr[title]{border-bottom:none;text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:.35em .75em .625em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{vertical-align:baseline}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details{display:block}summary{display:list-item}[hidden],template{display:none}:root{--vh:1vh}@font-face{font-family:Sneak;font-weight:300;font-style:normal;font-display:swap;src:url(../fonts/Sneak-Light.eot);src:url(../fonts/Sneak-Light.eot?#iefix) format("embedded-opentype"),url(../fonts/Sneak-Light.woff2) format("woff2"),url(../fonts/Sneak-Light.woff) format("woff")}@font-face{font-family:Sneak;font-weight:400;font-style:normal;font-display:swap;src:url(../fonts/Sneak-Regular.eot);src:url(../fonts/Sneak-Regular.eot?#iefix) format("embedded-opentype"),url(../fonts/Sneak-Regular.woff2) format("woff2"),url(../fonts/Sneak-Regular.woff) format("woff")}@font-face{font-family:Sneak;font-weight:500;font-style:normal;font-display:swap;src:url(../fonts/Sneak-Medium.eot);src:url(../fonts/Sneak-Medium.eot?#iefix) format("embedded-opentype"),url(../fonts/Sneak-Medium.woff2) format("woff2"),url(../fonts/Sneak-Medium.woff) format("woff")}@font-face{font-family:Hairline;font-weight:400;font-style:normal;font-display:swap;src:url(../fonts/Plain-Hairline.eot);src:url(../fonts/Plain-Hairline.eot?#iefix) format("embedded-opentype"),url(../fonts/Plain-Hairline.woff2) format("woff2"),url(../fonts/Plain-Hairline.woff) format("woff")}body{font-family:Sneak,sans-serif;font-family:Sneak;font-size:18px;font-weight:400;font-style:normal;font-stretch:normal;line-height:1.78;letter-spacing:-.2px;font-feature-settings:"liga" 0;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;color:#1d1d1d}h1,h2,h3,h4,h5,h6{font-family:Sneak;font-weight:500;margin:0}h1{font-family:Sneak;color:#1d1d1d;font-size:32px;font-weight:400;font-style:normal;font-stretch:normal;line-height:1.38;letter-spacing:-.3px}@media (min-width:765px){h1{font-size:70px;line-height:1.14;letter-spacing:-.7px}}h2{font-size:40px;font-weight:400;line-height:1.3;letter-spacing:-.4px}h2,h3{font-family:Sneak;color:#1d1d1d;font-style:normal;font-stretch:normal}h3{font-size:11px;font-weight:500;line-height:1.45;letter-spacing:.4px}.dark{color:#111}.dark-gray{color:#1d1d1d}.gray{color:#646464}.pale{color:#9c9c9c}.soft-gray{color:#e9e9e9}.light-gray{color:#f6f6f6}.light-12{color:hsla(0,0%,100%,.12)}.light{color:#fff}.alarm{color:#ea431d}.blue{color:#0349c5}.nav{position:absolute;top:0;left:0;width:100%;z-index:100;transform:translateZ(0);height:90px}@media (min-width:765px){.nav{height:96px}}@media (min-width:765px){.nav--home{position:fixed}}.nav--light .logo.white path,.nav--light .logo.white polygon,.nav--light .logo.white rect,.nav--light .logo path,.nav--light .logo polygon,.nav--light .logo rect{fill:#fff!important}.nav--light .burger svg>*,.nav--light .search-button svg>*{stroke:#fff}.nav--light .nav__text{color:#fff}.nav--nav-open .logo path,.nav--nav-open .logo polygon,.nav--nav-open .logo rect{fill:#231f20!important}.nav--nav-open .burger svg>*,.nav--nav-open .search-button svg>*{stroke:#1d1d1d}.nav--nav-open .nav__text{color:#1d1d1d}.nav--search-open .logo path,.nav--search-open .logo polygon,.nav--search-open .logo rect{fill:#fff!important}.nav--search-open.white path,.nav--search-open.white polygon,.nav--search-open.white rect{fill:#231f20!important}.nav--search-open .burger svg>*,.nav--search-open .search-button svg>*{stroke:#fff}.nav--search-open .nav__text{color:#fff}.nav__top{max-width:1354px;margin:0 auto;position:relative;padding:0 24px;height:90px;display:flex}@media (min-width:765px){.nav__top{padding:0 48px;height:96px}}.nav__logo{display:flex;align-items:center;transition:all .2s ease}.nav__logo a{display:block;line-height:1}@media (min-width:1025px){.nav__logo:hover{opacity:.6}}.nav__link{width:100%;display:flex;align-items:center;padding-left:24px}.nav__link__svg{width:18px;height:18px;overflow:hidden;position:absolute;left:0;top:50%;margin-top:-9px;display:inline-block}.nav__link span{color:#1d1d1d;font-family:Sneak;font-size:16px;font-weight:400;font-style:normal;font-stretch:normal;line-height:1.25;letter-spacing:normal;font-weight:300;position:relative;padding-left:24px}.nav__link span:before{content:"";width:1px;height:24px;position:absolute;left:0;top:50%;transform:translateY(-50%);background-color:#e9e9e9}.nav__link a{position:relative;padding-left:27px;text-decoration:none;color:#1d1d1d}.nav__link a svg{position:absolute;left:0;top:0}.nav__center{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)}.nav__case-study-item{display:none;gap:16px}@media (min-width:765px){.nav__case-study-item{display:flex}}.nav__case-study-item .wild-id{color:#1d1d1d;font-family:Sneak;font-size:16px;font-weight:400;font-style:normal;font-stretch:normal;line-height:1.25;letter-spacing:normal;font-weight:300;color:inherit;padding-left:16px;margin:0}.nav__case-study-item .wild-id:before{top:6px;width:8px;height:8px}.nav__case-study-item h2{display:inline-flex;gap:16px;padding:8px 16px;background-color:#f5f5f5;color:#1d1d1d;font-size:16px;font-weight:400;line-height:1.25;font-weight:300}.nav__case-study-item button,.nav__case-study-item h2{font-family:Sneak;font-style:normal;font-stretch:normal;letter-spacing:normal}.nav__case-study-item button{background:#1d1d1d;border:0;cursor:pointer;position:relative;padding:8px 40px 8px 16px;color:#1d1d1d;font-size:14px;font-weight:400;line-height:1.43;color:#fff}.nav__case-study-item button:after{content:"";position:absolute;width:18px;height:18px;display:block;right:16px;top:50%;transform:translateY(-50%);background-image:url(../img/icons/plus-white.svg);background-size:cover;background-position:50%;background-repeat:no-repeat;transition:transform .3s ease;transform-origin:center}.nav__case-study-item button:hover:after{transform:translateY(-50%) rotate(180deg)}.nav__right{justify-self:flex-end;align-items:center;display:flex}.nav .logo{max-width:50px;height:auto}.nav .logo path,.nav .logo polygon,.nav .logo rect{fill:#231f20;transition:fill .2s ease}.nav__text{font-family:Sneak;color:#1d1d1d;font-size:11px;font-weight:500;font-style:normal;font-stretch:normal;line-height:1.45;letter-spacing:.4px;text-transform:uppercase;position:absolute;right:0;top:50%;transform:translateY(-50%);display:none}@media (min-width:765px){.nav__text{display:block}}.nav .search-button{width:42px;height:42px;cursor:pointer;transition:all .2s ease;position:relative}@media (min-width:765px){.nav .search-button{width:102px;min-width:102px;margin-right:24px;display:block}}.nav .search-button svg{position:absolute;left:13px;top:13px;width:16px;height:16px}.nav .burger{width:42px;height:42px;position:relative;display:flex;flex-direction:column;justify-content:space-between;cursor:pointer;border-radius:50%}@media (min-width:765px){.nav .burger{width:68px;min-width:68px;display:block;background-color:transparent;box-shadow:none;margin-right:-8px}}.nav .burger svg{position:absolute;left:13px;top:14px;width:16px;height:16px}.navbar{position:fixed;z-index:15;bottom:20px;width:calc(100% - 48px);max-width:1486px;background-color:#fff;border-radius:4px;margin:0 auto;left:50%;transform:translateX(-50%);right:auto;display:none;transition:all .2s ease;box-shadow:0 1px 4px 0 rgba(0,0,0,.18)}@media (min-width:1025px){.navbar{display:flex}}.navbar__target{position:fixed;bottom:0;left:0;right:0;height:90px;background-color:transparent;z-index:14;display:none}@media (min-width:1025px){.navbar__target{display:block;display:none}}.navbar__link{text-decoration:none;color:#1d1d1d}.navbar__ul{width:100%;list-style:none;padding:0;display:flex;justify-content:space-between}.navbar__ul__li{display:flex;line-height:.89}.navbar__ul__li a{padding:16px 66px}.navbar__ul__li a>span{position:relative;display:flex}.navbar__ul__li:hover{cursor:pointer}.navbar__ul__li:hover>.navbar__hover{opacity:1;bottom:100%;pointer-events:all}.navbar__ul__li--has-count{display:flex;align-items:center;justify-content:center;position:relative;width:16px;height:16px;margin-right:6px;color:#ea431d;font-size:8px;box-sizing:border-box}.navbar__ul__li--has-count:after{content:"";display:inline-block;position:absolute;width:100%;height:100%;border-radius:100%;border:1px solid #ea431d}.navbar__ul__li--has-subnav a>span:after{content:"";margin-left:4px;width:18px;height:18px;display:block;background-image:url(../img/icons/plus.svg);background-size:cover;background-repeat:no-repeat;background-position:50%}.navbar__hover{position:absolute;opacity:0;bottom:90%;margin-bottom:4px;left:0;width:100%;background:#fff;border-radius:4px;padding:22px 66px;transition:all .1s ease;pointer-events:none;box-shadow:0 1px 4px 0 rgba(0,0,0,.18)}.navbar__hover:before{content:"";position:absolute;width:100%;display:block;background:transparent;height:4px;left:0;bottom:-4px}.navbar__hover__link{text-decoration:none;min-width:25%}.navbar__hover__content{display:flex;justify-content:space-between}.navbar__hover .item{display:flex;cursor:pointer}.navbar__hover .item__thumb{width:56px;background-size:cover;display:block;background-position:50%;margin-right:20px;border-radius:4px;background-color:#d3d3d3}.navbar__hover .item__thumb:before{content:"";float:left;padding-bottom:128.57142857%}.navbar__hover .item__thumb:after{content:"";display:table;clear:both}.navbar__hover .item__thumb--big{width:112px}.navbar__hover .item__thumb--big:before{content:"";float:left;padding-bottom:64.28571429%}.navbar__hover .item__thumb--big:after{content:"";display:table;clear:both}.navbar__hover .item__content{display:flex;align-items:flex-start;justify-content:center;flex-direction:column;max-width:200px}.navbar__hover .item .wild-id{margin-bottom:0}.navbar__hover .item__title{color:#1d1d1d;font-family:Sneak;font-size:14px;font-weight:400;font-style:normal;font-stretch:normal;line-height:1.43;letter-spacing:normal;text-align:left}.navbar__contact{display:flex;width:100%;justify-content:space-between;align-items:center}.navbar__contact .wild__link--mail{font-size:40px;font-weight:300;font-style:normal;font-stretch:normal;line-height:1.3;letter-spacing:-.4px;text-decoration:none;color:#1d1d1d}.hero{position:relative;top:96px;height:calc(var(--vh100) - 96px);overflow:hidden}@media (min-width:765px){.hero{top:0;height:100vh;padding-top:0}}.hero .hero__slider__wrapper{height:100%}.hero video{-o-object-fit:cover;object-fit:cover;height:100%;width:100%}.hero .swiper-container{overflow:visible;height:100%;position:relative;margin-left:auto;margin-right:auto;padding:0}.hero .swiper-wrapper{height:100%;position:relative;width:100%;z-index:1}.hero .swiper-slide{display:flex;flex-direction:column;align-items:center;justify-content:flex-start;border-radius:2px;color:#111;height:calc(var(--vh100) - 96px);overflow:hidden}@media (min-width:765px){.hero .swiper-slide{height:100%;width:30vw;max-width:600px;padding-top:112px}}.hero .swiper-slide--work{overflow:hidden}@media (min-width:765px){.hero .swiper-slide--work:hover .work-title{top:0;opacity:1}}@media (min-width:765px){.hero .swiper-slide--work:not(:last-child) .work-slide-inner{margin-right:32px}}.hero .swiper-slide--work .work-slide-inner{width:100%;height:calc(100% - 16px);position:relative;overflow:hidden;border-radius:2px}@media screen and (min-width:765px){.hero .swiper-slide--work .work-slide-inner{height:calc(100% - 16px)}}.hero .swiper-slide--work .work-slide-inner.has-announcement-bar{height:calc(100% - 60px)}@media screen and (min-width:765px){.hero .swiper-slide--work .work-slide-inner.has-announcement-bar{height:calc(100% - 60px)}}.hero .swiper-slide--work .work-title{position:absolute;left:0;top:0;width:100%;height:100%;display:flex;justify-content:flex-end;flex-direction:column;z-index:1;color:#fff;padding:20px;transition:all .4s ease-out;transform:translateZ(0)}@media (min-width:765px){.hero .swiper-slide--work .work-title{padding:40px;top:100%;opacity:0}}.hero .swiper-slide--work .work-title .wild-id{margin-bottom:16px}.hero .swiper-slide--work .work-title h2{font-family:Sneak;color:#fff;font-size:40px;font-weight:400;font-style:normal;font-stretch:normal;line-height:1.3;letter-spacing:-.4px}.hero .swiper-slide--news{width:100%;display:block;position:relative;height:100%}@media (min-width:765px){.hero .swiper-slide--news{width:374px}}.hero .swiper-slide--news .news-inner{position:relative;height:calc(100% - 96px);overflow-y:scroll;padding-bottom:16px;-ms-overflow-style:none;scrollbar-width:none}.hero .swiper-slide--news .news-inner.has-announcement-bar{padding-bottom:60px}@media (min-width:765px){.hero .swiper-slide--news .news-inner{position:absolute;top:0;left:0;right:0;bottom:0;height:100%;padding-top:112px;padding-bottom:16px;padding-right:16px}.hero .swiper-slide--news .news-inner.has-announcement-bar{padding-bottom:60px}}.hero .swiper-slide--news .news-inner::-webkit-scrollbar{display:none}.hero .swiper-slide--news .intro{padding:16px;font-family:Sneak;font-size:24px;font-weight:500;font-style:normal;font-stretch:normal;line-height:1.58;letter-spacing:normal;color:#111;font-weight:400}.hero .swiper-slide--news .intro p{margin:0;padding:0}.hero .swiper-slide--news .intro p:not(:first-child){margin-top:12px}.hero .swiper-slide--news .intro a{font-family:Sneak;font-size:16px;font-weight:400;font-style:normal;font-stretch:normal;line-height:1.25;letter-spacing:normal;color:#111;position:relative;display:inline;text-decoration:none;transition:all .2s ease;white-space:nowrap;font-size:inherit;line-height:inherit}.hero .swiper-slide--news .intro a:before{content:"";position:absolute;left:0;bottom:0;width:100%;height:1px;display:block;background-color:#111;transition:width .2s ease}.hero .swiper-slide--news .intro a:hover:before{width:0}.hero .swiper-slide--news .intro a:before{height:2px}@media (min-width:765px){.hero .swiper-slide--news .intro{line-height:1.17}}.hero .swiper-slide--news .intro-link{padding:0 16px;margin-top:16px;margin-bottom:48px}.hero .swiper-slide--news .intro-link a{font-family:Sneak;font-size:16px;font-weight:400;font-style:normal;font-stretch:normal;line-height:1.25;letter-spacing:normal;background-color:#111;color:#fff;padding:14px 24px;border-radius:2px;text-decoration:none;display:inline-block;transition:all .2s ease}.hero .swiper-slide--news .news-item{background-color:#f6f6f6;border-radius:2px;text-decoration:none;padding:16px;width:100%;margin-bottom:8px;display:flex;align-items:center}.hero .swiper-slide--news .news-item:last-child{margin-bottom:0}.hero .swiper-slide--news .news-item--has-link{transition:all .2s ease}.hero .swiper-slide--news .news-item--has-link:hover{background-color:#f1f1f1}.hero .swiper-slide--news .news-item a{display:flex;align-items:center}.hero .swiper-slide--news .news-item__image{width:72px;height:72px;position:relative;display:inline-block;flex-grow:0;flex-shrink:0}.hero .swiper-slide--news .news-item__image img{border-radius:4px;-o-object-fit:cover;object-fit:cover;position:absolute;left:0;top:0;right:0;bottom:0;height:100%;width:100%}.hero .swiper-slide--news .news-item__content{padding-left:16px}.hero .swiper-slide--news .news-item__date{font-size:12px;color:#9c9c9c}.hero .swiper-slide--news .news-item__copy{font-size:14px;line-height:1.43;text-decoration:none;line-height:20px}.hero .swiper-slide--news .news-item__copy,.hero .swiper-slide--news .news-item__copy .text{color:#111;font-family:Sneak;font-weight:400;font-style:normal;font-stretch:normal;letter-spacing:normal}.hero .swiper-slide--news .news-item__copy .text{font-size:16px;line-height:1.25}.hero .swiper-slide--news .news-item__copy .external-link{position:relative;display:inline-block}.hero .swiper-slide--news .news-item__copy .external-link:after{content:"";margin-left:2px;transform:translateY(1px);width:10px;height:10px;display:inline-block;background-size:cover;background-position:50%;background-repeat:no-repeat;background-image:url(../img/icons/link-external.svg)}@media (min-width:1920px){.hero .swiper-slide--news .intro{padding:16px 32px}.hero .swiper-slide--news .intro-link{padding:0 32px}.hero .swiper-slide--news .news-content{padding:0 16px}}.hero .swiper-slide img{-o-object-fit:cover;object-fit:cover;position:absolute;left:0;top:0;right:0;bottom:0;height:100%;width:100%}
+    </style>
+    <link href="/css/main.css?id=40c9163448434b05be8d" rel="stylesheet" media="no-media">
+  
+  
+  <meta property="pr:id" content="" />
+</head>
+<body>
+  
+
+  <div class="preloder js-preloder">
+  <div class="preloder__canvas">
+<svg enable-background="new 0 0 250 700" viewBox="0 0 250 700" xmlns="http://www.w3.org/2000/svg"><path d="m8 7h213v52h-213z" fill="none"/><g fill="#111"><path d="m90.2 18-6.6 28h-4l-7.6-24.4-7.7 24.4h-4l-6.6-28h3.7l5.1 23.6 7.4-23.6h4.1l7.4 23.6 5.2-23.6z"/><path d="m126.4 16h3.3l-13.8 32h-3.3z"/><g enable-background="new"><path d="m152.4 32c0-7 2.8-14.4 10.6-14.4s10.5 7.4 10.5 14.4c0 6.9-2.8 14.4-10.6 14.4s-10.5-7.5-10.5-14.4zm17.4 0c0-7.3-2.7-11.4-6.9-11.4s-6.9 4-6.9 11.4c0 7.3 2.7 11.3 6.9 11.3 4.3 0 6.9-4 6.9-11.3z"/><path d="m191.6 46h-3.6v-20c-2.1 1.7-5.2 2.8-9.5 3v-3c4.6-.2 10-2 10-7.9h3v27.9z"/><path d="m218 31.4c0 9.7-3.7 15-10.6 15-5.4 0-8.7-4-9.2-8.5h3.2c.3 2.1 1.8 5.5 6.2 5.5 5.1 0 7.2-4.9 7.2-11.4-1.1 2.2-3.5 4.2-7.3 4.2-5 0-9-3.5-9-9.3 0-5.4 3.6-9.2 9.4-9.2 6-.1 10.1 4.3 10.1 13.7zm-4.1-4.4c0-4.2-3-6.4-6.1-6.4-3.4 0-6.1 2.5-6.1 6.4 0 4.1 2.9 6.4 6.1 6.4 3.3-.2 6.1-2.4 6.1-6.4z"/></g></g><circle cx="22" cy="33" fill="#1d1d1d" r="14"/><path d="m8 77h214v52h-214z" fill="none"/><path d="m90.2 88-6.6 28h-4l-7.6-24.4-7.7 24.4h-4l-6.6-28h3.7l5.1 23.6 7.4-23.6h4.1l7.4 23.6 5.2-23.6z" fill="#111"/><path d="m126.4 86h3.3l-13.8 32h-3.3z" fill="#111"/><g enable-background="new" fill="#111"><path d="m152.4 102c0-7 2.8-14.4 10.6-14.4s10.6 7.4 10.6 14.4c0 6.9-2.8 14.4-10.6 14.4s-10.6-7.5-10.6-14.4zm17.4 0c0-7.3-2.7-11.4-6.9-11.4s-6.9 4-6.9 11.4c0 7.3 2.7 11.3 6.9 11.3 4.3 0 6.9-4 6.9-11.3z"/><path d="m196.5 88v2.3l-12.8 25.7h-4l12.6-24.9h-14.7v-3.1z"/><path d="m200 116v-2.4l7.3-6.2c4.3-3.5 7.8-6.6 7.8-11.4 0-3.2-2.1-5.5-5.4-5.5-4.2 0-5.8 3.4-5.5 7.7h-3.5c-.4-5.3 2.4-10.7 9.1-10.7 5.6 0 8.8 3.7 8.8 8.6 0 5.4-3.7 9.2-8.9 13.5l-3.9 3.3h13.5v3z"/></g><circle cx="22" cy="103" fill="#1d1d1d" r="14"/><path d="m8 147h219v52h-219z" fill="none"/><path d="m90.2 158-6.6 28h-4l-7.6-24.4-7.7 24.4h-4l-6.6-28h3.7l5.1 23.6 7.4-23.6h4.1l7.4 23.6 5.2-23.6z" fill="#111"/><path d="m126.4 156h3.3l-13.8 32h-3.3z" fill="#111"/><g enable-background="new" fill="#111"><path d="m152.4 172c0-7 2.8-14.4 10.6-14.4s10.6 7.4 10.6 14.4c0 6.9-2.8 14.4-10.6 14.4s-10.6-7.5-10.6-14.4zm17.4 0c0-7.3-2.7-11.4-6.9-11.4s-6.9 4-6.9 11.4c0 7.3 2.7 11.3 6.9 11.3 4.3 0 6.9-4 6.9-11.3z"/><path d="m178.4 172c0-7 2.8-14.4 10.6-14.4s10.6 7.4 10.6 14.4c0 6.9-2.8 14.4-10.6 14.4s-10.6-7.5-10.6-14.4zm17.5 0c0-7.3-2.7-11.4-6.9-11.4s-6.9 4-6.9 11.4c0 7.3 2.7 11.3 6.9 11.3s6.9-4 6.9-11.3z"/><path d="m225.5 180.2h-4.5v5.8h-3.4v-5.8h-13.5v-2.3l12.2-19.9h4.7v19.3h4.4v2.9zm-7.8-2.9v-16.1l-9.6 16.1z"/></g><circle cx="22" cy="173" fill="#1d1d1d" r="14"/><path d="m8 217h219v52h-219z" fill="none"/><path d="m90.2 228-6.6 28h-4l-7.6-24.4-7.7 24.4h-4l-6.6-28h3.7l5.1 23.6 7.4-23.6h4.1l7.4 23.6 5.2-23.6z" fill="#111"/><path d="m126.4 226h3.3l-13.8 32h-3.3z" fill="#111"/><g enable-background="new" fill="#111"><path d="m152.4 242c0-7 2.8-14.4 10.6-14.4s10.6 7.4 10.6 14.4c0 6.9-2.8 14.4-10.6 14.4s-10.6-7.5-10.6-14.4zm17.4 0c0-7.3-2.7-11.4-6.9-11.4s-6.9 4-6.9 11.4c0 7.3 2.7 11.3 6.9 11.3 4.3 0 6.9-4 6.9-11.3z"/><path d="m198.1 247.4c0 5.9-4.1 9-9.6 9-5.8 0-9.3-3.8-9.8-8.9h3.4c.4 3.1 2.4 5.9 6.6 5.9 3.7 0 6.1-2.1 6.1-5.8 0-4.2-2.4-6.5-6.6-6.5-3.7 0-5.6 2-5.8 2.2l-2.6-1.4 2.1-13.9h14.8v3h-11.8l-1.4 8.8c1.1-.8 2.6-1.6 5.3-1.6 5.5 0 9.3 3.4 9.3 9.2z"/><path d="m203.1 242c0-7 2.8-14.4 10.6-14.4s10.6 7.4 10.6 14.4c0 6.9-2.8 14.4-10.6 14.4s-10.6-7.5-10.6-14.4zm17.4 0c0-7.3-2.7-11.4-6.9-11.4s-6.9 4-6.9 11.4c0 7.3 2.7 11.3 6.9 11.3s6.9-4 6.9-11.3z"/></g><circle cx="22" cy="243" fill="#1d1d1d" r="14"/><path d="m8 287h218v52h-218z" fill="none"/><path d="m90.2 298-6.6 28h-4l-7.6-24.4-7.7 24.4h-4l-6.6-28h3.7l5.1 23.6 7.4-23.6h4.1l7.4 23.6 5.2-23.6z" fill="#111"/><path d="m126.4 296h3.3l-13.8 32h-3.3z" fill="#111"/><g enable-background="new" fill="#111"><path d="m152.4 312c0-7 2.8-14.4 10.6-14.4s10.6 7.4 10.6 14.4c0 6.9-2.8 14.4-10.6 14.4s-10.6-7.5-10.6-14.4zm17.4 0c0-7.3-2.7-11.4-6.9-11.4s-6.9 4-6.9 11.4c0 7.3 2.7 11.3 6.9 11.3 4.3 0 6.9-4 6.9-11.3z"/><path d="m178.5 326v-2.4l7.3-6.2c4.3-3.5 7.8-6.6 7.8-11.4 0-3.2-2.1-5.5-5.4-5.5-4.2 0-5.8 3.4-5.5 7.7h-3.5c-.4-5.3 2.4-10.7 9.1-10.7 5.6 0 8.8 3.7 8.8 8.6 0 5.4-3.7 9.2-8.9 13.5l-3.9 3.3h13.5v3h-19.3z"/><path d="m222.2 319.2c0 4.3-4 7.2-9.1 7.2-5 0-9.1-2.9-9.1-7.2 0-3.4 2.4-5.2 5-6.2-3-1-6-3.1-6-7.2 0-4.8 4.1-8.1 10.2-8.1s10.1 3.3 10.1 8.1c0 4.1-2.9 6.3-6 7.2 2.5 1 4.9 2.8 4.9 6.2zm-12.4-8.6c1 .5 2.1.8 3.3 1 1.2-.2 2.3-.5 3.3-1 2-1 3.1-2.2 3.3-4.7 0-3-2.3-5.4-6.6-5.4s-6.6 2.5-6.6 5.4c0 2.5 1.7 3.9 3.3 4.7zm8.9 8.4c0-2-1.4-3.2-2.8-3.9-.8-.4-1.8-.7-2.8-.9-1 .2-2 .5-2.8.9-1.6.8-2.8 1.8-2.8 3.9 0 2.6 2.1 4.5 5.6 4.5s5.6-1.9 5.6-4.5z"/></g><circle cx="22" cy="313" fill="#1d1d1d" r="14"/><path d="m8 357h212v52h-212z" fill="none"/><path d="m90.2 368-6.6 28h-4l-7.6-24.4-7.7 24.4h-4l-6.6-28h3.7l5.1 23.6 7.4-23.6h4.1l7.4 23.6 5.2-23.6z" fill="#111"/><path d="m126.4 366h3.3l-13.8 32h-3.3z" fill="#111"/><g enable-background="new" fill="#111"><path d="m152.4 382c0-7 2.8-14.4 10.6-14.4s10.6 7.4 10.6 14.4c0 6.9-2.8 14.4-10.6 14.4s-10.6-7.5-10.6-14.4zm17.4 0c0-7.3-2.7-11.4-6.9-11.4s-6.9 4-6.9 11.4c0 7.3 2.7 11.3 6.9 11.3 4.3 0 6.9-4 6.9-11.3z"/><path d="m197.4 389.2c0 4.3-4 7.2-9.1 7.2-5 0-9.1-2.9-9.1-7.2 0-3.4 2.4-5.2 5-6.2-3-1-6-3.1-6-7.2 0-4.8 4.1-8.1 10.2-8.1s10.1 3.3 10.1 8.1c0 4.1-2.9 6.3-6 7.2 2.4 1 4.9 2.8 4.9 6.2zm-12.4-8.6c1 .5 2.1.8 3.3 1 1.2-.2 2.3-.5 3.3-1 2-1 3.1-2.2 3.3-4.7 0-3-2.3-5.4-6.6-5.4s-6.6 2.5-6.6 5.4c-.1 2.5 1.6 3.9 3.3 4.7zm8.9 8.4c0-2-1.4-3.2-2.8-3.9-.8-.4-1.8-.7-2.8-.9-1 .2-2 .5-2.8.9-1.6.8-2.8 1.8-2.8 3.9 0 2.6 2.1 4.5 5.6 4.5s5.6-1.9 5.6-4.5z"/><path d="m215.9 396h-3.6v-20c-2.1 1.7-5.2 2.8-9.5 3v-3c4.6-.2 10-2 10-7.9h3v27.9z"/></g><circle cx="22" cy="383" fill="#1d1d1d" r="14"/><path d="m8 427h212v52h-212z" fill="none"/><path d="m90.2 438-6.6 28h-4l-7.6-24.4-7.7 24.4h-4l-6.6-28h3.7l5.1 23.6 7.4-23.6h4.1l7.4 23.6 5.2-23.6z" fill="#111"/><path d="m126.4 436h3.3l-13.8 32h-3.3z" fill="#111"/><g enable-background="new" fill="#111"><path d="m165.3 466h-3.6v-20c-2.1 1.7-5.2 2.8-9.5 3v-3c4.6-.2 10-2 10-7.9h3v27.9z"/><path d="m171.9 452c0-7 2.8-14.4 10.6-14.4s10.5 7.4 10.5 14.4c0 6.9-2.8 14.4-10.6 14.4s-10.5-7.5-10.5-14.4zm17.4 0c0-7.3-2.7-11.4-6.9-11.4s-6.9 4-6.9 11.4c0 7.3 2.7 11.3 6.9 11.3s6.9-4 6.9-11.3z"/><path d="m198 466v-2.4l7.3-6.2c4.3-3.5 7.8-6.6 7.8-11.4 0-3.2-2.1-5.5-5.4-5.5-4.2 0-5.8 3.4-5.5 7.7h-3.5c-.4-5.3 2.4-10.7 9.1-10.7 5.6 0 8.8 3.7 8.8 8.6 0 5.4-3.7 9.2-8.9 13.5l-3.9 3.3h13.5v3h-19.3z"/></g><circle cx="22" cy="453" fill="#1d1d1d" r="14"/><path d="m8 497h206v52h-206z" fill="none"/><path d="m90.2 508-6.6 28h-4l-7.6-24.4-7.7 24.4h-4l-6.6-28h3.7l5.1 23.6 7.4-23.6h4.1l7.4 23.6 5.2-23.6z" fill="#111"/><path d="m126.4 506h3.3l-13.8 32h-3.3z" fill="#111"/><g enable-background="new" fill="#111"><path d="m152.4 522c0-7 2.8-14.4 10.6-14.4s10.6 7.4 10.6 14.4c0 6.9-2.8 14.4-10.6 14.4s-10.6-7.5-10.6-14.4zm17.4 0c0-7.3-2.7-11.4-6.9-11.4s-6.9 4-6.9 11.4c0 7.3 2.7 11.3 6.9 11.3 4.3 0 6.9-4 6.9-11.3z"/><path d="m191.6 536h-3.6v-20c-2.1 1.7-5.2 2.8-9.5 3v-3c4.6-.2 10-2 10-7.9h3v27.9z"/><path d="m210.5 536h-3.5v-20c-2.1 1.7-5.2 2.8-9.5 3v-3c4.6-.2 10-2 10-7.9h3z"/></g><circle cx="22" cy="523" fill="#1d1d1d" r="14"/><path d="m8 567h220v52h-220z" fill="none"/><path d="m90.2 578-6.6 28h-4l-7.6-24.4-7.7 24.4h-4l-6.6-28h3.7l5.1 23.6 7.4-23.6h4.1l7.4 23.6 5.2-23.6z" fill="#111"/><path d="m126.4 576h3.3l-13.8 32h-3.3z" fill="#111"/><g enable-background="new" fill="#111"><path d="m152.4 592c0-7 2.8-14.4 10.6-14.4s10.6 7.4 10.6 14.4c0 6.9-2.8 14.4-10.6 14.4s-10.6-7.5-10.6-14.4zm17.4 0c0-7.3-2.7-11.4-6.9-11.4s-6.9 4-6.9 11.4c0 7.3 2.7 11.3 6.9 11.3 4.3 0 6.9-4 6.9-11.3z"/><path d="m199 597.2c0 5.4-3.6 9.2-9.4 9.2-6 0-10.2-4.4-10.2-13.8 0-9.7 3.7-15 10.6-15 5.4 0 8.7 3.9 9.2 8.5h-3.2c-.3-2.1-1.8-5.5-6.2-5.5-5.1 0-7.2 4.9-7.2 11.4 1.2-2.1 3.4-4.2 7.3-4.2 5.1 0 9.1 3.6 9.1 9.4zm-3.2-.1c0-4.1-2.9-6.4-6.1-6.4-3.3 0-6.1 2.3-6.1 6.3 0 4.2 3 6.4 6.1 6.4 3.3.1 6.1-2.4 6.1-6.3z"/><path d="m224.7 597.2c0 5.4-3.6 9.2-9.4 9.2-6 0-10.2-4.4-10.2-13.8 0-9.7 3.7-15 10.6-15 5.4 0 8.7 3.9 9.2 8.5h-3.2c-.3-2.1-1.8-5.5-6.2-5.5-5.1 0-7.2 4.9-7.2 11.4 1.2-2.1 3.4-4.2 7.3-4.2 5.1 0 9.1 3.6 9.1 9.4zm-3.3-.1c0-4.1-2.9-6.4-6.1-6.4-3.3 0-6.1 2.3-6.1 6.3 0 4.2 3 6.4 6.1 6.4 3.3.1 6.1-2.4 6.1-6.3z"/></g><circle cx="22" cy="593" fill="#1d1d1d" r="14"/><path d="m8 637h220v52h-220z" fill="none"/><path d="m90.2 648-6.6 28h-4l-7.6-24.4-7.7 24.4h-4l-6.6-28h3.7l5.1 23.6 7.4-23.6h4.1l7.4 23.6 5.2-23.6z" fill="#111"/><path d="m126.4 646h3.3l-13.8 32h-3.3z" fill="#111"/><g enable-background="new" fill="#111"><path d="m152.4 662c0-7 2.8-14.4 10.6-14.4s10.6 7.4 10.6 14.4c0 6.9-2.8 14.4-10.6 14.4s-10.6-7.5-10.6-14.4zm17.4 0c0-7.3-2.7-11.4-6.9-11.4s-6.9 4-6.9 11.4c0 7.3 2.7 11.3 6.9 11.3 4.3 0 6.9-4 6.9-11.3z"/><path d="m178.4 662c0-7 2.8-14.4 10.6-14.4s10.6 7.4 10.6 14.4c0 6.9-2.8 14.4-10.6 14.4s-10.6-7.5-10.6-14.4zm17.5 0c0-7.3-2.7-11.4-6.9-11.4s-6.9 4-6.9 11.4c0 7.3 2.7 11.3 6.9 11.3s6.9-4 6.9-11.3z"/><path d="m204.5 662c0-7 2.8-14.4 10.6-14.4s10.6 7.4 10.6 14.4c0 6.9-2.8 14.4-10.6 14.4s-10.6-7.5-10.6-14.4zm17.4 0c0-7.3-2.7-11.4-6.9-11.4s-6.9 4-6.9 11.4c0 7.3 2.7 11.3 6.9 11.3s6.9-4 6.9-11.3z"/></g><circle cx="22" cy="663" fill="#1d1d1d" r="14"/></svg>  </div>
+</div>
+  <div id="barba-wrapper" data-barba="wrapper">
+    <div class="barba-container errors.404" data-barba="container"
+      data-barba-namespace="errors.404"
+      data-preloder-id="0">
+      <div class="nav nav--light
+  
+  js-nav js-nav-scrollable">
+  <div class="nav__top">
+    <div class="nav__logo">
+      <a href="/">
+
+        <svg class="logo" alt="we are wild gmbh logo" xmlns="http://www.w3.org/2000/svg" width="9.88cm" height="3.79cm"
+          viewBox="0 0 280 107.49">
+          <title>logo-wild</title>
+          <g>
+            <polygon
+              points="85.15 78.09 68.18 34.92 53.04 34.92 36.21 78.09 20.37 34.92 0 34.92 28.71 105.65 42.86 105.65 60.68 63.63 78.36 105.65 92.51 105.65 121.22 34.92 100.86 34.92 85.15 78.09"
+              fill="#231f20" />
+            <rect x="134.41" y="34.92" width="18.67" height="70.73" fill="#231f20" />
+            <rect x="172.69" y="6.63" width="18.81" height="99.02" fill="#231f20" />
+            <path d="M143.69,0a11.18,11.18,0,0,0-11.37,11.5,11.43,11.43,0,0,0,22.87,0A11.38,11.38,0,0,0,143.69,0Z"
+              fill="#231f20" />
+            <path
+              d="M261.33,6.63V43.07a32.25,32.25,0,0,0-23.36-10h-.49l-1.45,0h-.14a22.57,22.57,0,0,0-2.34.21,30.61,30.61,0,0,0-8.29,2.22,29.54,29.54,0,0,0-10.18,7.21,34.45,34.45,0,0,0-6.93,11.67,45.8,45.8,0,0,0-2.54,15.84,45.79,45.79,0,0,0,2.54,15.84,33.82,33.82,0,0,0,7,11.67A30.26,30.26,0,0,0,225.4,105a31.38,31.38,0,0,0,12.45,2.48h.78q.87,0,1.72-.08l.2,0a32.29,32.29,0,0,0,20.77-9.87v8.15H280v-99Zm-4.7,78.15A19.18,19.18,0,0,1,242.8,90.1a20.67,20.67,0,0,1-7.69-1.41,17.83,17.83,0,0,1-6.14-4,18.38,18.38,0,0,1-4.07-6.29,23.12,23.12,0,0,1,0-16.27A18.43,18.43,0,0,1,229,55.86a17.9,17.9,0,0,1,6.14-4,20.71,20.71,0,0,1,7.69-1.41,19.34,19.34,0,0,1,13.83,5.25q5.55,5.25,5.55,14.57T256.63,84.78Z"
+              fill="#231f20" />
+          </g>
+        </svg>
+
+
+      </a>
+    </div>
+    <div class="nav__link">
+      
+    </div>
+    
+    <div class="nav__right">
+      <div class="search-button taptarget js-search-button">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 18 18">
+          <line class="search-button__dash" stroke="#1d1d1d" fill="none" stroke-width="1.5" stroke-linecap="round"
+            stroke-linejoin="round" x1="11.9" y1="11.9" x2="15" y2="15" />
+          <line class="search-button__dash2" stroke="#1d1d1d" fill="none" stroke-width="0" stroke-linecap="round"
+            stroke-linejoin="round" x1="9" y1="9" x2="9" y2="9" />
+          <circle class="search-button__circle" stroke="#1d1d1d" fill="none" stroke-width="1.5" stroke-linecap="round"
+            stroke-linejoin="round" cx="7.2" cy="7.2" r="6.2" />
+        </svg>
+        <span class="nav__text">
+          Directory
+        </span>
+      </div>
+      <div class="burger taptarget js-burger">
+        <svg width="16" height="16" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
+          <g fill="none" stroke="#1c1d1d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5">
+            <path d="m.8.8h14" class="burger__bun burger__bun--first" />
+            <path d="m.8 6.8h14" class="burger__meat" />
+            <path d="m.8 12.8h14" class="burger__bun burger__bun--last" />
+          </g>
+        </svg>
+        <span class="nav__text">
+          MENU
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+      <nav class="menu js-menu js-menu-scrollable">
+  <!-- 
+ -->
+  <div class="menu__top"></div>
+  <div class="menu__content">
+    <div class="menu__content__inner menu__content__inner--no-links">
+       
+      <div class="menu__content__item">
+        <a href="/work" class="js-menu-link menu-link--big">
+          <div class="menu-link__title">
+            Work
+            <span class="menu-link__hover">
+              <span class="wild-id"> W / 000 </span>
+            </span>
+          </div>
+        </a>
+      </div>
+        
+      <div class="menu__content__item">
+        <a href="/about" class="js-menu-link menu-link--big">
+          <div class="menu-link__title">
+            About
+            <span class="menu-link__hover">
+              <span class="wild-id"> A / 000 </span>
+            </span>
+          </div>
+        </a>
+      </div>
+        
+      <div class="menu__content__item">
+        <a href="/labs" class="js-menu-link menu-link--big">
+          <div class="menu-link__title">
+            Labs
+            <span class="menu-link__hover">
+              <span class="wild-id"> L / 000 </span>
+            </span>
+          </div>
+        </a>
+      </div>
+        
+      <div class="menu__content__item">
+        <a href="/jobs" class="js-menu-link menu-link--big">
+          <div class="menu-link__title">
+            Jobs
+            <span class="menu-link__hover">
+              <span class="wild-id"> J / 000 </span>
+            </span>
+          </div>
+        </a>
+      </div>
+        
+      <div class="menu__content__item">
+        <a href="/contact" class="js-menu-link menu-link--big">
+          <div class="menu-link__title">
+            Contact
+            <span class="menu-link__hover">
+              <span class="wild-id"> C / 000 </span>
+            </span>
+          </div>
+        </a>
+      </div>
+        
+    </div>
+  </div>
+  <!--
+
+ -->
+  <div class="menu__footer">
+    <div class="menu__legal">
+       
+      <a href="/privacy" class="js-menu-link">Privacy Policy</a>
+        
+      <a href="/imprint" class="js-menu-link">Imprint</a>
+       
+    </div>
+    
+    <div class="menu__highlighted-button"><a
+  class="highlighted_button js-random-hover-color js-random-hover-color-permanent-effect js-image-sequence-on-hover desktop"
+  href="https://residence.co/"
+  target="_blank"
+>
+  wild is in Residence 
+  <div class="image_sequence js-images-sequence-on-hover-image-wrapper">
+     <picture>
+			<source
+			sizes="(min-width: 1402px) calc(1354px / 12 * 12), calc(((100vw - 48px) / 12 ) * 12)"
+									data-srcset="https://wild-website.b-cdn.net/global/anyways-00.webp?width=640&amp;crop=640,427&amp;quality=90 640w, https://wild-website.b-cdn.net/global/anyways-00.webp?width=768&amp;crop=768,512&amp;quality=90 768w, https://wild-website.b-cdn.net/global/anyways-00.webp?width=1024&amp;crop=1024,683&amp;quality=90 1024w, https://wild-website.b-cdn.net/global/anyways-00.webp?width=1366&amp;crop=1366,911&amp;quality=90 1366w, https://wild-website.b-cdn.net/global/anyways-00.webp?width=1600&amp;crop=1600,1067&amp;quality=90 1600w, https://wild-website.b-cdn.net/global/anyways-00.webp?width=1920&amp;crop=1920,1280&amp;quality=90 1920w"
+					/>
+		<img
+		onload="this.style.backgroundColor='transparent';"
+		loading="lazy"
+		height="600"
+		width="900"
+    	src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDkwMCA2MDAiPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iNjAwIiBmaWxsPSIjZTdlN2U2IiAvPgo8L3N2Zz4="
+		    	data-src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDkwMCA2MDAiPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iNjAwIiBmaWxsPSIjZTdlN2U2IiAvPgo8L3N2Zz4="
+				class="lazyload img-responsive"
+		style="background-color: #e7e7e6;"
+    	alt=""
+    />
+</picture>
+  <picture>
+			<source
+			sizes="(min-width: 1402px) calc(1354px / 12 * 12), calc(((100vw - 48px) / 12 ) * 12)"
+									data-srcset="https://wild-website.b-cdn.net/global/buck-00.webp?width=640&amp;crop=640,360&amp;quality=90 640w, https://wild-website.b-cdn.net/global/buck-00.webp?width=768&amp;crop=768,432&amp;quality=90 768w, https://wild-website.b-cdn.net/global/buck-00.webp?width=1024&amp;crop=1024,576&amp;quality=90 1024w, https://wild-website.b-cdn.net/global/buck-00.webp?width=1366&amp;crop=1366,768&amp;quality=90 1366w, https://wild-website.b-cdn.net/global/buck-00.webp?width=1600&amp;crop=1600,900&amp;quality=90 1600w, https://wild-website.b-cdn.net/global/buck-00.webp?width=1920&amp;crop=1920,1080&amp;quality=90 1920w"
+					/>
+		<img
+		onload="this.style.backgroundColor='transparent';"
+		loading="lazy"
+		height="1080"
+		width="1920"
+    	src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE5MjAgMTA4MCI+CiAgPHJlY3Qgd2lkdGg9IjE5MjAiIGhlaWdodD0iMTA4MCIgZmlsbD0iI2JjYjVlYyIgLz4KPC9zdmc+"
+		    	data-src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE5MjAgMTA4MCI+CiAgPHJlY3Qgd2lkdGg9IjE5MjAiIGhlaWdodD0iMTA4MCIgZmlsbD0iI2JjYjVlYyIgLz4KPC9zdmc+"
+				class="lazyload img-responsive"
+		style="background-color: #bcb5ec;"
+    	alt=""
+    />
+</picture>
+  <picture>
+			<source
+			sizes="(min-width: 1402px) calc(1354px / 12 * 12), calc(((100vw - 48px) / 12 ) * 12)"
+									data-srcset="https://wild-website.b-cdn.net/global/creativelives-00.webp?width=640&amp;crop=640,468&amp;quality=90 640w, https://wild-website.b-cdn.net/global/creativelives-00.webp?width=768&amp;crop=768,561&amp;quality=90 768w, https://wild-website.b-cdn.net/global/creativelives-00.webp?width=1024&amp;crop=1024,748&amp;quality=90 1024w, https://wild-website.b-cdn.net/global/creativelives-00.webp?width=1366&amp;crop=1366,998&amp;quality=90 1366w, https://wild-website.b-cdn.net/global/creativelives-00.webp?width=1600&amp;crop=1600,1169&amp;quality=90 1600w, https://wild-website.b-cdn.net/global/creativelives-00.webp?width=1920&amp;crop=1920,1403&amp;quality=90 1920w"
+					/>
+		<img
+		onload="this.style.backgroundColor='transparent';"
+		loading="lazy"
+		height="1024"
+		width="1401"
+    	src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE0MDEgMTAyNCI+CiAgPHJlY3Qgd2lkdGg9IjE0MDEiIGhlaWdodD0iMTAyNCIgZmlsbD0iI2ZmZmZhOCIgLz4KPC9zdmc+"
+		    	data-src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE0MDEgMTAyNCI+CiAgPHJlY3Qgd2lkdGg9IjE0MDEiIGhlaWdodD0iMTAyNCIgZmlsbD0iI2ZmZmZhOCIgLz4KPC9zdmc+"
+				class="lazyload img-responsive"
+		style="background-color: #ffffa8;"
+    	alt=""
+    />
+</picture>
+  <picture>
+			<source
+			sizes="(min-width: 1402px) calc(1354px / 12 * 12), calc(((100vw - 48px) / 12 ) * 12)"
+									data-srcset="https://wild-website.b-cdn.net/global/giantant-00.webp?width=640&amp;crop=640,467&amp;quality=90 640w, https://wild-website.b-cdn.net/global/giantant-00.webp?width=768&amp;crop=768,561&amp;quality=90 768w, https://wild-website.b-cdn.net/global/giantant-00.webp?width=1024&amp;crop=1024,748&amp;quality=90 1024w, https://wild-website.b-cdn.net/global/giantant-00.webp?width=1366&amp;crop=1366,997&amp;quality=90 1366w, https://wild-website.b-cdn.net/global/giantant-00.webp?width=1600&amp;crop=1600,1168&amp;quality=90 1600w, https://wild-website.b-cdn.net/global/giantant-00.webp?width=1920&amp;crop=1920,1402&amp;quality=90 1920w"
+					/>
+		<img
+		onload="this.style.backgroundColor='transparent';"
+		loading="lazy"
+		height="1050"
+		width="1438"
+    	src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE0MzggMTA1MCI+CiAgPHJlY3Qgd2lkdGg9IjE0MzgiIGhlaWdodD0iMTA1MCIgZmlsbD0iI2E5YTlhOSIgLz4KPC9zdmc+"
+		    	data-src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE0MzggMTA1MCI+CiAgPHJlY3Qgd2lkdGg9IjE0MzgiIGhlaWdodD0iMTA1MCIgZmlsbD0iI2E5YTlhOSIgLz4KPC9zdmc+"
+				class="lazyload img-responsive"
+		style="background-color: #a9a9a9;"
+    	alt=""
+    />
+</picture>
+  <picture>
+			<source
+			sizes="(min-width: 1402px) calc(1354px / 12 * 12), calc(((100vw - 48px) / 12 ) * 12)"
+									data-srcset="https://wild-website.b-cdn.net/global/ifyoucould-00.webp?width=640&amp;crop=640,467&amp;quality=90 640w, https://wild-website.b-cdn.net/global/ifyoucould-00.webp?width=768&amp;crop=768,561&amp;quality=90 768w, https://wild-website.b-cdn.net/global/ifyoucould-00.webp?width=1024&amp;crop=1024,748&amp;quality=90 1024w, https://wild-website.b-cdn.net/global/ifyoucould-00.webp?width=1366&amp;crop=1366,997&amp;quality=90 1366w, https://wild-website.b-cdn.net/global/ifyoucould-00.webp?width=1600&amp;crop=1600,1168&amp;quality=90 1600w, https://wild-website.b-cdn.net/global/ifyoucould-00.webp?width=1920&amp;crop=1920,1402&amp;quality=90 1920w"
+					/>
+		<img
+		onload="this.style.backgroundColor='transparent';"
+		loading="lazy"
+		height="1050"
+		width="1438"
+    	src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE0MzggMTA1MCI+CiAgPHJlY3Qgd2lkdGg9IjE0MzgiIGhlaWdodD0iMTA1MCIgZmlsbD0iI2Y2ZjdlZSIgLz4KPC9zdmc+"
+		    	data-src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE0MzggMTA1MCI+CiAgPHJlY3Qgd2lkdGg9IjE0MzgiIGhlaWdodD0iMTA1MCIgZmlsbD0iI2Y2ZjdlZSIgLz4KPC9zdmc+"
+				class="lazyload img-responsive"
+		style="background-color: #f6f7ee;"
+    	alt=""
+    />
+</picture>
+  <picture>
+			<source
+			sizes="(min-width: 1402px) calc(1354px / 12 * 12), calc(((100vw - 48px) / 12 ) * 12)"
+									data-srcset="https://wild-website.b-cdn.net/global/itsnicethat-00.webp?width=640&amp;crop=640,467&amp;quality=90 640w, https://wild-website.b-cdn.net/global/itsnicethat-00.webp?width=768&amp;crop=768,561&amp;quality=90 768w, https://wild-website.b-cdn.net/global/itsnicethat-00.webp?width=1024&amp;crop=1024,748&amp;quality=90 1024w, https://wild-website.b-cdn.net/global/itsnicethat-00.webp?width=1366&amp;crop=1366,997&amp;quality=90 1366w, https://wild-website.b-cdn.net/global/itsnicethat-00.webp?width=1600&amp;crop=1600,1168&amp;quality=90 1600w, https://wild-website.b-cdn.net/global/itsnicethat-00.webp?width=1920&amp;crop=1920,1402&amp;quality=90 1920w"
+					/>
+		<img
+		onload="this.style.backgroundColor='transparent';"
+		loading="lazy"
+		height="1050"
+		width="1438"
+    	src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE0MzggMTA1MCI+CiAgPHJlY3Qgd2lkdGg9IjE0MzgiIGhlaWdodD0iMTA1MCIgZmlsbD0iI2VkZTFkZCIgLz4KPC9zdmc+"
+		    	data-src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE0MzggMTA1MCI+CiAgPHJlY3Qgd2lkdGg9IjE0MzgiIGhlaWdodD0iMTA1MCIgZmlsbD0iI2VkZTFkZCIgLz4KPC9zdmc+"
+				class="lazyload img-responsive"
+		style="background-color: #ede1dd;"
+    	alt=""
+    />
+</picture>
+  <picture>
+			<source
+			sizes="(min-width: 1402px) calc(1354px / 12 * 12), calc(((100vw - 48px) / 12 ) * 12)"
+									data-srcset="https://wild-website.b-cdn.net/global/partandsum-00.jpg?width=640&amp;crop=640,360&amp;quality=90 640w, https://wild-website.b-cdn.net/global/partandsum-00.jpg?width=768&amp;crop=768,432&amp;quality=90 768w, https://wild-website.b-cdn.net/global/partandsum-00.jpg?width=1024&amp;crop=1024,576&amp;quality=90 1024w, https://wild-website.b-cdn.net/global/partandsum-00.jpg?width=1366&amp;crop=1366,768&amp;quality=90 1366w, https://wild-website.b-cdn.net/global/partandsum-00.jpg?width=1600&amp;crop=1600,900&amp;quality=90 1600w, https://wild-website.b-cdn.net/global/partandsum-00.jpg?width=1920&amp;crop=1920,1080&amp;quality=90 1920w"
+					/>
+		<img
+		onload="this.style.backgroundColor='transparent';"
+		loading="lazy"
+		height="720"
+		width="1280"
+    	src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDEyODAgNzIwIj4KICA8cmVjdCB3aWR0aD0iMTI4MCIgaGVpZ2h0PSI3MjAiIGZpbGw9IiNkZGVmZmMiIC8+Cjwvc3ZnPg=="
+		    	data-src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDEyODAgNzIwIj4KICA8cmVjdCB3aWR0aD0iMTI4MCIgaGVpZ2h0PSI3MjAiIGZpbGw9IiNkZGVmZmMiIC8+Cjwvc3ZnPg=="
+				class="lazyload img-responsive"
+		style="background-color: #ddeffc;"
+    	alt=""
+    />
+</picture>
+  <picture>
+			<source
+			sizes="(min-width: 1402px) calc(1354px / 12 * 12), calc(((100vw - 48px) / 12 ) * 12)"
+									data-srcset="https://wild-website.b-cdn.net/global/vtprodesign-00.webp?width=640&amp;crop=640,467&amp;quality=90 640w, https://wild-website.b-cdn.net/global/vtprodesign-00.webp?width=768&amp;crop=768,561&amp;quality=90 768w, https://wild-website.b-cdn.net/global/vtprodesign-00.webp?width=1024&amp;crop=1024,748&amp;quality=90 1024w, https://wild-website.b-cdn.net/global/vtprodesign-00.webp?width=1366&amp;crop=1366,997&amp;quality=90 1366w, https://wild-website.b-cdn.net/global/vtprodesign-00.webp?width=1600&amp;crop=1600,1168&amp;quality=90 1600w, https://wild-website.b-cdn.net/global/vtprodesign-00.webp?width=1920&amp;crop=1920,1402&amp;quality=90 1920w"
+					/>
+		<img
+		onload="this.style.backgroundColor='transparent';"
+		loading="lazy"
+		height="1050"
+		width="1438"
+    	src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE0MzggMTA1MCI+CiAgPHJlY3Qgd2lkdGg9IjE0MzgiIGhlaWdodD0iMTA1MCIgZmlsbD0iI2E5YWJhYyIgLz4KPC9zdmc+"
+		    	data-src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE0MzggMTA1MCI+CiAgPHJlY3Qgd2lkdGg9IjE0MzgiIGhlaWdodD0iMTA1MCIgZmlsbD0iI2E5YWJhYyIgLz4KPC9zdmc+"
+				class="lazyload img-responsive"
+		style="background-color: #a9abac;"
+    	alt=""
+    />
+</picture>
+ 
+  </div>
+  
+</a>
+</div>
+    
+    <div class="menu__social"><div class="social  ">
+    <a href="https://twitter.com/madebywild" target="_blank" rel="noopener nofollow" class="social__link social__link--t"></a>
+    <a href="https://github.com/madebywild" target="_blank" rel="noopener nofollow" class="social__link social__link--g"></a>
+    <a href="https://www.instagram.com/madebywild/" target="_blank" rel="noopener nofollow" class="social__link social__link--i"></a>
+    <a href="https://medium.com/madebywild" target="_blank" rel="noopener nofollow" class="social__link social__link--m"></a>
+    <a href="https://www.linkedin.com/company/we-are-wild-gmbh" target="_blank" rel="noopener nofollow" class="social__link social__link--lin"></a>
+</div></div>
+  </div>
+  
+  <div class="menu__highlighted-button"><a
+  class="highlighted_button js-random-hover-color js-random-hover-color-permanent-effect js-image-sequence-on-hover mobile"
+  href="https://residence.co/"
+  target="_blank"
+>
+  wild is in Residence 
+</a>
+</div>
+  
+</nav>
+
+      <section class="search js-search">
+  <div class="container">
+    <div class="row search__input__row">
+      <div class="gr-24 ">
+        <div class="search__input__wrapper">
+          <form action="" class="search-form js-search-form">
+            <input class="search__input js-search-input" type="text" placeholder="Start typing">
+          </form>
+          <div class="search__input__text">
+            <input class="search__input__text__autocomplete js-search-input-autocomplete" type="text">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row row-full">
+      <div class="search__line"></div>
+    </div>
+    <div class="row">
+      <div class="gr-24">
+        <div class="search__section js-search-content">
+          <ul class="search__ul">
+            <li class="search__li search__li--first">
+              <a href="/work" class="ga-search-link">
+                <span class="search__section__title js-collection js-collection-projects ">
+                  Work
+                </span>
+              </a>
+            </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Red Bull: Mind Gamers Platform" data-content="Red Bull: Mind Gamers Platform"
+                data-extra="" data-wild="W / 001
+" id="3f1f3ab9-8bef-48e8-8338-e3e3fe65713d">
+                <a href="/work/red-bull-mind-gamers" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 001
+
+                    </span>
+                    <span class="title__headline">
+                      Red Bull: Mind Gamers Platform
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Falter’s Inferno" data-content="Falter’s Inferno"
+                data-extra="" data-wild="W / 002
+" id="c2447287-256a-414a-a909-b53589388251">
+                <a href="/work/falter" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 002
+
+                    </span>
+                    <span class="title__headline">
+                      Falter’s Inferno
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Squarespace: Playing Lynch" data-content="Squarespace: Playing Lynch"
+                data-extra="" data-wild="W / 003
+" id="cc0fb618-5f03-4eda-a14a-74535545519e">
+                <a href="/work/playing-lynch" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 003
+
+                    </span>
+                    <span class="title__headline">
+                      Squarespace: Playing Lynch
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="110 Prozent: Interactive Magazine" data-content="110 Prozent: Interactive Magazine"
+                data-extra="" data-wild="W / 004
+" id="bf3795cb-eef3-4479-bcf9-5232152a8178">
+                <a href="/work/110-prozent" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 004
+
+                    </span>
+                    <span class="title__headline">
+                      110 Prozent: Interactive Magazine
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Google: Konterball" data-content="Google: Konterball"
+                data-extra="" data-wild="W / 005
+" id="e367908f-9f2c-49cd-bff9-bc02b75f3545">
+                <a href="/work/google-konterball" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 005
+
+                    </span>
+                    <span class="title__headline">
+                      Google: Konterball
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Schullin: My Diamond Ring" data-content="Schullin: My Diamond Ring"
+                data-extra="" data-wild="W / 006
+" id="ea4a1bb0-0be2-4654-9dbd-ff8adf53a029">
+                <a href="/work/schullin" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 006
+
+                    </span>
+                    <span class="title__headline">
+                      Schullin: My Diamond Ring
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Keego: A Bottle Made for Sport" data-content="Keego: A Bottle Made for Sport"
+                data-extra="" data-wild="W / 007
+" id="87232e91-bd06-46fe-811b-c982694f6ac9">
+                <a href="/work/keego" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 007
+
+                    </span>
+                    <span class="title__headline">
+                      Keego: A Bottle Made for Sport
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Feinkoch: A Recipe Platform" data-content="Feinkoch: A Recipe Platform"
+                data-extra="" data-wild="W / 008
+" id="c16c7418-daeb-4a9b-824b-06070f5cb689">
+                <a href="/work/feinkoch" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 008
+
+                    </span>
+                    <span class="title__headline">
+                      Feinkoch: A Recipe Platform
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="In-Vision Site Redesign" data-content="In-Vision Site Redesign"
+                data-extra="" data-wild="W / 009
+" id="32adf037-30e8-4aa9-b166-df774183bc4c">
+                <a href="/work/in-vision" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 009
+
+                    </span>
+                    <span class="title__headline">
+                      In-Vision Site Redesign
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Accor Hotels: Seeker Project" data-content="Accor Hotels: Seeker Project"
+                data-extra="" data-wild="W / 010
+" id="bd84f551-36d4-4fac-a4a3-c1e4d1d03403">
+                <a href="/work/seeker-project" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 010
+
+                    </span>
+                    <span class="title__headline">
+                      Accor Hotels: Seeker Project
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Samsung: Do What You Can’t" data-content="Samsung: Do What You Can’t"
+                data-extra="" data-wild="W / 012
+" id="fa81381d-fb1f-4a33-9471-0d4906b38946">
+                <a href="/work/samsung-do-what-you-cant" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 012
+
+                    </span>
+                    <span class="title__headline">
+                      Samsung: Do What You Can’t
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Four Paws: Ruthless Campaign" data-content="Four Paws: Ruthless Campaign"
+                data-extra="" data-wild="W / 013
+" id="a8bab5ce-8087-4a79-8d42-f19d1f362a35">
+                <a href="/work/four-paws-ruthless" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 013
+
+                    </span>
+                    <span class="title__headline">
+                      Four Paws: Ruthless Campaign
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Bruegel: An Exhibition Site" data-content="Bruegel: An Exhibition Site"
+                data-extra="" data-wild="W / 014
+" id="3c80b41e-2724-49f2-b824-6e0896199807">
+                <a href="/work/khm-bruegel" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 014
+
+                    </span>
+                    <span class="title__headline">
+                      Bruegel: An Exhibition Site
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="200 Years Erste Bank" data-content="200 Years Erste Bank"
+                data-extra="" data-wild="W / 015
+" id="7e802a91-08a6-4038-bdb2-05aebe05b469">
+                <a href="/work/erste-bank-200-jahre" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 015
+
+                    </span>
+                    <span class="title__headline">
+                      200 Years Erste Bank
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Expensify Th!$" data-content="Expensify Th!$"
+                data-extra="" data-wild="W / 016
+" id="d116e7af-fe6f-4e4c-9ee6-dcd89c2ae04e">
+                <a href="/work/expensify" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 016
+
+                    </span>
+                    <span class="title__headline">
+                      Expensify Th!$
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="GetYourGuide Awards" data-content="GetYourGuide Awards"
+                data-extra="" data-wild="W / 017
+" id="e07f9c71-e4e5-4a28-a6fd-ac0c3b4cfb63">
+                <a href="/work/getyourguide-awards" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 017
+
+                    </span>
+                    <span class="title__headline">
+                      GetYourGuide Awards
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Alzheimer’s Association: Our Stories" data-content="Alzheimer’s Association: Our Stories"
+                data-extra="" data-wild="W / 018
+" id="f0bbb2b9-de80-4825-b8bf-2d638f9487c8">
+                <a href="/work/alzheimer" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 018
+
+                    </span>
+                    <span class="title__headline">
+                      Alzheimer’s Association: Our Stories
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Chobani Foodservice" data-content="Chobani Foodservice"
+                data-extra="" data-wild="W / 019
+" id="cab162db-aef9-422f-bd40-7c4a91ecce4a">
+                <a href="/work/chobani-foodservice" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 019
+
+                    </span>
+                    <span class="title__headline">
+                      Chobani Foodservice
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Spotify & SoundGirls: Make it EQL Directory" data-content="Spotify & SoundGirls: Make it EQL Directory"
+                data-extra="" data-wild="W / 020
+" id="92a01b7a-86f0-4ffa-8044-cdefa292d464">
+                <a href="/work/spotify-eql" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 020
+
+                    </span>
+                    <span class="title__headline">
+                      Spotify & SoundGirls: Make it EQL Directory
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="100 Years of Viennese Modernism" data-content="100 Years of Viennese Modernism"
+                data-extra="" data-wild="W / 021
+" id="20b60249-a1e2-4d73-8383-1a989da77897">
+                <a href="/work/viennese-modernism" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 021
+
+                    </span>
+                    <span class="title__headline">
+                      100 Years of Viennese Modernism
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Which One Am I Now Magazine" data-content="Which One Am I Now Magazine"
+                data-extra="" data-wild="W / 022
+" id="62109504-475a-40ac-b47f-4e7d92089cc9">
+                <a href="/work/zine" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 022
+
+                    </span>
+                    <span class="title__headline">
+                      Which One Am I Now Magazine
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Moët Hennessy: Volcán Tequila" data-content="Moët Hennessy: Volcán Tequila"
+                data-extra="" data-wild="W / 040
+" id="161607cf-5845-4d95-acde-9bfc51570935">
+                <a href="/work/volcan-tequila" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 040
+
+                    </span>
+                    <span class="title__headline">
+                      Moët Hennessy: Volcán Tequila
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Sabah Shoes: E-Commerce" data-content="Sabah Shoes: E-Commerce"
+                data-extra="" data-wild="W / 046
+" id="7cfe5d45-bce0-4118-a3c4-eaff6345dc28">
+                <a href="/work/sabah" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 046
+
+                    </span>
+                    <span class="title__headline">
+                      Sabah Shoes: E-Commerce
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="H&M x Role Models" data-content="H&M x Role Models"
+                data-extra="" data-wild="W / 060
+" id="51297a56-49c5-46ab-8932-864810e901e8">
+                <a href="/work/hm" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 060
+
+                    </span>
+                    <span class="title__headline">
+                      H&M x Role Models
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="" data-content=""
+                data-extra="" data-wild="W / 066
+" id="f55dd92f-f4ee-4e43-a30b-8e3ac7c3bfe1">
+                <a href="/work/kindred-motorworks" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 066
+
+                    </span>
+                    <span class="title__headline">
+                      
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Nutrafol: Brand Refresh" data-content="Nutrafol: Brand Refresh"
+                data-extra="" data-wild="W / 080
+" id="ca4df6c1-0606-464a-9d4f-8747fcdd140a">
+                <a href="/work/nutrafol" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 080
+
+                    </span>
+                    <span class="title__headline">
+                      Nutrafol: Brand Refresh
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="PrimaHealth Credit" data-content="PrimaHealth Credit"
+                data-extra="" data-wild="W / 084
+" id="64a1305d-8609-4eeb-875d-10d2ffda2047">
+                <a href="/work/primahealth-credit-more-care-for-more-people" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 084
+
+                    </span>
+                    <span class="title__headline">
+                      PrimaHealth Credit
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Oculus Quest Day" data-content="Oculus Quest Day"
+                data-extra="" data-wild="W / 093
+" id="8c695d67-9a00-423f-a757-dfd45432ab25">
+                <a href="/work/oculus-quest-day-2021" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 093
+
+                    </span>
+                    <span class="title__headline">
+                      Oculus Quest Day
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Le Labo: Le Journal Society" data-content="Le Labo: Le Journal Society"
+                data-extra="" data-wild="W / 096
+" id="c90c21be-4036-4e93-b8ed-0a5b14c1f138">
+                <a href="/work/le-journal-society" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 096
+
+                    </span>
+                    <span class="title__headline">
+                      Le Labo: Le Journal Society
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Tersa" data-content="Tersa"
+                data-extra="" data-wild="W / 121
+" id="284ac250-f124-44a6-add1-cf0328575d5e">
+                <a href="/work/tersa" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 121
+
+                    </span>
+                    <span class="title__headline">
+                      Tersa
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Overheard" data-content="Overheard"
+                data-extra="" data-wild="W / 124
+" id="ec5d7174-dec8-40fd-a86c-918d16c306bb">
+                <a href="/work/overheard" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 124
+
+                    </span>
+                    <span class="title__headline">
+                      Overheard
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Transforming Cowboy State Daily" data-content="Transforming Cowboy State Daily"
+                data-extra="" data-wild="W / 145
+" id="ed174de2-18a1-4a4a-9b98-cc80d7a10bd4">
+                <a href="/work/cowboy-state-daily" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 145
+
+                    </span>
+                    <span class="title__headline">
+                      Transforming Cowboy State Daily
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="100 years OEBB" data-content="100 years OEBB"
+                data-extra="" data-wild="W / 164
+" id="50269c86-3389-4c6a-b5f6-c3561bedb061">
+                <a href="/work/oebb-history" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 164
+
+                    </span>
+                    <span class="title__headline">
+                      100 years OEBB
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="IKEA x Cömmunity" data-content="IKEA x Cömmunity"
+                data-extra="" data-wild="W / 174
+" id="be0c1127-0fef-4d3f-919d-28efe5731dd9">
+                <a href="/work/ikea" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 174
+
+                    </span>
+                    <span class="title__headline">
+                      IKEA x Cömmunity
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Getty: PST ART" data-content="Getty: PST ART"
+                data-extra="" data-wild="W / 177
+" id="9bb9cd3f-a9ad-4250-9443-bc0a627655aa">
+                <a href="/work/pst-art-getty" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 177
+
+                    </span>
+                    <span class="title__headline">
+                      Getty: PST ART
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Ouster" data-content="Ouster"
+                data-extra="" data-wild="W / 211
+" id="095571a2-9a06-427f-bf0c-566cf9f87ea8">
+                <a href="/work/ouster" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 211
+
+                    </span>
+                    <span class="title__headline">
+                      Ouster
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="British Airways – Holiday Campagin" data-content="British Airways – Holiday Campagin"
+                data-extra="" data-wild="W / 309
+" id="59962845-bc20-40fa-84c9-cd9a31fedb18">
+                <a href="/work/british-airways-holiday-campaign" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 309
+
+                    </span>
+                    <span class="title__headline">
+                      British Airways – Holiday Campagin
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Bain Capital Ventures" data-content="Bain Capital Ventures"
+                data-extra="" data-wild="W / 333
+" id="f0cd5c95-6d64-416c-b082-6a602d719a2f">
+                <a href="/work/bain-capital-ventures" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 333
+
+                    </span>
+                    <span class="title__headline">
+                      Bain Capital Ventures
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="The Ordinary — The Truth Should Be Ordinary" data-content="The Ordinary — The Truth Should Be Ordinary"
+                data-extra="" data-wild="W / 355
+" id="ad2d13b6-dfc3-4bad-a040-a9e1887c8b76">
+                <a href="/work/the-ordinary" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 355
+
+                    </span>
+                    <span class="title__headline">
+                      The Ordinary — The Truth Should Be Ordinary
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Nutrafol Skin" data-content="Nutrafol Skin"
+                data-extra="" data-wild="W / 370
+" id="4a6f366d-5698-4211-b3ba-bc4974dc8d6f">
+                <a href="/work/nutrafol-skin" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 370
+
+                    </span>
+                    <span class="title__headline">
+                      Nutrafol Skin
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Freaks of Nature – Website" data-content="Freaks of Nature – Website"
+                data-extra="" data-wild="W / 382
+" id="54eae33a-be3f-43f6-b06d-8943cddc823e">
+                <a href="/work/freaks-of-nature" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 382
+
+                    </span>
+                    <span class="title__headline">
+                      Freaks of Nature – Website
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Nutrafol – Brand Refresh" data-content="Nutrafol – Brand Refresh"
+                data-extra="" data-wild="W / 407
+" id="41161157-4ece-40e0-bc84-778bdf7bb243">
+                <a href="/work/nutrafol-brand-refresh" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 407
+
+                    </span>
+                    <span class="title__headline">
+                      Nutrafol – Brand Refresh
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="ME – Holiday Campaign" data-content="ME – Holiday Campaign"
+                data-extra="" data-wild="W / 550
+" id="04c85237-7a44-4c1d-b2ad-b96e6887a6bb">
+                <a href="/work/me-holiday-campaign" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 550
+
+                    </span>
+                    <span class="title__headline">
+                      ME – Holiday Campaign
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="IBM - watsonx.data" data-content="IBM - watsonx.data"
+                data-extra="" data-wild="W / 725
+" id="c3aa3748-d6e5-45a1-ba01-d9359fe23e2c">
+                <a href="/work/ibm-watsonxdata" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 725
+
+                    </span>
+                    <span class="title__headline">
+                      IBM - watsonx.data
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Creative Lives In Progress – An Inclusive Creative Resource" data-content="Creative Lives In Progress – An Inclusive Creative Resource"
+                data-extra="" data-wild="W / 743
+" id="430558f5-78e6-4c3b-9789-25441278cdaf">
+                <a href="/work/creative-lives-in-progress" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 743
+
+                    </span>
+                    <span class="title__headline">
+                      Creative Lives In Progress – An Inclusive Creative Resource
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Replit - Agent 3" data-content="Replit - Agent 3"
+                data-extra="" data-wild="W / 751
+" id="7135ea3d-63de-4ee2-842e-a58cc08de323">
+                <a href="/work/replit-agent-3" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 751
+
+                    </span>
+                    <span class="title__headline">
+                      Replit - Agent 3
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Unstructured Website" data-content="Unstructured Website"
+                data-extra="" data-wild="W / 759
+" id="a864d268-1b69-4f8f-9bce-c02fbf2e4262">
+                <a href="/work/unstructured-website" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 759
+
+                    </span>
+                    <span class="title__headline">
+                      Unstructured Website
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="IPS" data-content="IPS"
+                data-extra="" data-wild="W / 760
+" id="ad08abdb-e738-4c81-bd99-371d7cc2f649">
+                <a href="/work/ips" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 760
+
+                    </span>
+                    <span class="title__headline">
+                      IPS
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item "
+                data-collection="projects" data-title="Serve Robotics" data-content="Serve Robotics"
+                data-extra="" data-wild="W / 761
+" id="90106322-031a-4209-8431-58f6b5c346a3">
+                <a href="/work/serve-robotics" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 761
+
+                    </span>
+                    <span class="title__headline">
+                      Serve Robotics
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+              <li class="search__li js-search-item search__li--last"
+                data-collection="projects" data-title="Amulet" data-content="Amulet"
+                data-extra="" data-wild="W / 773
+" id="af805608-711a-4e2a-85b4-c348a52793cb">
+                <a href="/work/amulet" class="search__target-link ga-search-link">
+                  <div class="title">
+                    <span class="wild-id wild-id--light">
+                      W / 773
+
+                    </span>
+                    <span class="title__headline">
+                      Amulet
+                    </span>
+                  </div>
+                </a>
+              </li>
+            
+            <li class="search__li search__li--first">
+              <a href="/about" class="ga-search-link">
+                <span class="search__section__title js-collection js-collection-news ">
+                  About
+                </span>
+              </a>
+            </li>
+            <li class="search__li js-search-item search__li--last" data-collection=""
+              data-title="about" data-content="about" data-extra=""
+              data-wild=" / " id="eb4bfb29-e28d-4efc-af8e-fc42ce71276f">
+              <a href="/about" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    A / 000
+                  </span>
+                  <span class="title__headline">About</span>
+                </div>
+              </a>
+            </li>
+            <li class="search__li search__li--first">
+              <a href="/news" class="ga-search-link">
+                <span class="search__section__title js-collection js-collection-news ">
+                  News
+                </span>
+              </a>
+            </li>
+            
+            <li class="search__li  js-search-item "
+              data-collection="news" data-title="The Joy of Building Software That’s Useless" data-content="The Joy of Building Software That’s Useless" data-extra=""
+              data-wild="L / 001
+" id="fe31e172-8d5c-4e0e-aebe-348e07646fdf">
+              <a href="/labs/the-joy-of-building-software-thats-useless" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    L / 001
+
+                  </span>
+                  <span class="title__headline">The Joy of Building Software That’s Useless</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li  js-search-item "
+              data-collection="news" data-title="Unleash the Kimis!" data-content="Unleash the Kimis!" data-extra=""
+              data-wild="L / 002
+" id="93707f34-47e9-4188-9795-235e2e22b58f">
+              <a href="/labs/unleash-the-kimis" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    L / 002
+
+                  </span>
+                  <span class="title__headline">Unleash the Kimis!</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li  js-search-item "
+              data-collection="news" data-title="What's Sub?" data-content="What's Sub?" data-extra=""
+              data-wild="L / 003
+" id="437c663a-3a17-41d0-a9b1-9737fb61b607">
+              <a href="/labs/what-s-sub" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    L / 003
+
+                  </span>
+                  <span class="title__headline">What's Sub?</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li  js-search-item "
+              data-collection="news" data-title="MARCH: Vibe-coding a tool for purpose and protest" data-content="MARCH: Vibe-coding a tool for purpose and protest" data-extra=""
+              data-wild="L / 004
+" id="751d08e8-4dc1-455f-9ff1-e89a99d16f27">
+              <a href="/labs/march-vibe-coding-a-tool-for-purpose-and-protest" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    L / 004
+
+                  </span>
+                  <span class="title__headline">MARCH: Vibe-coding a tool for purpose and protest</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li  js-search-item "
+              data-collection="news" data-title="Wait, They’re Caching LLM Outputs?" data-content="Wait, They’re Caching LLM Outputs?" data-extra=""
+              data-wild="L / 005
+" id="6c78e522-1660-4bfe-a1e8-d60d1d8c6021">
+              <a href="/labs/wait-they-re-caching-llm-outputs" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    L / 005
+
+                  </span>
+                  <span class="title__headline">Wait, They’re Caching LLM Outputs?</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li  js-search-item "
+              data-collection="news" data-title="Whitepaper: AI in regulated Industries" data-content="Whitepaper: AI in regulated Industries" data-extra=""
+              data-wild="L / 006
+" id="9b9413a2-3a28-459e-89ed-033a6cca1131">
+              <a href="/labs/ai-regulated-industries-whitepaper" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    L / 006
+
+                  </span>
+                  <span class="title__headline">Whitepaper: AI in regulated Industries</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li  js-search-item "
+              data-collection="news" data-title="Building Wild Week Athens - From Experiment to Reality" data-content="Building Wild Week Athens - From Experiment to Reality" data-extra=""
+              data-wild="L / 007
+" id="d8559843-656d-4ec7-a17a-bc93caf659e8">
+              <a href="/labs/building-wild-week-athens" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    L / 007
+
+                  </span>
+                  <span class="title__headline">Building Wild Week Athens - From Experiment to Reality</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li  js-search-item "
+              data-collection="news" data-title="Smashing Insights on Building Design Systems with AI" data-content="Smashing Insights on Building Design Systems with AI" data-extra=""
+              data-wild="L / 008
+" id="860829b1-ed2c-4e14-b499-7b5641bb84de">
+              <a href="/labs/smashing-insights-on-building-design-systems-with-ai" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    L / 008
+
+                  </span>
+                  <span class="title__headline">Smashing Insights on Building Design Systems with AI</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li  js-search-item search__li--last"
+              data-collection="news" data-title="Building a Reliable Asset Pipeline" data-content="Building a Reliable Asset Pipeline" data-extra=""
+              data-wild="L / 009
+" id="afd9b80c-7339-4793-be5e-59629e7c4ed7">
+              <a href="/labs/building-a-reliable-asset-pipeline" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    L / 009
+
+                  </span>
+                  <span class="title__headline">Building a Reliable Asset Pipeline</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li search__li--first">
+              <span class="search__section__title js-collection js-collection-random">
+                Random
+              </span>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="random" data-title="Nipple" data-content="Nipple"
+              data-wild="R / 004
+" id="1d38a721-dd08-4198-88f4-d813872fcfe0">
+              <a href="/random/nipple" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    R / 004
+
+                  </span>
+                  <span class="title__headline">Nipple</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="random" data-title="Supperlüpy" data-content="Supperlüpy"
+              data-wild="R / 007
+" id="5662e10e-7e59-4165-b598-712a5cd9016e">
+              <a href="/random/supperluepy" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    R / 007
+
+                  </span>
+                  <span class="title__headline">Supperlüpy</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="random" data-title="Henry the dog" data-content="Henry the dog"
+              data-wild="R / 011
+" id="0ce19aef-29eb-48a8-8d25-27c67bf50d37">
+              <a href="/random/henry-the-dog" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    R / 011
+
+                  </span>
+                  <span class="title__headline">Henry the dog</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="random" data-title="Club Hoho" data-content="Club Hoho"
+              data-wild="R / 012
+" id="8680e639-7add-4333-99e3-6cd55fb102d9">
+              <a href="/random/club-hoho" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    R / 012
+
+                  </span>
+                  <span class="title__headline">Club Hoho</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="random" data-title="Wild Spezial" data-content="Wild Spezial"
+              data-wild="R / 013
+" id="8bed2ae4-dc68-4cef-aae3-64bd3d3c5321">
+              <a href="/random/wild-spezial" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    R / 013
+
+                  </span>
+                  <span class="title__headline">Wild Spezial</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="random" data-title="Studio Zeltgasse" data-content="Studio Zeltgasse"
+              data-wild="R / 014
+" id="546e879e-ef4b-4cdd-91e8-546ab7493b03">
+              <a href="/random/studio-zeltgasse" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    R / 014
+
+                  </span>
+                  <span class="title__headline">Studio Zeltgasse</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="random" data-title="Not good at doing normal things" data-content="Not good at doing normal things"
+              data-wild="R / 015
+" id="3405b9ea-8ebd-49cf-a729-1adcd333e4f4">
+              <a href="/random/not-good-at-doing-normal-things" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    R / 015
+
+                  </span>
+                  <span class="title__headline">Not good at doing normal things</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item search__li--last"
+              data-collection="random" data-title="Mein Honig" data-content="Mein Honig"
+              data-wild="R / 015
+" id="3a2baafa-29b5-4339-a456-76e9429a8ac4">
+              <a href="/random/mein-honig" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    R / 015
+
+                  </span>
+                  <span class="title__headline">Mein Honig</span>
+                </div>
+              </a>
+            </li>
+            
+
+            <li class="search__li search__li--first">
+              <span class="search__section__title js-collection js-collection-team">
+                Employees
+              </span>
+            </li>
+
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="Matthias Mentasti" data-content="Matthias Mentasti"
+              data-extra="mment" data-wild="E / 002
+"
+              id="cfd739e6-0ef0-4339-96e0-f2b6d9460d59">
+              <a href="/team/matthias-mentasti" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 002
+
+                  </span>
+                  <span class="title__headline">Matthias Mentasti</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="Thomas Lichtblau" data-content="Thomas Lichtblau"
+              data-extra="lichti" data-wild="E / 003
+"
+              id="9ff16c72-b157-4259-b794-05aa5a2cc22f">
+              <a href="/team/thomas-lichtblau" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 003
+
+                  </span>
+                  <span class="title__headline">Thomas Lichtblau</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="Thomas Ragger" data-content="Thomas Ragger"
+              data-extra="rag" data-wild="E / 005
+"
+              id="bdddff97-fcc9-4d51-9a3c-f4f202f44cfa">
+              <a href="/team/thomas-ragger" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 005
+
+                  </span>
+                  <span class="title__headline">Thomas Ragger</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="Raphael Loder" data-content="Raphael Loder"
+              data-extra="rapha ralf loderer lacknloda lodacris" data-wild="E / 019
+"
+              id="1fb2758c-ca77-4f68-bac2-60f7dd039fc3">
+              <a href="/team/raphael-loder" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 019
+
+                  </span>
+                  <span class="title__headline">Raphael Loder</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="Stefan Göllner" data-content="Stefan Göllner"
+              data-extra="Elektro" data-wild="E / 028
+"
+              id="44497c38-b943-49e0-83e1-6422b5851fa7">
+              <a href="/team/stefan-goellner" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 028
+
+                  </span>
+                  <span class="title__headline">Stefan Göllner</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="Jennifer Bruckberger" data-content="Jennifer Bruckberger"
+              data-extra="Jenny" data-wild="E / 035
+"
+              id="36ed0105-6130-463d-a475-a1a447a8103b">
+              <a href="/team/jennifer-bruckberger" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 035
+
+                  </span>
+                  <span class="title__headline">Jennifer Bruckberger</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="Oskar Wild" data-content="Oskar Wild"
+              data-extra="oskar" data-wild="E / 036
+"
+              id="686f8835-dd4e-4fc5-8759-deb306a35517">
+              <a href="/team/oskar" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 036
+
+                  </span>
+                  <span class="title__headline">Oskar Wild</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="Simone Glück" data-content="Simone Glück"
+              data-extra="simone" data-wild="E / 038
+"
+              id="09681263-2064-42ba-82a4-65d872706e4d">
+              <a href="/team/simone-glueck" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 038
+
+                  </span>
+                  <span class="title__headline">Simone Glück</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="Monde Marafane" data-content="Monde Marafane"
+              data-extra="monde" data-wild="E / 052
+"
+              id="e7e21c15-5846-4143-8ec5-c5ab9ed01a58">
+              <a href="/team/monde-marafane" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 052
+
+                  </span>
+                  <span class="title__headline">Monde Marafane</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="Kerstin Harrer" data-content="Kerstin Harrer"
+              data-extra="kerstin" data-wild="E / 056
+"
+              id="4a767199-caf5-42c5-9f71-f108b28feadb">
+              <a href="/team/kerstin-harrer" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 056
+
+                  </span>
+                  <span class="title__headline">Kerstin Harrer</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="Eva Landaluce" data-content="Eva Landaluce"
+              data-extra="eva" data-wild="E / 058
+"
+              id="a7e95b0b-7409-4108-be13-31b99875970b">
+              <a href="/team/eva-landaluce" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 058
+
+                  </span>
+                  <span class="title__headline">Eva Landaluce</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="Tom Schönmann" data-content="Tom Schönmann"
+              data-extra="tom" data-wild="E / 060
+"
+              id="2a51b8d0-7fd9-4ecd-9562-8a1ad59960e3">
+              <a href="/team/tom-schoenmann" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 060
+
+                  </span>
+                  <span class="title__headline">Tom Schönmann</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="Alex Pagnotta" data-content="Alex Pagnotta"
+              data-extra="alex" data-wild="E / 063
+"
+              id="21b5c42d-da6a-438c-9538-60dd29a3a488">
+              <a href="/team/alex-pagnotta" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 063
+
+                  </span>
+                  <span class="title__headline">Alex Pagnotta</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="Leandro Madeo" data-content="Leandro Madeo"
+              data-extra="leandro" data-wild="E / 066
+"
+              id="2141830e-b273-47ac-9d78-4b40ff6632f9">
+              <a href="/team/leandro-madeo" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 066
+
+                  </span>
+                  <span class="title__headline">Leandro Madeo</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="Anna Mitterhauser" data-content="Anna Mitterhauser"
+              data-extra="anna" data-wild="E / 067
+"
+              id="d8697100-0186-45a7-910c-51afc6079f16">
+              <a href="/team/anna-mitterhauser" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 067
+
+                  </span>
+                  <span class="title__headline">Anna Mitterhauser</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="Guilherme Lopes" data-content="Guilherme Lopes"
+              data-extra="guilherme" data-wild="E / 072
+"
+              id="429767a5-655a-4fb4-a5dd-a1a94d97ae1b">
+              <a href="/team/guilherme-lopes" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 072
+
+                  </span>
+                  <span class="title__headline">Guilherme Lopes</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="Adrian Mititelu" data-content="Adrian Mititelu"
+              data-extra="adrian" data-wild="E / 077
+"
+              id="cebd6584-7970-4fa6-82a3-9e9db4ee4f93">
+              <a href="/team/adrian-mititelu" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 077
+
+                  </span>
+                  <span class="title__headline">Adrian Mititelu</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="Anton Fullerton" data-content="Anton Fullerton"
+              data-extra="anton" data-wild="E / 079
+"
+              id="1baf229e-e6bf-4a3a-9d6e-973d12a90f8a">
+              <a href="/team/anton-fullerton" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 079
+
+                  </span>
+                  <span class="title__headline">Anton Fullerton</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="Felix Häusler" data-content="Felix Häusler"
+              data-extra="felix" data-wild="E / 086
+"
+              id="b6974193-6ac7-491c-9887-9e0f948631a1">
+              <a href="/team/felix-hausler" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 086
+
+                  </span>
+                  <span class="title__headline">Felix Häusler</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="Domenico Vale" data-content="Domenico Vale"
+              data-extra="domenico" data-wild="E / 087
+"
+              id="70ba24fe-ad4e-46ea-bcb0-e5ba92c8959b">
+              <a href="/team/domenico-vale" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 087
+
+                  </span>
+                  <span class="title__headline">Domenico Vale</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="David Hidalgo" data-content="David Hidalgo"
+              data-extra="david" data-wild="E / 089
+"
+              id="1602f8ec-f20c-4a16-ba81-d03f46f981b7">
+              <a href="/team/david-hidalgo" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 089
+
+                  </span>
+                  <span class="title__headline">David Hidalgo</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="Marta Forastieri" data-content="Marta Forastieri"
+              data-extra="marta" data-wild="E / 090
+"
+              id="8a8c70b1-5918-486c-9bac-886746234043">
+              <a href="/team/marta-forastieri" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 090
+
+                  </span>
+                  <span class="title__headline">Marta Forastieri</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item "
+              data-collection="team" data-title="Claire Miller" data-content="Claire Miller"
+              data-extra="claire" data-wild="E / 092
+"
+              id="3d28a664-137a-4dbd-839f-e8fb89306ff9">
+              <a href="/team/claire-miller" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 092
+
+                  </span>
+                  <span class="title__headline">Claire Miller</span>
+                </div>
+              </a>
+            </li>
+            
+            <li class="search__li js-search-item search__li--last"
+              data-collection="team" data-title="Jake Dougherty" data-content="Jake Dougherty"
+              data-extra="" data-wild="E / 000
+"
+              id="25aceba6-d617-47c1-a281-4b95b8594aa9">
+              <a href="/team/mr" class="search__target-link ga-search-link">
+                <div class="title">
+                  <span class="wild-id wild-id--light">
+                    E / 000
+
+                  </span>
+                  <span class="title__headline">Jake Dougherty</span>
+                </div>
+              </a>
+            </li>
+            
+
+          </ul>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+      <div id="animated-content">
+        <div class="error error--404">
+    <div class="error__bg-video">
+        <video autoplay muted loop playsinline loop>
+            <source src="https://wild-website.b-cdn.net/error/404ralf.mp4" poster="https://wild-website.b-cdn.net/error/404ralf.jpg" type="video/mp4">
+        </video>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="gr-24">
+                <h1>Page doesn’t exist. <br />But watch this man or have a look at this <a href="https://wild.as/work/bain-capital-ventures">shiny project</a>.</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+        
+          <div class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="gr-24">
+        <div class="footer__offices">
+            <ul>
+              
+                <li>
+                  <div class="row">
+                    <div class="gr-24 gr-8@md">
+                      <span class="footer__city">
+                          <span>Vienna</span>
+                          
+                            <span class="footer__hq">HQ</span>
+                          
+                      </span>
+                    </div>
+                    <div class="gr-12 prefix-2 gr-16@md prefix-0@md footer__addresses">
+                      <span class="footer__office-address">
+                        <div class="hide show@md footer__office-address__address">Zieglergasse 65/2 / 1070 Vienna / Austria</div>
+                        <div class="hide@md footer__office-address__address">Zieglergasse 65/2, 1070 Vienna, Austria</div>
+                      </span>
+                    </div>
+                  </div>
+                </li>
+              
+                <li>
+                  <div class="row">
+                    <div class="gr-24 gr-8@md">
+                      <span class="footer__city">
+                          <span>Everywhere</span>
+                          
+                      </span>
+                    </div>
+                    <div class="gr-12 prefix-7 gr-16@md prefix-0@md footer__addresses">
+                      <span class="footer__office-address">
+                        <div class="hide show@md footer__office-address__address">Currently working out of 20 locations around the world</div>
+                        <div class="hide@md footer__office-address__address">Currently working out of 20 locations around the world</div>
+                      </span>
+                    </div>
+                  </div>
+                </li>
+              
+              </ul>
+        </div>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="gr-24">
+        <div class="footer__legal">
+          <div class="row">
+            <div class="gr-24 gr-6@md footer__legal__links">
+               
+              <a href="/privacy" class="js-nav-link">Privacy Policy</a>
+                
+              <a href="/imprint" class="js-nav-link">Imprint</a>
+               
+            </div>
+            
+              <div class="gr-24 gr-12@md text-center highlighted-button"><a
+  class="highlighted_button js-random-hover-color js-random-hover-color-permanent-effect js-image-sequence-on-hover desktop"
+  href="https://residence.co/"
+  target="_blank"
+>
+  wild is in Residence 
+  <div class="image_sequence js-images-sequence-on-hover-image-wrapper">
+     <picture>
+			<source
+			sizes="(min-width: 1402px) calc(1354px / 12 * 12), calc(((100vw - 48px) / 12 ) * 12)"
+									data-srcset="https://wild-website.b-cdn.net/global/anyways-00.webp?width=640&amp;crop=640,427&amp;quality=90 640w, https://wild-website.b-cdn.net/global/anyways-00.webp?width=768&amp;crop=768,512&amp;quality=90 768w, https://wild-website.b-cdn.net/global/anyways-00.webp?width=1024&amp;crop=1024,683&amp;quality=90 1024w, https://wild-website.b-cdn.net/global/anyways-00.webp?width=1366&amp;crop=1366,911&amp;quality=90 1366w, https://wild-website.b-cdn.net/global/anyways-00.webp?width=1600&amp;crop=1600,1067&amp;quality=90 1600w, https://wild-website.b-cdn.net/global/anyways-00.webp?width=1920&amp;crop=1920,1280&amp;quality=90 1920w"
+					/>
+		<img
+		onload="this.style.backgroundColor='transparent';"
+		loading="lazy"
+		height="600"
+		width="900"
+    	src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDkwMCA2MDAiPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iNjAwIiBmaWxsPSIjZTdlN2U2IiAvPgo8L3N2Zz4="
+		    	data-src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDkwMCA2MDAiPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iNjAwIiBmaWxsPSIjZTdlN2U2IiAvPgo8L3N2Zz4="
+				class="lazyload img-responsive"
+		style="background-color: #e7e7e6;"
+    	alt=""
+    />
+</picture>
+  <picture>
+			<source
+			sizes="(min-width: 1402px) calc(1354px / 12 * 12), calc(((100vw - 48px) / 12 ) * 12)"
+									data-srcset="https://wild-website.b-cdn.net/global/buck-00.webp?width=640&amp;crop=640,360&amp;quality=90 640w, https://wild-website.b-cdn.net/global/buck-00.webp?width=768&amp;crop=768,432&amp;quality=90 768w, https://wild-website.b-cdn.net/global/buck-00.webp?width=1024&amp;crop=1024,576&amp;quality=90 1024w, https://wild-website.b-cdn.net/global/buck-00.webp?width=1366&amp;crop=1366,768&amp;quality=90 1366w, https://wild-website.b-cdn.net/global/buck-00.webp?width=1600&amp;crop=1600,900&amp;quality=90 1600w, https://wild-website.b-cdn.net/global/buck-00.webp?width=1920&amp;crop=1920,1080&amp;quality=90 1920w"
+					/>
+		<img
+		onload="this.style.backgroundColor='transparent';"
+		loading="lazy"
+		height="1080"
+		width="1920"
+    	src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE5MjAgMTA4MCI+CiAgPHJlY3Qgd2lkdGg9IjE5MjAiIGhlaWdodD0iMTA4MCIgZmlsbD0iI2JjYjVlYyIgLz4KPC9zdmc+"
+		    	data-src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE5MjAgMTA4MCI+CiAgPHJlY3Qgd2lkdGg9IjE5MjAiIGhlaWdodD0iMTA4MCIgZmlsbD0iI2JjYjVlYyIgLz4KPC9zdmc+"
+				class="lazyload img-responsive"
+		style="background-color: #bcb5ec;"
+    	alt=""
+    />
+</picture>
+  <picture>
+			<source
+			sizes="(min-width: 1402px) calc(1354px / 12 * 12), calc(((100vw - 48px) / 12 ) * 12)"
+									data-srcset="https://wild-website.b-cdn.net/global/creativelives-00.webp?width=640&amp;crop=640,468&amp;quality=90 640w, https://wild-website.b-cdn.net/global/creativelives-00.webp?width=768&amp;crop=768,561&amp;quality=90 768w, https://wild-website.b-cdn.net/global/creativelives-00.webp?width=1024&amp;crop=1024,748&amp;quality=90 1024w, https://wild-website.b-cdn.net/global/creativelives-00.webp?width=1366&amp;crop=1366,998&amp;quality=90 1366w, https://wild-website.b-cdn.net/global/creativelives-00.webp?width=1600&amp;crop=1600,1169&amp;quality=90 1600w, https://wild-website.b-cdn.net/global/creativelives-00.webp?width=1920&amp;crop=1920,1403&amp;quality=90 1920w"
+					/>
+		<img
+		onload="this.style.backgroundColor='transparent';"
+		loading="lazy"
+		height="1024"
+		width="1401"
+    	src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE0MDEgMTAyNCI+CiAgPHJlY3Qgd2lkdGg9IjE0MDEiIGhlaWdodD0iMTAyNCIgZmlsbD0iI2ZmZmZhOCIgLz4KPC9zdmc+"
+		    	data-src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE0MDEgMTAyNCI+CiAgPHJlY3Qgd2lkdGg9IjE0MDEiIGhlaWdodD0iMTAyNCIgZmlsbD0iI2ZmZmZhOCIgLz4KPC9zdmc+"
+				class="lazyload img-responsive"
+		style="background-color: #ffffa8;"
+    	alt=""
+    />
+</picture>
+  <picture>
+			<source
+			sizes="(min-width: 1402px) calc(1354px / 12 * 12), calc(((100vw - 48px) / 12 ) * 12)"
+									data-srcset="https://wild-website.b-cdn.net/global/giantant-00.webp?width=640&amp;crop=640,467&amp;quality=90 640w, https://wild-website.b-cdn.net/global/giantant-00.webp?width=768&amp;crop=768,561&amp;quality=90 768w, https://wild-website.b-cdn.net/global/giantant-00.webp?width=1024&amp;crop=1024,748&amp;quality=90 1024w, https://wild-website.b-cdn.net/global/giantant-00.webp?width=1366&amp;crop=1366,997&amp;quality=90 1366w, https://wild-website.b-cdn.net/global/giantant-00.webp?width=1600&amp;crop=1600,1168&amp;quality=90 1600w, https://wild-website.b-cdn.net/global/giantant-00.webp?width=1920&amp;crop=1920,1402&amp;quality=90 1920w"
+					/>
+		<img
+		onload="this.style.backgroundColor='transparent';"
+		loading="lazy"
+		height="1050"
+		width="1438"
+    	src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE0MzggMTA1MCI+CiAgPHJlY3Qgd2lkdGg9IjE0MzgiIGhlaWdodD0iMTA1MCIgZmlsbD0iI2E5YTlhOSIgLz4KPC9zdmc+"
+		    	data-src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE0MzggMTA1MCI+CiAgPHJlY3Qgd2lkdGg9IjE0MzgiIGhlaWdodD0iMTA1MCIgZmlsbD0iI2E5YTlhOSIgLz4KPC9zdmc+"
+				class="lazyload img-responsive"
+		style="background-color: #a9a9a9;"
+    	alt=""
+    />
+</picture>
+  <picture>
+			<source
+			sizes="(min-width: 1402px) calc(1354px / 12 * 12), calc(((100vw - 48px) / 12 ) * 12)"
+									data-srcset="https://wild-website.b-cdn.net/global/ifyoucould-00.webp?width=640&amp;crop=640,467&amp;quality=90 640w, https://wild-website.b-cdn.net/global/ifyoucould-00.webp?width=768&amp;crop=768,561&amp;quality=90 768w, https://wild-website.b-cdn.net/global/ifyoucould-00.webp?width=1024&amp;crop=1024,748&amp;quality=90 1024w, https://wild-website.b-cdn.net/global/ifyoucould-00.webp?width=1366&amp;crop=1366,997&amp;quality=90 1366w, https://wild-website.b-cdn.net/global/ifyoucould-00.webp?width=1600&amp;crop=1600,1168&amp;quality=90 1600w, https://wild-website.b-cdn.net/global/ifyoucould-00.webp?width=1920&amp;crop=1920,1402&amp;quality=90 1920w"
+					/>
+		<img
+		onload="this.style.backgroundColor='transparent';"
+		loading="lazy"
+		height="1050"
+		width="1438"
+    	src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE0MzggMTA1MCI+CiAgPHJlY3Qgd2lkdGg9IjE0MzgiIGhlaWdodD0iMTA1MCIgZmlsbD0iI2Y2ZjdlZSIgLz4KPC9zdmc+"
+		    	data-src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE0MzggMTA1MCI+CiAgPHJlY3Qgd2lkdGg9IjE0MzgiIGhlaWdodD0iMTA1MCIgZmlsbD0iI2Y2ZjdlZSIgLz4KPC9zdmc+"
+				class="lazyload img-responsive"
+		style="background-color: #f6f7ee;"
+    	alt=""
+    />
+</picture>
+  <picture>
+			<source
+			sizes="(min-width: 1402px) calc(1354px / 12 * 12), calc(((100vw - 48px) / 12 ) * 12)"
+									data-srcset="https://wild-website.b-cdn.net/global/itsnicethat-00.webp?width=640&amp;crop=640,467&amp;quality=90 640w, https://wild-website.b-cdn.net/global/itsnicethat-00.webp?width=768&amp;crop=768,561&amp;quality=90 768w, https://wild-website.b-cdn.net/global/itsnicethat-00.webp?width=1024&amp;crop=1024,748&amp;quality=90 1024w, https://wild-website.b-cdn.net/global/itsnicethat-00.webp?width=1366&amp;crop=1366,997&amp;quality=90 1366w, https://wild-website.b-cdn.net/global/itsnicethat-00.webp?width=1600&amp;crop=1600,1168&amp;quality=90 1600w, https://wild-website.b-cdn.net/global/itsnicethat-00.webp?width=1920&amp;crop=1920,1402&amp;quality=90 1920w"
+					/>
+		<img
+		onload="this.style.backgroundColor='transparent';"
+		loading="lazy"
+		height="1050"
+		width="1438"
+    	src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE0MzggMTA1MCI+CiAgPHJlY3Qgd2lkdGg9IjE0MzgiIGhlaWdodD0iMTA1MCIgZmlsbD0iI2VkZTFkZCIgLz4KPC9zdmc+"
+		    	data-src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE0MzggMTA1MCI+CiAgPHJlY3Qgd2lkdGg9IjE0MzgiIGhlaWdodD0iMTA1MCIgZmlsbD0iI2VkZTFkZCIgLz4KPC9zdmc+"
+				class="lazyload img-responsive"
+		style="background-color: #ede1dd;"
+    	alt=""
+    />
+</picture>
+  <picture>
+			<source
+			sizes="(min-width: 1402px) calc(1354px / 12 * 12), calc(((100vw - 48px) / 12 ) * 12)"
+									data-srcset="https://wild-website.b-cdn.net/global/partandsum-00.jpg?width=640&amp;crop=640,360&amp;quality=90 640w, https://wild-website.b-cdn.net/global/partandsum-00.jpg?width=768&amp;crop=768,432&amp;quality=90 768w, https://wild-website.b-cdn.net/global/partandsum-00.jpg?width=1024&amp;crop=1024,576&amp;quality=90 1024w, https://wild-website.b-cdn.net/global/partandsum-00.jpg?width=1366&amp;crop=1366,768&amp;quality=90 1366w, https://wild-website.b-cdn.net/global/partandsum-00.jpg?width=1600&amp;crop=1600,900&amp;quality=90 1600w, https://wild-website.b-cdn.net/global/partandsum-00.jpg?width=1920&amp;crop=1920,1080&amp;quality=90 1920w"
+					/>
+		<img
+		onload="this.style.backgroundColor='transparent';"
+		loading="lazy"
+		height="720"
+		width="1280"
+    	src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDEyODAgNzIwIj4KICA8cmVjdCB3aWR0aD0iMTI4MCIgaGVpZ2h0PSI3MjAiIGZpbGw9IiNkZGVmZmMiIC8+Cjwvc3ZnPg=="
+		    	data-src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDEyODAgNzIwIj4KICA8cmVjdCB3aWR0aD0iMTI4MCIgaGVpZ2h0PSI3MjAiIGZpbGw9IiNkZGVmZmMiIC8+Cjwvc3ZnPg=="
+				class="lazyload img-responsive"
+		style="background-color: #ddeffc;"
+    	alt=""
+    />
+</picture>
+  <picture>
+			<source
+			sizes="(min-width: 1402px) calc(1354px / 12 * 12), calc(((100vw - 48px) / 12 ) * 12)"
+									data-srcset="https://wild-website.b-cdn.net/global/vtprodesign-00.webp?width=640&amp;crop=640,467&amp;quality=90 640w, https://wild-website.b-cdn.net/global/vtprodesign-00.webp?width=768&amp;crop=768,561&amp;quality=90 768w, https://wild-website.b-cdn.net/global/vtprodesign-00.webp?width=1024&amp;crop=1024,748&amp;quality=90 1024w, https://wild-website.b-cdn.net/global/vtprodesign-00.webp?width=1366&amp;crop=1366,997&amp;quality=90 1366w, https://wild-website.b-cdn.net/global/vtprodesign-00.webp?width=1600&amp;crop=1600,1168&amp;quality=90 1600w, https://wild-website.b-cdn.net/global/vtprodesign-00.webp?width=1920&amp;crop=1920,1402&amp;quality=90 1920w"
+					/>
+		<img
+		onload="this.style.backgroundColor='transparent';"
+		loading="lazy"
+		height="1050"
+		width="1438"
+    	src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE0MzggMTA1MCI+CiAgPHJlY3Qgd2lkdGg9IjE0MzgiIGhlaWdodD0iMTA1MCIgZmlsbD0iI2E5YWJhYyIgLz4KPC9zdmc+"
+		    	data-src="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiCiAgeD0iMCIgeT0iMCIgdmlld0JveD0iMCAwIDE0MzggMTA1MCI+CiAgPHJlY3Qgd2lkdGg9IjE0MzgiIGhlaWdodD0iMTA1MCIgZmlsbD0iI2E5YWJhYyIgLz4KPC9zdmc+"
+				class="lazyload img-responsive"
+		style="background-color: #a9abac;"
+    	alt=""
+    />
+</picture>
+ 
+  </div>
+  
+</a>
+</div>
+            
+            <div class="gr-24 gr-6@md text-right@md"><div class="social  social--light">
+    <a href="https://twitter.com/madebywild" target="_blank" rel="noopener nofollow" class="social__link social__link--t"></a>
+    <a href="https://github.com/madebywild" target="_blank" rel="noopener nofollow" class="social__link social__link--g"></a>
+    <a href="https://www.instagram.com/madebywild/" target="_blank" rel="noopener nofollow" class="social__link social__link--i"></a>
+    <a href="https://medium.com/madebywild" target="_blank" rel="noopener nofollow" class="social__link social__link--m"></a>
+    <a href="https://www.linkedin.com/company/we-are-wild-gmbh" target="_blank" rel="noopener nofollow" class="social__link social__link--lin"></a>
+</div></div>
+          </div>
+        </div>
+
+
+        
+          <div class="gr-24 gr-6@md text-center"><a
+  class="highlighted_button js-random-hover-color js-random-hover-color-permanent-effect js-image-sequence-on-hover mobile"
+  href="https://residence.co/"
+  target="_blank"
+>
+  wild is in Residence 
+</a>
+</div>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      </div>
+      
+        <div class="navbar__target js-navbar-target"></div>
+<div class="navbar js-navbar">
+  <ul class="navbar__ul">
+    
+      
+        <li
+          class="navbar__ul__li "
+          data-target="work">
+          <a href="
+/work
+
+" class="navbar__link ga-navbar-main-link">
+            <span>
+              
+              Work
+            </span>
+          </a>
+          
+        </li>
+      
+        <li
+          class="navbar__ul__li "
+          data-target="work">
+          <a href="
+/about
+
+" class="navbar__link ga-navbar-main-link">
+            <span>
+              
+              About
+            </span>
+          </a>
+          
+        </li>
+      
+        <li
+          class="navbar__ul__li "
+          data-target="work">
+          <a href="
+/labs
+
+" class="navbar__link ga-navbar-main-link">
+            <span>
+              
+              Labs
+            </span>
+          </a>
+          
+        </li>
+      
+        <li
+          class="navbar__ul__li "
+          data-target="work">
+          <a href="
+/jobs
+
+" class="navbar__link ga-navbar-main-link">
+            <span>
+              
+                
+                  <span class="navbar__ul__li--has-count">1</span>
+                
+              
+              Jobs
+            </span>
+          </a>
+          
+        </li>
+      
+        <li
+          class="navbar__ul__li "
+          data-target="work">
+          <a href="
+/contact
+
+" class="navbar__link ga-navbar-main-link">
+            <span>
+              
+              Contacts
+            </span>
+          </a>
+          
+        </li>
+      
+    
+  </ul>
+</div>
+      
+    </div>
+  </div>
+  <div class="transition-pane js-transition-pane"></div>
+  <script type='text/javascript'>
+  /* <![CDATA[ */
+  var page_params = {
+    "ajax_url": "/!/page-content/api/",
+    "work_api": "/api/work",
+    "project_length_api": "/api/project-count",
+    "story_api": "/api/story",
+    "glide_ajax_url": "/glide",
+    "dist_url": "site/themes/theme/",
+    "asset_url": "https://s3.eu-central-1.amazonaws.com/assets.wild.as/",
+    "lang": "",
+    "current_template": "",
+    "happy_words": [{"trigger":"nipple","redirect":"\/random\/nipple"},{"trigger":"supperl\u00fcpy","redirect":"\/random\/supperluepy"},{"trigger":"police","redirect":"\/random\/the-police"},{"trigger":"yoda","redirect":"\/random\/yoda"},{"trigger":"toni polster","redirect":"\/random\/toni-polster"},{"trigger":"arnie","redirect":"\/random\/arnie"},{"trigger":"supperluepy","redirect":"\/random\/supperluepy"}],
+  };
+  /* ]]> */
+</script>
+
+  
+    <link href="/css/main.css?id=40c9163448434b05be8d" rel="stylesheet">
+    <script src="/js/main.js?id=7d953e3385d78f65421b" async></script>
+  
+  <section class="grid js-grid hidden">
+  <div class="container">
+    <div class="row">
+      <div class="gr-1"><span>1</span></div>
+      <div class="gr-1"><span>2</span></div>
+      <div class="gr-1"><span>3</span></div>
+      <div class="gr-1"><span>4</span></div>
+      <div class="gr-1"><span>5</span></div>
+      <div class="gr-1"><span>6</span></div>
+      <div class="gr-1"><span>7</span></div>
+      <div class="gr-1"><span>8</span></div>
+      <div class="gr-1"><span>9</span></div>
+      <div class="gr-1"><span>10</span></div>
+      <div class="gr-1"><span>11</span></div>
+      <div class="gr-1"><span>12</span></div>
+      <div class="gr-1"><span>13</span></div>
+      <div class="gr-1"><span>14</span></div>
+      <div class="gr-1"><span>15</span></div>
+      <div class="gr-1"><span>16</span></div>
+      <div class="gr-1"><span>17</span></div>
+      <div class="gr-1"><span>18</span></div>
+      <div class="gr-1"><span>19</span></div>
+      <div class="gr-1"><span>20</span></div>
+      <div class="gr-1"><span>21</span></div>
+      <div class="gr-1"><span>22</span></div>
+      <div class="gr-1"><span>23</span></div>
+      <div class="gr-1"><span>24</span></div>
+    </div>
+  </div>
+</section>
+</body>
+
+</html>

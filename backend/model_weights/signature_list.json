@@ -1,0 +1,3502 @@
+[
+  {
+    "phrase": "and",
+    "log_odds": 0.35723984554987265,
+    "z_score": 141.52756551824723,
+    "topic_concentration": 0.05134890955043973,
+    "direction": "ai"
+  },
+  {
+    "phrase": "can",
+    "log_odds": 0.583768399646857,
+    "z_score": 132.1133603799189,
+    "topic_concentration": 0.07067817765758269,
+    "direction": "ai"
+  },
+  {
+    "phrase": "important",
+    "log_odds": 1.5861603374083,
+    "z_score": 126.8931197207037,
+    "topic_concentration": 0.11306304150112488,
+    "direction": "ai"
+  },
+  {
+    "phrase": "would",
+    "log_odds": -1.0699517008120925,
+    "z_score": -123.36523593510223,
+    "topic_concentration": 0.08374495560936239,
+    "direction": "human"
+  },
+  {
+    "phrase": "do",
+    "log_odds": -1.1565251221342008,
+    "z_score": -122.35758598903672,
+    "topic_concentration": 0.05881207941716256,
+    "direction": "human"
+  },
+  {
+    "phrase": "you",
+    "log_odds": -0.5075366109006527,
+    "z_score": -118.7179978958224,
+    "topic_concentration": 0.052000613802892545,
+    "direction": "human"
+  },
+  {
+    "phrase": "they",
+    "log_odds": -0.6182407942673853,
+    "z_score": -118.36311374839539,
+    "topic_concentration": 0.06419317947468081,
+    "direction": "human"
+  },
+  {
+    "phrase": "may",
+    "log_odds": 0.90184959043596,
+    "z_score": 104.6938113490148,
+    "topic_concentration": 0.09021460917503446,
+    "direction": "ai"
+  },
+  {
+    "phrase": "important to",
+    "log_odds": 2.737310502571198,
+    "z_score": 101.80705820980354,
+    "topic_concentration": 0.1260334374425868,
+    "direction": "ai"
+  },
+  {
+    "phrase": "because",
+    "log_odds": -0.873466114078238,
+    "z_score": -100.10725160528409,
+    "topic_concentration": 0.0655940594059406,
+    "direction": "human"
+  },
+  {
+    "phrase": "what",
+    "log_odds": -1.0976345620751706,
+    "z_score": -97.51491242236963,
+    "topic_concentration": 0.08182929459984181,
+    "direction": "human"
+  },
+  {
+    "phrase": "so",
+    "log_odds": -0.8579104573120944,
+    "z_score": -93.62125603163375,
+    "topic_concentration": 0.05346560501240047,
+    "direction": "human"
+  },
+  {
+    "phrase": "such as",
+    "log_odds": 1.3074237709441388,
+    "z_score": 91.63281164057541,
+    "topic_concentration": 0.09030768270610996,
+    "direction": "ai"
+  },
+  {
+    "phrase": "get",
+    "log_odds": -0.9832521951024278,
+    "z_score": -91.28763416295999,
+    "topic_concentration": 0.07367778535779684,
+    "direction": "human"
+  },
+  {
+    "phrase": "will",
+    "log_odds": -0.7408610712322634,
+    "z_score": -89.60290072501732,
+    "topic_concentration": 0.06612195490997125,
+    "direction": "human"
+  },
+  {
+    "phrase": "but",
+    "log_odds": -0.6842073729641447,
+    "z_score": -88.14012997298451,
+    "topic_concentration": 0.05780449001237405,
+    "direction": "human"
+  },
+  {
+    "phrase": "just",
+    "log_odds": -0.98230082432194,
+    "z_score": -86.51350006563517,
+    "topic_concentration": 0.058853173031928295,
+    "direction": "human"
+  },
+  {
+    "phrase": "can be",
+    "log_odds": 0.9306482843859945,
+    "z_score": 85.74632771042572,
+    "topic_concentration": 0.10387824332997157,
+    "direction": "ai"
+  },
+  {
+    "phrase": "then",
+    "log_odds": -1.3986640741547864,
+    "z_score": -84.56015140164172,
+    "topic_concentration": 0.053696819496076,
+    "direction": "human"
+  },
+  {
+    "phrase": "can help",
+    "log_odds": 1.351290999889498,
+    "z_score": 84.26592262058894,
+    "topic_concentration": 0.1952941176470588,
+    "direction": "ai"
+  },
+  {
+    "phrase": "lead to",
+    "log_odds": 1.9388815311425285,
+    "z_score": 83.34456981108626,
+    "topic_concentration": 0.1577035898868557,
+    "direction": "ai"
+  },
+  {
+    "phrase": "if",
+    "log_odds": -0.533388372909025,
+    "z_score": -81.19546476760664,
+    "topic_concentration": 0.05272452068617558,
+    "direction": "human"
+  },
+  {
+    "phrase": "is important",
+    "log_odds": 2.2603368231215493,
+    "z_score": 80.42246526153097,
+    "topic_concentration": 0.13938886563415656,
+    "direction": "ai"
+  },
+  {
+    "phrase": "lead",
+    "log_odds": 1.5304306920629767,
+    "z_score": 79.59029156710439,
+    "topic_concentration": 0.14818725800774374,
+    "direction": "ai"
+  },
+  {
+    "phrase": "this can",
+    "log_odds": 2.065839346172342,
+    "z_score": 79.54581277801742,
+    "topic_concentration": 0.1448506837845381,
+    "direction": "ai"
+  },
+  {
+    "phrase": "such",
+    "log_odds": 0.9328599697130757,
+    "z_score": 77.1954310259981,
+    "topic_concentration": 0.0829600977198697,
+    "direction": "ai"
+  },
+  {
+    "phrase": "provide",
+    "log_odds": 1.7184570239886883,
+    "z_score": 76.88576401251372,
+    "topic_concentration": 0.1787761631782429,
+    "direction": "ai"
+  },
+  {
+    "phrase": "potential",
+    "log_odds": 2.2411193341955693,
+    "z_score": 75.52233048996104,
+    "topic_concentration": 0.14779985805535842,
+    "direction": "ai"
+  },
+  {
+    "phrase": "all",
+    "log_odds": -0.6941098386253932,
+    "z_score": -75.27930177940887,
+    "topic_concentration": 0.0782285483778021,
+    "direction": "human"
+  },
+  {
+    "phrase": "positive",
+    "log_odds": 1.8089579920145304,
+    "z_score": 75.15004689122982,
+    "topic_concentration": 0.2071156289707751,
+    "direction": "ai"
+  },
+  {
+    "phrase": "benefits",
+    "log_odds": 1.6353254371708665,
+    "z_score": 75.11103609911218,
+    "topic_concentration": 0.23120973514674303,
+    "direction": "ai"
+  },
+  {
+    "phrase": "which can",
+    "log_odds": 2.3820537713782244,
+    "z_score": 74.65512461006782,
+    "topic_concentration": 0.15591755319148937,
+    "direction": "ai"
+  },
+  {
+    "phrase": "think",
+    "log_odds": -0.981162536603585,
+    "z_score": -74.60819457798598,
+    "topic_concentration": 0.07879743615830705,
+    "direction": "human"
+  },
+  {
+    "phrase": "reduce",
+    "log_odds": 1.6668025161824662,
+    "z_score": 74.51140066554409,
+    "topic_concentration": 0.42827403482210447,
+    "direction": "ai"
+  },
+  {
+    "phrase": "it is",
+    "log_odds": 0.6173596892264657,
+    "z_score": 74.15551671871542,
+    "topic_concentration": 0.06919578050904868,
+    "direction": "ai"
+  },
+  {
+    "phrase": "go",
+    "log_odds": -1.3724935173282145,
+    "z_score": -74.04893013509421,
+    "topic_concentration": 0.08097322348094747,
+    "direction": "human"
+  },
+  {
+    "phrase": "at",
+    "log_odds": -0.6469309852269154,
+    "z_score": -73.50453768288342,
+    "topic_concentration": 0.07829888712241653,
+    "direction": "human"
+  },
+  {
+    "phrase": "health",
+    "log_odds": 1.5941854612607465,
+    "z_score": 72.40437817856169,
+    "topic_concentration": 0.2928544983339504,
+    "direction": "ai"
+  },
+  {
+    "phrase": "should",
+    "log_odds": -0.763624197594222,
+    "z_score": -71.68387688037,
+    "topic_concentration": 0.11021564893946774,
+    "direction": "human"
+  },
+  {
+    "phrase": "to do",
+    "log_odds": -1.1523755815341747,
+    "z_score": -71.1141299431817,
+    "topic_concentration": 0.09299758537426699,
+    "direction": "human"
+  },
+  {
+    "phrase": "including",
+    "log_odds": 1.8120904622755214,
+    "z_score": 70.86521003213282,
+    "topic_concentration": 0.11131999462870955,
+    "direction": "ai"
+  },
+  {
+    "phrase": "can also",
+    "log_odds": 1.4997283785558704,
+    "z_score": 70.46670883472552,
+    "topic_concentration": 0.12339488810077046,
+    "direction": "ai"
+  },
+  {
+    "phrase": "success",
+    "log_odds": 2.542882338873514,
+    "z_score": 70.1181958514313,
+    "topic_concentration": 0.343311506080449,
+    "direction": "ai"
+  },
+  {
+    "phrase": "can lead",
+    "log_odds": 2.4177597078845725,
+    "z_score": 68.61963370616569,
+    "topic_concentration": 0.19586507072905332,
+    "direction": "ai"
+  },
+  {
+    "phrase": "would be",
+    "log_odds": -1.16538381470657,
+    "z_score": -68.49470217110107,
+    "topic_concentration": 0.0855114993516686,
+    "direction": "human"
+  },
+  {
+    "phrase": "going",
+    "log_odds": -1.5822087382529437,
+    "z_score": -68.48150905868647,
+    "topic_concentration": 0.08253106228914671,
+    "direction": "human"
+  },
+  {
+    "phrase": "impact",
+    "log_odds": 1.8562227910421951,
+    "z_score": 68.37223167752177,
+    "topic_concentration": 0.2023260107070334,
+    "direction": "ai"
+  },
+  {
+    "phrase": "additionally",
+    "log_odds": 2.838544454551184,
+    "z_score": 67.88000808628829,
+    "topic_concentration": 0.23390151515151514,
+    "direction": "ai"
+  },
+  {
+    "phrase": "financial",
+    "log_odds": 2.3289498884201274,
+    "z_score": 67.70441608943322,
+    "topic_concentration": 0.06501283147989735,
+    "direction": "ai"
+  },
+  {
+    "phrase": "out",
+    "log_odds": -0.8000773972452748,
+    "z_score": -67.2594098516143,
+    "topic_concentration": 0.06784260515603799,
+    "direction": "human"
+  },
+  {
+    "phrase": "have to",
+    "log_odds": -1.2513040662786823,
+    "z_score": -67.06847440584116,
+    "topic_concentration": 0.10249387343231944,
+    "direction": "human"
+  },
+  {
+    "phrase": "improve",
+    "log_odds": 1.5726673250369627,
+    "z_score": 66.27744741951716,
+    "topic_concentration": 0.2692520775623269,
+    "direction": "ai"
+  },
+  {
+    "phrase": "goals",
+    "log_odds": 2.7306335693872956,
+    "z_score": 66.10309720454528,
+    "topic_concentration": 0.31117397454031115,
+    "direction": "ai"
+  },
+  {
+    "phrase": "no",
+    "log_odds": -0.9532842846793681,
+    "z_score": -64.859896850923,
+    "topic_concentration": 0.1084948287980721,
+    "direction": "human"
+  },
+  {
+    "phrase": "it can",
+    "log_odds": 0.9621131795022251,
+    "z_score": 64.70273166842891,
+    "topic_concentration": 0.11944857190028067,
+    "direction": "ai"
+  },
+  {
+    "phrase": "help to",
+    "log_odds": 2.7785584413096496,
+    "z_score": 64.5516503601839,
+    "topic_concentration": 0.2313910407544628,
+    "direction": "ai"
+  },
+  {
+    "phrase": "school",
+    "log_odds": -0.5817578634513181,
+    "z_score": -64.38030550993399,
+    "topic_concentration": 0.22601648541940847,
+    "direction": "human"
+  },
+  {
+    "phrase": "individuals",
+    "log_odds": 2.1300367948494836,
+    "z_score": 64.03092486055236,
+    "topic_concentration": 0.21530249110320285,
+    "direction": "ai"
+  },
+  {
+    "phrase": "have",
+    "log_odds": -0.3335858766245803,
+    "z_score": -63.5569111103454,
+    "topic_concentration": 0.0671014097936389,
+    "direction": "human"
+  },
+  {
+    "phrase": "very",
+    "log_odds": -0.9892536155760547,
+    "z_score": -62.45110708521928,
+    "topic_concentration": 0.051508505719874344,
+    "direction": "human"
+  },
+  {
+    "phrase": "support",
+    "log_odds": 1.3666901216080918,
+    "z_score": 62.369309640488495,
+    "topic_concentration": 0.1773146050445552,
+    "direction": "ai"
+  },
+  {
+    "phrase": "now",
+    "log_odds": -1.3678909276564317,
+    "z_score": -62.26531254562712,
+    "topic_concentration": 0.08,
+    "direction": "human"
+  },
+  {
+    "phrase": "it important",
+    "log_odds": 3.3270939367755163,
+    "z_score": 62.02506872162865,
+    "topic_concentration": 0.09619641779029986,
+    "direction": "ai"
+  },
+  {
+    "phrase": "however",
+    "log_odds": 0.8837210820726842,
+    "z_score": 61.94271657311332,
+    "topic_concentration": 0.10974838791250474,
+    "direction": "ai"
+  },
+  {
+    "phrase": "project",
+    "log_odds": -1.631912507303782,
+    "z_score": -61.34495703075196,
+    "topic_concentration": 0.5574120156416636,
+    "direction": "human"
+  },
+  {
+    "phrase": "consider",
+    "log_odds": 1.5083432311893432,
+    "z_score": 60.96534300486514,
+    "topic_concentration": 0.10372208436724566,
+    "direction": "ai"
+  },
+  {
+    "phrase": "may be",
+    "log_odds": 1.1473251151039028,
+    "z_score": 60.75213998361374,
+    "topic_concentration": 0.09232505643340858,
+    "direction": "ai"
+  },
+  {
+    "phrase": "overall",
+    "log_odds": 1.4929005795578956,
+    "z_score": 60.458244166650445,
+    "topic_concentration": 0.1147563869886919,
+    "direction": "ai"
+  },
+  {
+    "phrase": "was",
+    "log_odds": -0.5655689883664108,
+    "z_score": -60.34415369509417,
+    "topic_concentration": 0.07372924006039255,
+    "direction": "human"
+  },
+  {
+    "phrase": "only",
+    "log_odds": -0.8717180171428849,
+    "z_score": -60.14381858014658,
+    "topic_concentration": 0.09446740700164334,
+    "direction": "human"
+  },
+  {
+    "phrase": "kids",
+    "log_odds": -2.081645435325467,
+    "z_score": -60.127396221472445,
+    "topic_concentration": 0.14033956587148078,
+    "direction": "human"
+  },
+  {
+    "phrase": "want",
+    "log_odds": -0.8399520168996535,
+    "z_score": -59.603644872261924,
+    "topic_concentration": 0.07714803766742703,
+    "direction": "human"
+  },
+  {
+    "phrase": "say",
+    "log_odds": -1.3034885306321504,
+    "z_score": -59.53929221113581,
+    "topic_concentration": 0.09994968975347979,
+    "direction": "human"
+  },
+  {
+    "phrase": "significant",
+    "log_odds": 2.288964923501494,
+    "z_score": 58.97782962703606,
+    "topic_concentration": 0.20341108602959618,
+    "direction": "ai"
+  },
+  {
+    "phrase": "there",
+    "log_odds": -0.4568946756894805,
+    "z_score": -58.809106869847966,
+    "topic_concentration": 0.07080828323313293,
+    "direction": "human"
+  },
+  {
+    "phrase": "driving",
+    "log_odds": -1.001248113263551,
+    "z_score": -57.66298247439668,
+    "topic_concentration": 0.4605285305504124,
+    "direction": "human"
+  },
+  {
+    "phrase": "the students",
+    "log_odds": -2.883306839054751,
+    "z_score": -57.509881642508105,
+    "topic_concentration": 0.22244569589702334,
+    "direction": "human"
+  },
+  {
+    "phrase": "student",
+    "log_odds": -0.7382198728640121,
+    "z_score": -57.45656278063051,
+    "topic_concentration": 0.22143798230754752,
+    "direction": "human"
+  },
+  {
+    "phrase": "going to",
+    "log_odds": -2.1258821530428316,
+    "z_score": -56.868379617604866,
+    "topic_concentration": 0.10336055696880439,
+    "direction": "human"
+  },
+  {
+    "phrase": "teacher",
+    "log_odds": -1.326206736573888,
+    "z_score": -56.84330721175224,
+    "topic_concentration": 0.28815511614513345,
+    "direction": "human"
+  },
+  {
+    "phrase": "in conclusion",
+    "log_odds": 1.0888551400993673,
+    "z_score": 56.592184565082405,
+    "topic_concentration": 0.17127166638064184,
+    "direction": "ai"
+  },
+  {
+    "phrase": "he",
+    "log_odds": -0.8713439911737506,
+    "z_score": -56.091266798639786,
+    "topic_concentration": 0.09263319447489586,
+    "direction": "human"
+  },
+  {
+    "phrase": "conclusion",
+    "log_odds": 1.0189177790291897,
+    "z_score": 56.071086832956205,
+    "topic_concentration": 0.16367459162218986,
+    "direction": "ai"
+  },
+  {
+    "phrase": "career",
+    "log_odds": 2.1892912973142185,
+    "z_score": 55.88137790133468,
+    "topic_concentration": 0.2711864406779661,
+    "direction": "ai"
+  },
+  {
+    "phrase": "number of",
+    "log_odds": 1.1953562035096859,
+    "z_score": 55.87886415414915,
+    "topic_concentration": 0.20133899412148923,
+    "direction": "ai"
+  },
+  {
+    "phrase": "projects",
+    "log_odds": -1.3317394929155366,
+    "z_score": -55.527196873385094,
+    "topic_concentration": 0.5971599402092675,
+    "direction": "human"
+  },
+  {
+    "phrase": "were",
+    "log_odds": -0.8443145347963714,
+    "z_score": -55.45500358080742,
+    "topic_concentration": 0.0757020757020757,
+    "direction": "human"
+  },
+  {
+    "phrase": "really",
+    "log_odds": -1.0023512564849053,
+    "z_score": -55.176665798370216,
+    "topic_concentration": 0.06917211328976035,
+    "direction": "human"
+  },
+  {
+    "phrase": "them",
+    "log_odds": -0.47290354535054835,
+    "z_score": -54.29193581930685,
+    "topic_concentration": 0.08966312283847828,
+    "direction": "human"
+  },
+  {
+    "phrase": "factors",
+    "log_odds": 1.7751996818254518,
+    "z_score": 54.196998874044375,
+    "topic_concentration": 0.07852906287069988,
+    "direction": "ai"
+  },
+  {
+    "phrase": "develop",
+    "log_odds": 1.7709905372077355,
+    "z_score": 53.998241151036524,
+    "topic_concentration": 0.22148426220040426,
+    "direction": "ai"
+  },
+  {
+    "phrase": "most",
+    "log_odds": -0.7313959718059833,
+    "z_score": -53.797844105057685,
+    "topic_concentration": 0.09824745213829889,
+    "direction": "human"
+  },
+  {
+    "phrase": "even",
+    "log_odds": -0.6593569314806684,
+    "z_score": -53.6686490811581,
+    "topic_concentration": 0.07462029495927801,
+    "direction": "human"
+  },
+  {
+    "phrase": "achieve",
+    "log_odds": 2.208396251946329,
+    "z_score": 53.6019426225439,
+    "topic_concentration": 0.33429394812680113,
+    "direction": "ai"
+  },
+  {
+    "phrase": "decisions",
+    "log_odds": 1.5247736970503745,
+    "z_score": 53.51802114184858,
+    "topic_concentration": 0.31899641577060933,
+    "direction": "ai"
+  },
+  {
+    "phrase": "could",
+    "log_odds": -0.5103221244752278,
+    "z_score": -53.316848441561035,
+    "topic_concentration": 0.06845882702679747,
+    "direction": "human"
+  },
+  {
+    "phrase": "why",
+    "log_odds": -0.7699517513599323,
+    "z_score": -53.26581403189864,
+    "topic_concentration": 0.08161008514873383,
+    "direction": "human"
+  },
+  {
+    "phrase": "difficult",
+    "log_odds": 1.2351813437385122,
+    "z_score": 53.24389058746899,
+    "topic_concentration": 0.1437908496732026,
+    "direction": "ai"
+  },
+  {
+    "phrase": "much",
+    "log_odds": -0.7926587074913094,
+    "z_score": -52.798284152919656,
+    "topic_concentration": 0.08801197140165161,
+    "direction": "human"
+  },
+  {
+    "phrase": "students",
+    "log_odds": -0.34211121440919623,
+    "z_score": -52.31939652696731,
+    "topic_concentration": 0.2579066540062815,
+    "direction": "human"
+  },
+  {
+    "phrase": "thing",
+    "log_odds": -1.1545722359953752,
+    "z_score": -51.90167460191555,
+    "topic_concentration": 0.09123951537744641,
+    "direction": "human"
+  },
+  {
+    "phrase": "know",
+    "log_odds": -0.6903327441706812,
+    "z_score": -51.782482891541,
+    "topic_concentration": 0.08955061082024433,
+    "direction": "human"
+  },
+  {
+    "phrase": "ensure",
+    "log_odds": 1.875936452408272,
+    "z_score": 51.62539526930816,
+    "topic_concentration": 0.17458100558659218,
+    "direction": "ai"
+  },
+  {
+    "phrase": "cars",
+    "log_odds": -0.6051260283846709,
+    "z_score": -51.607660849341656,
+    "topic_concentration": 0.535,
+    "direction": "human"
+  },
+  {
+    "phrase": "skills",
+    "log_odds": 1.083491079928704,
+    "z_score": 51.55310381264775,
+    "topic_concentration": 0.26759991884763645,
+    "direction": "ai"
+  },
+  {
+    "phrase": "of",
+    "log_odds": 0.14721234420791252,
+    "z_score": 51.458311463077294,
+    "topic_concentration": 0.050878185660342495,
+    "direction": "ai"
+  },
+  {
+    "phrase": "believe that",
+    "log_odds": 0.9512803505802765,
+    "z_score": 51.4100487297585,
+    "topic_concentration": 0.1544164642720184,
+    "direction": "ai"
+  },
+  {
+    "phrase": "people",
+    "log_odds": -0.3426523027212216,
+    "z_score": -51.35574790246112,
+    "topic_concentration": 0.08529829347735308,
+    "direction": "human"
+  },
+  {
+    "phrase": "up",
+    "log_odds": -0.5418076751848453,
+    "z_score": -51.33515080365598,
+    "topic_concentration": 0.07419802755723288,
+    "direction": "human"
+  },
+  {
+    "phrase": "class",
+    "log_odds": -1.0765742008690928,
+    "z_score": -51.30335482629829,
+    "topic_concentration": 0.25724359957074966,
+    "direction": "human"
+  },
+  {
+    "phrase": "impact on",
+    "log_odds": 2.263984072967556,
+    "z_score": 51.06341438923646,
+    "topic_concentration": 0.2153422772617819,
+    "direction": "ai"
+  },
+  {
+    "phrase": "variety of",
+    "log_odds": 1.9656840716810553,
+    "z_score": 50.7573696935728,
+    "topic_concentration": 0.08375566817818085,
+    "direction": "ai"
+  },
+  {
+    "phrase": "quality",
+    "log_odds": 1.5527800234064237,
+    "z_score": 50.66640079082248,
+    "topic_concentration": 0.3643410852713178,
+    "direction": "ai"
+  },
+  {
+    "phrase": "personal",
+    "log_odds": 1.1886143191951897,
+    "z_score": 50.61324994997889,
+    "topic_concentration": 0.15770810003732735,
+    "direction": "ai"
+  },
+  {
+    "phrase": "challenges",
+    "log_odds": 2.2806453077297686,
+    "z_score": 50.58622737742488,
+    "topic_concentration": 0.23484848484848486,
+    "direction": "ai"
+  },
+  {
+    "phrase": "variety",
+    "log_odds": 1.8563852237730494,
+    "z_score": 50.445630823990854,
+    "topic_concentration": 0.08560311284046693,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to reduce",
+    "log_odds": 1.9373774787588847,
+    "z_score": 50.34564372670137,
+    "topic_concentration": 0.5110759493670886,
+    "direction": "ai"
+  },
+  {
+    "phrase": "something",
+    "log_odds": -0.7594956237072257,
+    "z_score": -50.07140011061776,
+    "topic_concentration": 0.09943108352728212,
+    "direction": "human"
+  },
+  {
+    "phrase": "essay",
+    "log_odds": 1.7391639559931509,
+    "z_score": 49.944055190719475,
+    "topic_concentration": 0.23535457348406988,
+    "direction": "ai"
+  },
+  {
+    "phrase": "academic",
+    "log_odds": 2.1108686533758014,
+    "z_score": 49.91458462111591,
+    "topic_concentration": 0.3472537448933273,
+    "direction": "ai"
+  },
+  {
+    "phrase": "not",
+    "log_odds": -0.28268929962335676,
+    "z_score": -49.83826837801907,
+    "topic_concentration": 0.06365583387652482,
+    "direction": "human"
+  },
+  {
+    "phrase": "advantages",
+    "log_odds": 1.3202927428314997,
+    "z_score": 49.72067630118745,
+    "topic_concentration": 0.5341880341880342,
+    "direction": "ai"
+  },
+  {
+    "phrase": "doing",
+    "log_odds": -1.0606926415940672,
+    "z_score": -49.622539752075035,
+    "topic_concentration": 0.10563597166615338,
+    "direction": "human"
+  },
+  {
+    "phrase": "opportunities",
+    "log_odds": 1.873746293771049,
+    "z_score": 49.61601248868352,
+    "topic_concentration": 0.28789850357839947,
+    "direction": "ai"
+  },
+  {
+    "phrase": "risks",
+    "log_odds": 1.9573735623349595,
+    "z_score": 49.44640901044046,
+    "topic_concentration": 0.1401250459727841,
+    "direction": "ai"
+  },
+  {
+    "phrase": "failure",
+    "log_odds": 2.621104553789978,
+    "z_score": 49.41167596233364,
+    "topic_concentration": 0.41735159817351597,
+    "direction": "ai"
+  },
+  {
+    "phrase": "home",
+    "log_odds": -0.8528393012540985,
+    "z_score": -49.38589134454277,
+    "topic_concentration": 0.2978970455425106,
+    "direction": "human"
+  },
+  {
+    "phrase": "essential",
+    "log_odds": 2.379076890252515,
+    "z_score": 49.14703127210245,
+    "topic_concentration": 0.2515840477077898,
+    "direction": "ai"
+  },
+  {
+    "phrase": "it like",
+    "log_odds": 1.7406962042177927,
+    "z_score": 49.119714702024744,
+    "topic_concentration": 0.160503860219423,
+    "direction": "ai"
+  },
+  {
+    "phrase": "did",
+    "log_odds": -1.4238319421103345,
+    "z_score": -48.93317345283141,
+    "topic_concentration": 0.06933606242804145,
+    "direction": "human"
+  },
+  {
+    "phrase": "attitude",
+    "log_odds": 3.1425683034247296,
+    "z_score": 48.87073417937303,
+    "topic_concentration": 0.5093240093240093,
+    "direction": "ai"
+  },
+  {
+    "phrase": "sense of",
+    "log_odds": 2.0150340807353704,
+    "z_score": 48.43586662549877,
+    "topic_concentration": 0.17666422823701536,
+    "direction": "ai"
+  },
+  {
+    "phrase": "had",
+    "log_odds": -0.792355295863743,
+    "z_score": -48.285662304224765,
+    "topic_concentration": 0.09964012595591543,
+    "direction": "human"
+  },
+  {
+    "phrase": "our",
+    "log_odds": 0.43165526380053265,
+    "z_score": 48.13512466840074,
+    "topic_concentration": 0.12355800199098202,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the potential",
+    "log_odds": 2.8910103914606253,
+    "z_score": 48.08982972954252,
+    "topic_concentration": 0.17472266244057053,
+    "direction": "ai"
+  },
+  {
+    "phrase": "see",
+    "log_odds": -0.7636247807027727,
+    "z_score": -47.93748527684935,
+    "topic_concentration": 0.07687120701281187,
+    "direction": "human"
+  },
+  {
+    "phrase": "the student",
+    "log_odds": -1.9518075290085868,
+    "z_score": -47.68528866456931,
+    "topic_concentration": 0.2454212454212454,
+    "direction": "human"
+  },
+  {
+    "phrase": "will be",
+    "log_odds": -0.9947173085529606,
+    "z_score": -47.488053182539446,
+    "topic_concentration": 0.07708395578129669,
+    "direction": "human"
+  },
+  {
+    "phrase": "said",
+    "log_odds": -1.669292533089056,
+    "z_score": -47.373205586366964,
+    "topic_concentration": 0.12083071113908118,
+    "direction": "human"
+  },
+  {
+    "phrase": "the",
+    "log_odds": -0.09460324740722736,
+    "z_score": -47.181236817134305,
+    "topic_concentration": 0.04786864945074888,
+    "direction": "human"
+  },
+  {
+    "phrase": "to consider",
+    "log_odds": 2.426830928515894,
+    "z_score": 47.17810569548771,
+    "topic_concentration": 0.11254137550570062,
+    "direction": "ai"
+  },
+  {
+    "phrase": "means that",
+    "log_odds": 1.187523313123986,
+    "z_score": 47.13114844587057,
+    "topic_concentration": 0.17693148688046648,
+    "direction": "ai"
+  },
+  {
+    "phrase": "for example",
+    "log_odds": 0.6710721880507604,
+    "z_score": 47.08982368941724,
+    "topic_concentration": 0.11102891728312038,
+    "direction": "ai"
+  },
+  {
+    "phrase": "don",
+    "log_odds": -0.7532524839825356,
+    "z_score": -47.03549531298536,
+    "topic_concentration": 0.09009372979961215,
+    "direction": "human"
+  },
+  {
+    "phrase": "which",
+    "log_odds": 0.40712336391884474,
+    "z_score": 46.92303371819695,
+    "topic_concentration": 0.0688126385463174,
+    "direction": "ai"
+  },
+  {
+    "phrase": "negative",
+    "log_odds": 1.3019285007396064,
+    "z_score": 46.77597141300716,
+    "topic_concentration": 0.1453768038482095,
+    "direction": "ai"
+  },
+  {
+    "phrase": "ensure that",
+    "log_odds": 2.3388273010461784,
+    "z_score": 46.692128317304295,
+    "topic_concentration": 0.20715118538670813,
+    "direction": "ai"
+  },
+  {
+    "phrase": "benefits of",
+    "log_odds": 2.3084367531499375,
+    "z_score": 46.43364799411109,
+    "topic_concentration": 0.23627413858386975,
+    "direction": "ai"
+  },
+  {
+    "phrase": "often",
+    "log_odds": 0.8301519012845961,
+    "z_score": 46.41267789913072,
+    "topic_concentration": 0.08669334154098697,
+    "direction": "ai"
+  },
+  {
+    "phrase": "professional",
+    "log_odds": 2.0952197538819295,
+    "z_score": 46.23953238376134,
+    "topic_concentration": 0.1069182389937107,
+    "direction": "ai"
+  },
+  {
+    "phrase": "since",
+    "log_odds": -1.3935926073210467,
+    "z_score": -45.890011628910706,
+    "topic_concentration": 0.09974595534162321,
+    "direction": "human"
+  },
+  {
+    "phrase": "note that",
+    "log_odds": 2.3986553568190203,
+    "z_score": 45.677600423744494,
+    "topic_concentration": 0.030058177117000647,
+    "direction": "ai"
+  },
+  {
+    "phrase": "we can",
+    "log_odds": 0.8465351800909549,
+    "z_score": 45.54336130471782,
+    "topic_concentration": 0.19934640522875818,
+    "direction": "ai"
+  },
+  {
+    "phrase": "because of",
+    "log_odds": -1.5433469163093712,
+    "z_score": -45.445495631567645,
+    "topic_concentration": 0.11537875323883555,
+    "direction": "human"
+  },
+  {
+    "phrase": "ask",
+    "log_odds": -1.232616626769361,
+    "z_score": -45.289659381749416,
+    "topic_concentration": 0.26614520657841956,
+    "direction": "human"
+  },
+  {
+    "phrase": "or",
+    "log_odds": 0.227537822332744,
+    "z_score": 44.93556264966399,
+    "topic_concentration": 0.06200945995114091,
+    "direction": "ai"
+  },
+  {
+    "phrase": "performance",
+    "log_odds": 1.8739206596503575,
+    "z_score": 44.91002348368475,
+    "topic_concentration": 0.18852097130242826,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to go",
+    "log_odds": -1.396039798468836,
+    "z_score": -44.85821648552224,
+    "topic_concentration": 0.10887397464578673,
+    "direction": "human"
+  },
+  {
+    "phrase": "important for",
+    "log_odds": 2.160975006081923,
+    "z_score": 44.77600600421785,
+    "topic_concentration": 0.207368021268515,
+    "direction": "ai"
+  },
+  {
+    "phrase": "lot",
+    "log_odds": -0.7768988915737491,
+    "z_score": -44.77139378823579,
+    "topic_concentration": 0.06328148825861543,
+    "direction": "human"
+  },
+  {
+    "phrase": "all the",
+    "log_odds": -1.2008981133190382,
+    "z_score": -44.74641318787927,
+    "topic_concentration": 0.06739286569308116,
+    "direction": "human"
+  },
+  {
+    "phrase": "resources",
+    "log_odds": 1.4076251218999882,
+    "z_score": 44.491788154910104,
+    "topic_concentration": 0.2229299363057325,
+    "direction": "ai"
+  },
+  {
+    "phrase": "other hand",
+    "log_odds": 1.5259206346183625,
+    "z_score": 44.346601457472886,
+    "topic_concentration": 0.1589089089089089,
+    "direction": "ai"
+  },
+  {
+    "phrase": "does",
+    "log_odds": -0.8223431447203247,
+    "z_score": -44.24261951884508,
+    "topic_concentration": 0.07800666464707665,
+    "direction": "human"
+  },
+  {
+    "phrase": "stock",
+    "log_odds": 1.1681476715396268,
+    "z_score": 44.16641609835673,
+    "topic_concentration": 0.005762179151388162,
+    "direction": "ai"
+  },
+  {
+    "phrase": "provides",
+    "log_odds": 1.5476541211956327,
+    "z_score": 44.11340884207969,
+    "topic_concentration": 0.22111072783718524,
+    "direction": "ai"
+  },
+  {
+    "phrase": "access",
+    "log_odds": 1.2783070700813965,
+    "z_score": 43.8090167264182,
+    "topic_concentration": 0.2684044686336293,
+    "direction": "ai"
+  },
+  {
+    "phrase": "as",
+    "log_odds": 0.241324469120487,
+    "z_score": 43.80688957080663,
+    "topic_concentration": 0.06346946698959123,
+    "direction": "ai"
+  },
+  {
+    "phrase": "number",
+    "log_odds": 0.730862594120766,
+    "z_score": 43.767825766960975,
+    "topic_concentration": 0.1697140753466683,
+    "direction": "ai"
+  },
+  {
+    "phrase": "several",
+    "log_odds": 1.1933091925010917,
+    "z_score": 43.721634419907765,
+    "topic_concentration": 0.07668292682926829,
+    "direction": "ai"
+  },
+  {
+    "phrase": "phone",
+    "log_odds": -0.9065711588852263,
+    "z_score": -43.674759171407764,
+    "topic_concentration": 0.34183054139354213,
+    "direction": "human"
+  },
+  {
+    "phrase": "and other",
+    "log_odds": 0.9661458257138777,
+    "z_score": 43.64467767875342,
+    "topic_concentration": 0.10464135021097046,
+    "direction": "ai"
+  },
+  {
+    "phrase": "bad",
+    "log_odds": -1.1615339102698217,
+    "z_score": -43.60402687563792,
+    "topic_concentration": 0.11045364891518737,
+    "direction": "human"
+  },
+  {
+    "phrase": "interests",
+    "log_odds": 1.4108034913723078,
+    "z_score": 43.436563163027216,
+    "topic_concentration": 0.19115163796014858,
+    "direction": "ai"
+  },
+  {
+    "phrase": "argue that",
+    "log_odds": 1.6102140570824233,
+    "z_score": 43.415694752640086,
+    "topic_concentration": 0.20174848688634836,
+    "direction": "ai"
+  },
+  {
+    "phrase": "tax",
+    "log_odds": 1.0479538114100855,
+    "z_score": 43.384470485728784,
+    "topic_concentration": 0.08333333333333333,
+    "direction": "ai"
+  },
+  {
+    "phrase": "growth",
+    "log_odds": 1.7138554169815006,
+    "z_score": 43.0042108640846,
+    "topic_concentration": 0.21000431220353602,
+    "direction": "ai"
+  },
+  {
+    "phrase": "argue",
+    "log_odds": 1.3389784050553626,
+    "z_score": 43.00071216830518,
+    "topic_concentration": 0.20258383727322704,
+    "direction": "ai"
+  },
+  {
+    "phrase": "used",
+    "log_odds": 0.5974638185435754,
+    "z_score": 42.98873476836816,
+    "topic_concentration": 0.06486647325745741,
+    "direction": "ai"
+  },
+  {
+    "phrase": "likely to",
+    "log_odds": 1.1079138397114807,
+    "z_score": 42.90414830284296,
+    "topic_concentration": 0.14184866534303994,
+    "direction": "ai"
+  },
+  {
+    "phrase": "tell",
+    "log_odds": -1.4368916883707037,
+    "z_score": -42.701342221312515,
+    "topic_concentration": 0.17202948049613517,
+    "direction": "human"
+  },
+  {
+    "phrase": "concerns",
+    "log_odds": 2.3769301856211733,
+    "z_score": 42.69072132930808,
+    "topic_concentration": 0.19183285849952517,
+    "direction": "ai"
+  },
+  {
+    "phrase": "contribute",
+    "log_odds": 2.0459854222354075,
+    "z_score": 42.55718403199141,
+    "topic_concentration": 0.3592788038698329,
+    "direction": "ai"
+  },
+  {
+    "phrase": "they may",
+    "log_odds": 1.2173301575766544,
+    "z_score": 42.49923993483773,
+    "topic_concentration": 0.12798634812286688,
+    "direction": "ai"
+  },
+  {
+    "phrase": "they would",
+    "log_odds": -1.5735090757013879,
+    "z_score": -42.321357724989696,
+    "topic_concentration": 0.13668341708542714,
+    "direction": "human"
+  },
+  {
+    "phrase": "may not",
+    "log_odds": 0.9390560859092938,
+    "z_score": 42.29296238276559,
+    "topic_concentration": 0.14979691307879772,
+    "direction": "ai"
+  },
+  {
+    "phrase": "experiences",
+    "log_odds": 1.4967512698308774,
+    "z_score": 42.18222891241158,
+    "topic_concentration": 0.310948905109489,
+    "direction": "ai"
+  },
+  {
+    "phrase": "this essay",
+    "log_odds": 2.535054461010585,
+    "z_score": 42.17715164475387,
+    "topic_concentration": 0.25009648784253186,
+    "direction": "ai"
+  },
+  {
+    "phrase": "think that",
+    "log_odds": -1.3249182079716952,
+    "z_score": -42.101139804818864,
+    "topic_concentration": 0.10015731515469324,
+    "direction": "human"
+  },
+  {
+    "phrase": "investment",
+    "log_odds": 1.5259993379604655,
+    "z_score": 42.08986414354966,
+    "topic_concentration": 0.038730500268961805,
+    "direction": "ai"
+  },
+  {
+    "phrase": "point",
+    "log_odds": -1.3042541512611372,
+    "z_score": -41.98060437464987,
+    "topic_concentration": 0.07932767829092051,
+    "direction": "human"
+  },
+  {
+    "phrase": "working",
+    "log_odds": 0.7995513989101637,
+    "z_score": 41.80200210655015,
+    "topic_concentration": 0.15688926458157226,
+    "direction": "ai"
+  },
+  {
+    "phrase": "treatment",
+    "log_odds": 1.9501391004464352,
+    "z_score": 41.78637652771916,
+    "topic_concentration": 0.010698198198198198,
+    "direction": "ai"
+  },
+  {
+    "phrase": "go to",
+    "log_odds": -1.5749716319127156,
+    "z_score": -41.682099051718374,
+    "topic_concentration": 0.1710339224050376,
+    "direction": "human"
+  },
+  {
+    "phrase": "healthcare",
+    "log_odds": 2.8451786386121984,
+    "z_score": 41.66656522823439,
+    "topic_concentration": 0.03441558441558441,
+    "direction": "ai"
+  },
+  {
+    "phrase": "relationships",
+    "log_odds": 2.1356931533427232,
+    "z_score": 41.58011325130095,
+    "topic_concentration": 0.2799315849486887,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to ensure",
+    "log_odds": 1.9156577115068139,
+    "z_score": 41.48430378563239,
+    "topic_concentration": 0.17702758336764102,
+    "direction": "ai"
+  },
+  {
+    "phrase": "can provide",
+    "log_odds": 2.463487182857632,
+    "z_score": 41.45804589889825,
+    "topic_concentration": 0.2600732600732601,
+    "direction": "ai"
+  },
+  {
+    "phrase": "difficult to",
+    "log_odds": 1.5818772106364811,
+    "z_score": 41.40951955296223,
+    "topic_concentration": 0.13032089063523247,
+    "direction": "ai"
+  },
+  {
+    "phrase": "options",
+    "log_odds": 1.0947338300809246,
+    "z_score": 41.35384677272893,
+    "topic_concentration": 0.16921815199562604,
+    "direction": "ai"
+  },
+  {
+    "phrase": "ultimately",
+    "log_odds": 1.8269306272230335,
+    "z_score": 41.33628490745099,
+    "topic_concentration": 0.21992337164750958,
+    "direction": "ai"
+  },
+  {
+    "phrase": "include",
+    "log_odds": 1.3662463270756167,
+    "z_score": 41.1428568518603,
+    "topic_concentration": 0.05512023777357471,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the united",
+    "log_odds": 0.8193832828781709,
+    "z_score": 41.131311009759166,
+    "topic_concentration": 0.3037837837837838,
+    "direction": "ai"
+  },
+  {
+    "phrase": "approach",
+    "log_odds": 1.876869770136663,
+    "z_score": 41.108141850185234,
+    "topic_concentration": 0.16950672645739912,
+    "direction": "ai"
+  },
+  {
+    "phrase": "by",
+    "log_odds": 0.2773439958465094,
+    "z_score": 40.99102001210394,
+    "topic_concentration": 0.0692347612757124,
+    "direction": "ai"
+  },
+  {
+    "phrase": "maybe",
+    "log_odds": -1.7142354917676492,
+    "z_score": -40.95991309156208,
+    "topic_concentration": 0.07720667967902842,
+    "direction": "human"
+  },
+  {
+    "phrase": "also",
+    "log_odds": 0.3043651650455441,
+    "z_score": 40.85968352341066,
+    "topic_concentration": 0.0775956550330013,
+    "direction": "ai"
+  },
+  {
+    "phrase": "firstly",
+    "log_odds": 2.3007842639910105,
+    "z_score": 40.82996155734255,
+    "topic_concentration": 0.2339577520924671,
+    "direction": "ai"
+  },
+  {
+    "phrase": "says",
+    "log_odds": -2.1831575888217145,
+    "z_score": -40.74866338381027,
+    "topic_concentration": 0.11357198042750451,
+    "direction": "human"
+  },
+  {
+    "phrase": "reason",
+    "log_odds": -0.75654730787942,
+    "z_score": -40.6570013117665,
+    "topic_concentration": 0.06788822721026111,
+    "direction": "human"
+  },
+  {
+    "phrase": "contribute to",
+    "log_odds": 2.540582867655697,
+    "z_score": 40.62929187826507,
+    "topic_concentration": 0.40165203923593185,
+    "direction": "ai"
+  },
+  {
+    "phrase": "phones",
+    "log_odds": -0.7674975006611984,
+    "z_score": -40.604589262873226,
+    "topic_concentration": 0.4713138267355135,
+    "direction": "human"
+  },
+  {
+    "phrase": "range of",
+    "log_odds": 2.2186630783798407,
+    "z_score": 40.600693122093126,
+    "topic_concentration": 0.12402028584601199,
+    "direction": "ai"
+  },
+  {
+    "phrase": "every",
+    "log_odds": -0.8824003339834459,
+    "z_score": -40.58525191342448,
+    "topic_concentration": 0.1067181306071354,
+    "direction": "human"
+  },
+  {
+    "phrase": "after",
+    "log_odds": -0.7179124847731613,
+    "z_score": -40.34385501302533,
+    "topic_concentration": 0.09264516129032258,
+    "direction": "human"
+  },
+  {
+    "phrase": "probably",
+    "log_odds": -2.7929642194967332,
+    "z_score": -40.321755603731674,
+    "topic_concentration": 0.06437941473259334,
+    "direction": "human"
+  },
+  {
+    "phrase": "credit",
+    "log_odds": 1.1188782160136697,
+    "z_score": 40.314878805622506,
+    "topic_concentration": 0.05461940732132481,
+    "direction": "ai"
+  },
+  {
+    "phrase": "more likely",
+    "log_odds": 1.2307330879641185,
+    "z_score": 40.304187999970864,
+    "topic_concentration": 0.17230130486358244,
+    "direction": "ai"
+  },
+  {
+    "phrase": "there is",
+    "log_odds": -0.7754520167459935,
+    "z_score": -40.30396856442123,
+    "topic_concentration": 0.06752982990606753,
+    "direction": "human"
+  },
+  {
+    "phrase": "got",
+    "log_odds": -1.6784868366999852,
+    "z_score": -40.25478841505815,
+    "topic_concentration": 0.11376224968044311,
+    "direction": "human"
+  },
+  {
+    "phrase": "helps to",
+    "log_odds": 2.7797502315596336,
+    "z_score": 40.24108472852488,
+    "topic_concentration": 0.0782472613458529,
+    "direction": "ai"
+  },
+  {
+    "phrase": "protect",
+    "log_odds": 1.775750192714904,
+    "z_score": 40.204321070044486,
+    "topic_concentration": 0.13533507397737163,
+    "direction": "ai"
+  },
+  {
+    "phrase": "what they",
+    "log_odds": -1.3280009625658273,
+    "z_score": -40.1975268718895,
+    "topic_concentration": 0.17508856983031884,
+    "direction": "human"
+  },
+  {
+    "phrase": "however it",
+    "log_odds": 1.9644124847587285,
+    "z_score": 40.13092536264213,
+    "topic_concentration": 0.10435464888191448,
+    "direction": "ai"
+  },
+  {
+    "phrase": "and to",
+    "log_odds": 1.0790885735711182,
+    "z_score": 40.01108146307181,
+    "topic_concentration": 0.09789644012944984,
+    "direction": "ai"
+  },
+  {
+    "phrase": "united states",
+    "log_odds": 0.8010002751825427,
+    "z_score": 40.01089336313087,
+    "topic_concentration": 0.3103448275862069,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the benefits",
+    "log_odds": 1.8256916196323125,
+    "z_score": 39.97490847122532,
+    "topic_concentration": 0.2340691378592253,
+    "direction": "ai"
+  },
+  {
+    "phrase": "at home",
+    "log_odds": -1.6037929543168499,
+    "z_score": -39.92492632405944,
+    "topic_concentration": 0.4763624425476034,
+    "direction": "human"
+  },
+  {
+    "phrase": "should be",
+    "log_odds": -0.7160651730025469,
+    "z_score": -39.65198901613052,
+    "topic_concentration": 0.15302116250119696,
+    "direction": "human"
+  },
+  {
+    "phrase": "helps",
+    "log_odds": 0.7723116053007288,
+    "z_score": 39.62508360060213,
+    "topic_concentration": 0.11083223249669749,
+    "direction": "ai"
+  },
+  {
+    "phrase": "used to",
+    "log_odds": 0.9012567224438186,
+    "z_score": 39.62418320692964,
+    "topic_concentration": 0.06904995102840353,
+    "direction": "ai"
+  },
+  {
+    "phrase": "percent",
+    "log_odds": -1.7010118892893953,
+    "z_score": -39.577371744141686,
+    "topic_concentration": 0.4674457429048414,
+    "direction": "human"
+  },
+  {
+    "phrase": "the car",
+    "log_odds": -1.2503307180524903,
+    "z_score": -39.55304352599616,
+    "topic_concentration": 0.3862303179993825,
+    "direction": "human"
+  },
+  {
+    "phrase": "united",
+    "log_odds": 0.7611106825171774,
+    "z_score": 39.53030838031376,
+    "topic_concentration": 0.29389368868062676,
+    "direction": "ai"
+  },
+  {
+    "phrase": "determine",
+    "log_odds": 1.511277378158633,
+    "z_score": 39.4335750840898,
+    "topic_concentration": 0.058823529411764705,
+    "direction": "ai"
+  },
+  {
+    "phrase": "if they",
+    "log_odds": -0.8623335589018604,
+    "z_score": -39.43209653860714,
+    "topic_concentration": 0.09895036081347038,
+    "direction": "human"
+  },
+  {
+    "phrase": "to improve",
+    "log_odds": 1.755277671714797,
+    "z_score": 39.37828462108663,
+    "topic_concentration": 0.23499302000930666,
+    "direction": "ai"
+  },
+  {
+    "phrase": "it would",
+    "log_odds": -0.8426785588913654,
+    "z_score": -39.34632579343243,
+    "topic_concentration": 0.07435332328036191,
+    "direction": "human"
+  },
+  {
+    "phrase": "finally",
+    "log_odds": 0.9970208894116297,
+    "z_score": 39.11052781079823,
+    "topic_concentration": 0.12682681001175877,
+    "direction": "ai"
+  },
+  {
+    "phrase": "though",
+    "log_odds": -1.1879049267133226,
+    "z_score": -39.06775765770527,
+    "topic_concentration": 0.07858197932053176,
+    "direction": "human"
+  },
+  {
+    "phrase": "it will",
+    "log_odds": -1.1567547999129904,
+    "z_score": -38.81390781901533,
+    "topic_concentration": 0.08632971506105834,
+    "direction": "human"
+  },
+  {
+    "phrase": "to note",
+    "log_odds": 3.658663310846821,
+    "z_score": 38.769614387920946,
+    "topic_concentration": 0.032915921288014315,
+    "direction": "ai"
+  },
+  {
+    "phrase": "she",
+    "log_odds": -0.952576989235248,
+    "z_score": -38.71294117755011,
+    "topic_concentration": 0.13897964312641367,
+    "direction": "human"
+  },
+  {
+    "phrase": "development",
+    "log_odds": 1.253268171211305,
+    "z_score": 38.70771551344425,
+    "topic_concentration": 0.14559260482007264,
+    "direction": "ai"
+  },
+  {
+    "phrase": "while",
+    "log_odds": 0.413946388076587,
+    "z_score": 38.66029909785898,
+    "topic_concentration": 0.1180428134556575,
+    "direction": "ai"
+  },
+  {
+    "phrase": "things",
+    "log_odds": -0.5159515873247749,
+    "z_score": -38.58003792583549,
+    "topic_concentration": 0.08111959867745981,
+    "direction": "human"
+  },
+  {
+    "phrase": "are few",
+    "log_odds": 2.184122060541883,
+    "z_score": 38.57990579753111,
+    "topic_concentration": 0.03309796999117388,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to achieve",
+    "log_odds": 2.0645142817207525,
+    "z_score": 38.517125779512945,
+    "topic_concentration": 0.3420138888888889,
+    "direction": "ai"
+  },
+  {
+    "phrase": "want to",
+    "log_odds": -0.6146587146424025,
+    "z_score": -38.50654886867958,
+    "topic_concentration": 0.08218026144790154,
+    "direction": "human"
+  },
+  {
+    "phrase": "balance",
+    "log_odds": 1.3302105427702937,
+    "z_score": 38.48955168238227,
+    "topic_concentration": 0.1810772501771793,
+    "direction": "ai"
+  },
+  {
+    "phrase": "necessary",
+    "log_odds": 1.2409588540477188,
+    "z_score": 38.455447518472546,
+    "topic_concentration": 0.10654362416107382,
+    "direction": "ai"
+  },
+  {
+    "phrase": "allows",
+    "log_odds": 0.8929532680840886,
+    "z_score": 38.43393771646994,
+    "topic_concentration": 0.16675799086757992,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to remember",
+    "log_odds": 2.0001589550085814,
+    "z_score": 38.40240837700408,
+    "topic_concentration": 0.16793168880455409,
+    "direction": "ai"
+  },
+  {
+    "phrase": "nasa",
+    "log_odds": -2.4421004904296417,
+    "z_score": -38.38989198586033,
+    "topic_concentration": 0.521671826625387,
+    "direction": "human"
+  },
+  {
+    "phrase": "the teacher",
+    "log_odds": -1.9604574080792947,
+    "z_score": -38.38965364358278,
+    "topic_concentration": 0.30665640631011926,
+    "direction": "human"
+  },
+  {
+    "phrase": "they will",
+    "log_odds": -1.1400667462904241,
+    "z_score": -38.33063103941134,
+    "topic_concentration": 0.12463556851311954,
+    "direction": "human"
+  },
+  {
+    "phrase": "range",
+    "log_odds": 1.4009732069085103,
+    "z_score": 38.30782101437307,
+    "topic_concentration": 0.09568874868559411,
+    "direction": "ai"
+  },
+  {
+    "phrase": "guidance",
+    "log_odds": 2.4297705552369795,
+    "z_score": 38.194296562917216,
+    "topic_concentration": 0.3,
+    "direction": "ai"
+  },
+  {
+    "phrase": "note",
+    "log_odds": 1.2291646803444127,
+    "z_score": 38.17752589215092,
+    "topic_concentration": 0.027136697945726602,
+    "direction": "ai"
+  },
+  {
+    "phrase": "this means",
+    "log_odds": 1.163063061528531,
+    "z_score": 38.1204201021557,
+    "topic_concentration": 0.2073827223788772,
+    "direction": "ai"
+  },
+  {
+    "phrase": "importance",
+    "log_odds": 2.1334870412865854,
+    "z_score": 38.08663297504084,
+    "topic_concentration": 0.2545454545454545,
+    "direction": "ai"
+  },
+  {
+    "phrase": "individual",
+    "log_odds": 1.075689074224993,
+    "z_score": 38.05613751926259,
+    "topic_concentration": 0.11229404309252218,
+    "direction": "ai"
+  },
+  {
+    "phrase": "actually",
+    "log_odds": -0.8804964552838364,
+    "z_score": -37.92100042893864,
+    "topic_concentration": 0.08345485137408862,
+    "direction": "human"
+  },
+  {
+    "phrase": "create",
+    "log_odds": 0.7723157497170163,
+    "z_score": 37.91993651767548,
+    "topic_concentration": 0.1254014375286741,
+    "direction": "ai"
+  },
+  {
+    "phrase": "company",
+    "log_odds": 0.8345572341085106,
+    "z_score": 37.86949917234798,
+    "topic_concentration": 0.04065719855193539,
+    "direction": "ai"
+  },
+  {
+    "phrase": "specific",
+    "log_odds": 0.9287778237790683,
+    "z_score": 37.843971835839014,
+    "topic_concentration": 0.06167000181917409,
+    "direction": "ai"
+  },
+  {
+    "phrase": "price",
+    "log_odds": 0.912280498177795,
+    "z_score": 37.83847226274913,
+    "topic_concentration": 0.06317354143441099,
+    "direction": "ai"
+  },
+  {
+    "phrase": "driver",
+    "log_odds": -1.4750054298605857,
+    "z_score": -37.83709027166183,
+    "topic_concentration": 0.5110913930789707,
+    "direction": "human"
+  },
+  {
+    "phrase": "can cause",
+    "log_odds": 1.1951608633321893,
+    "z_score": 37.64188313328431,
+    "topic_concentration": 0.1821800367421923,
+    "direction": "ai"
+  },
+  {
+    "phrase": "text",
+    "log_odds": -1.6524390561776876,
+    "z_score": -37.578665249472415,
+    "topic_concentration": 0.23993055555555556,
+    "direction": "human"
+  },
+  {
+    "phrase": "and make",
+    "log_odds": 0.9982638008351667,
+    "z_score": 37.57051910284102,
+    "topic_concentration": 0.1514360313315927,
+    "direction": "ai"
+  },
+  {
+    "phrase": "income",
+    "log_odds": 1.1321912745831746,
+    "z_score": 37.56336407585777,
+    "topic_concentration": 0.03620771796093378,
+    "direction": "ai"
+  },
+  {
+    "phrase": "little",
+    "log_odds": -1.1694401334517366,
+    "z_score": -37.26356463263197,
+    "topic_concentration": 0.05719349121959078,
+    "direction": "human"
+  },
+  {
+    "phrase": "hand",
+    "log_odds": 0.8385852633027433,
+    "z_score": 37.1851508203534,
+    "topic_concentration": 0.13009800822004428,
+    "direction": "ai"
+  },
+  {
+    "phrase": "role",
+    "log_odds": 1.4824172989528197,
+    "z_score": 37.179260409729004,
+    "topic_concentration": 0.1312,
+    "direction": "ai"
+  },
+  {
+    "phrase": "cell",
+    "log_odds": -0.7972360877373736,
+    "z_score": -37.161320177130065,
+    "topic_concentration": 0.45545545545545546,
+    "direction": "human"
+  },
+  {
+    "phrase": "super",
+    "log_odds": 1.532192992306733,
+    "z_score": 37.1564740669182,
+    "topic_concentration": 0.21005291005291005,
+    "direction": "ai"
+  },
+  {
+    "phrase": "states",
+    "log_odds": 0.4223134644747466,
+    "z_score": 37.04997973972371,
+    "topic_concentration": 0.29185103244837757,
+    "direction": "ai"
+  },
+  {
+    "phrase": "medical",
+    "log_odds": 1.5216031263342753,
+    "z_score": 36.8942305795486,
+    "topic_concentration": 0.07606382978723404,
+    "direction": "ai"
+  },
+  {
+    "phrase": "put",
+    "log_odds": -0.9165431609898409,
+    "z_score": -36.89133247343016,
+    "topic_concentration": 0.07346619773348964,
+    "direction": "human"
+  },
+  {
+    "phrase": "getting",
+    "log_odds": -0.8354586166129359,
+    "z_score": -36.88847255836543,
+    "topic_concentration": 0.1300736928295707,
+    "direction": "human"
+  },
+  {
+    "phrase": "social",
+    "log_odds": 0.7751922481673859,
+    "z_score": 36.878777090566246,
+    "topic_concentration": 0.2850641290856434,
+    "direction": "ai"
+  },
+  {
+    "phrase": "when we",
+    "log_odds": 1.0980723614570422,
+    "z_score": 36.83086456728654,
+    "topic_concentration": 0.1975142761168962,
+    "direction": "ai"
+  },
+  {
+    "phrase": "that can",
+    "log_odds": 0.744723216449553,
+    "z_score": 36.787655992224224,
+    "topic_concentration": 0.08759582757320598,
+    "direction": "ai"
+  },
+  {
+    "phrase": "crucial",
+    "log_odds": 1.94703395210054,
+    "z_score": 36.74093112401607,
+    "topic_concentration": 0.27931214174048985,
+    "direction": "ai"
+  },
+  {
+    "phrase": "types of",
+    "log_odds": 1.2273287993078075,
+    "z_score": 36.72586238104244,
+    "topic_concentration": 0.04962546816479401,
+    "direction": "ai"
+  },
+  {
+    "phrase": "anything",
+    "log_odds": -1.1368125717236985,
+    "z_score": -36.72343509789159,
+    "topic_concentration": 0.065172468605945,
+    "direction": "human"
+  },
+  {
+    "phrase": "writing",
+    "log_odds": 1.1923186274178903,
+    "z_score": 36.67983395296041,
+    "topic_concentration": 0.3711590296495957,
+    "direction": "ai"
+  },
+  {
+    "phrase": "remember that",
+    "log_odds": 2.1531162228754983,
+    "z_score": 36.634468958421984,
+    "topic_concentration": 0.18828451882845187,
+    "direction": "ai"
+  },
+  {
+    "phrase": "you could",
+    "log_odds": -1.5205182872863592,
+    "z_score": -36.60220036247229,
+    "topic_concentration": 0.09661229611041405,
+    "direction": "human"
+  },
+  {
+    "phrase": "or other",
+    "log_odds": 1.2755213190221912,
+    "z_score": 36.55000036471858,
+    "topic_concentration": 0.09804529941048712,
+    "direction": "ai"
+  },
+  {
+    "phrase": "importance of",
+    "log_odds": 2.558519657954932,
+    "z_score": 36.53897528967463,
+    "topic_concentration": 0.2821685173089484,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to express",
+    "log_odds": 1.6833205947356031,
+    "z_score": 36.45734727537641,
+    "topic_concentration": 0.5767872903795234,
+    "direction": "ai"
+  },
+  {
+    "phrase": "public",
+    "log_odds": 0.7275696899488038,
+    "z_score": 36.42382911548968,
+    "topic_concentration": 0.3973380309258172,
+    "direction": "ai"
+  },
+  {
+    "phrase": "physical",
+    "log_odds": 1.0169928901827383,
+    "z_score": 36.42085783766399,
+    "topic_concentration": 0.17817371937639198,
+    "direction": "ai"
+  },
+  {
+    "phrase": "help",
+    "log_odds": 0.3033949218201011,
+    "z_score": 36.34725311934728,
+    "topic_concentration": 0.11488206346512812,
+    "direction": "ai"
+  },
+  {
+    "phrase": "for people",
+    "log_odds": 1.2136573217541482,
+    "z_score": 36.330778132762035,
+    "topic_concentration": 0.18845388188453882,
+    "direction": "ai"
+  },
+  {
+    "phrase": "sports",
+    "log_odds": -0.8544496848583139,
+    "z_score": -36.320550177158154,
+    "topic_concentration": 0.3319718629453143,
+    "direction": "human"
+  },
+  {
+    "phrase": "is often",
+    "log_odds": 1.8261544011232154,
+    "z_score": 36.29195414789695,
+    "topic_concentration": 0.09646146388754241,
+    "direction": "ai"
+  },
+  {
+    "phrase": "consider the",
+    "log_odds": 2.2558527375732176,
+    "z_score": 36.25673307416112,
+    "topic_concentration": 0.14082098061573547,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the importance",
+    "log_odds": 2.467644743964101,
+    "z_score": 36.250970177347746,
+    "topic_concentration": 0.2847682119205298,
+    "direction": "ai"
+  },
+  {
+    "phrase": "successful",
+    "log_odds": 1.2605062340501618,
+    "z_score": 36.228420175727564,
+    "topic_concentration": 0.24372230428360414,
+    "direction": "ai"
+  },
+  {
+    "phrase": "social media",
+    "log_odds": 1.865026449231424,
+    "z_score": 36.195236194975124,
+    "topic_concentration": 0.2919431279620853,
+    "direction": "ai"
+  },
+  {
+    "phrase": "traditional",
+    "log_odds": 1.5287225438710053,
+    "z_score": 36.186145051848094,
+    "topic_concentration": 0.43454871488344293,
+    "direction": "ai"
+  },
+  {
+    "phrase": "popular",
+    "log_odds": 0.5953401723255043,
+    "z_score": 36.12978025043618,
+    "topic_concentration": 0.5760626398210291,
+    "direction": "ai"
+  },
+  {
+    "phrase": "out of",
+    "log_odds": -0.9911102838681192,
+    "z_score": -36.10528433141511,
+    "topic_concentration": 0.06916714204221334,
+    "direction": "human"
+  },
+  {
+    "phrase": "help us",
+    "log_odds": 1.3993831013919742,
+    "z_score": 36.06559572856161,
+    "topic_concentration": 0.2183609958506224,
+    "direction": "ai"
+  },
+  {
+    "phrase": "informed",
+    "log_odds": 2.1162828214114597,
+    "z_score": 35.951410131851155,
+    "topic_concentration": 0.32677966101694916,
+    "direction": "ai"
+  },
+  {
+    "phrase": "address",
+    "log_odds": 1.4953664801926578,
+    "z_score": 35.94982811021507,
+    "topic_concentration": 0.1906158357771261,
+    "direction": "ai"
+  },
+  {
+    "phrase": "planet",
+    "log_odds": -0.9211785882914132,
+    "z_score": -35.93342533438212,
+    "topic_concentration": 0.4580335731414868,
+    "direction": "human"
+  },
+  {
+    "phrase": "traffic",
+    "log_odds": 0.8051642590292971,
+    "z_score": 35.89720682964889,
+    "topic_concentration": 0.5874246339362619,
+    "direction": "ai"
+  },
+  {
+    "phrase": "there are",
+    "log_odds": 0.42531686759160436,
+    "z_score": 35.8869615368773,
+    "topic_concentration": 0.09715065171264019,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the people",
+    "log_odds": -0.8938098391321194,
+    "z_score": -35.851325355350994,
+    "topic_concentration": 0.3384963452836756,
+    "direction": "human"
+  },
+  {
+    "phrase": "carefully",
+    "log_odds": 2.3328756653755818,
+    "z_score": 35.78666711378022,
+    "topic_concentration": 0.09421487603305785,
+    "direction": "ai"
+  },
+  {
+    "phrase": "are several",
+    "log_odds": 2.3837483304952087,
+    "z_score": 35.7399319826113,
+    "topic_concentration": 0.08418230563002681,
+    "direction": "ai"
+  },
+  {
+    "phrase": "and improve",
+    "log_odds": 2.113416119643693,
+    "z_score": 35.738204516242746,
+    "topic_concentration": 0.4307692307692308,
+    "direction": "ai"
+  },
+  {
+    "phrase": "wouldn",
+    "log_odds": -1.7725672348345594,
+    "z_score": -35.691098514357286,
+    "topic_concentration": 0.1111111111111111,
+    "direction": "human"
+  },
+  {
+    "phrase": "example if",
+    "log_odds": 1.1305603535243058,
+    "z_score": 35.67617385981792,
+    "topic_concentration": 0.1582122292295037,
+    "direction": "ai"
+  },
+  {
+    "phrase": "sense",
+    "log_odds": 0.8820862866788488,
+    "z_score": 35.6588405165632,
+    "topic_concentration": 0.1089261615577405,
+    "direction": "ai"
+  },
+  {
+    "phrase": "although",
+    "log_odds": -1.6715761456589835,
+    "z_score": -35.63352560974288,
+    "topic_concentration": 0.11556662515566625,
+    "direction": "human"
+  },
+  {
+    "phrase": "well being",
+    "log_odds": 2.6039636899990732,
+    "z_score": 35.624385688755645,
+    "topic_concentration": 0.19770580296896087,
+    "direction": "ai"
+  },
+  {
+    "phrase": "providing",
+    "log_odds": 1.7202042423411594,
+    "z_score": 35.60166060536283,
+    "topic_concentration": 0.23799690242643262,
+    "direction": "ai"
+  },
+  {
+    "phrase": "average",
+    "log_odds": -0.9756566675409495,
+    "z_score": -35.54620383726841,
+    "topic_concentration": 0.36238044633368754,
+    "direction": "human"
+  },
+  {
+    "phrase": "you do",
+    "log_odds": -1.5949616860917324,
+    "z_score": -35.496263514647225,
+    "topic_concentration": 0.0766109785202864,
+    "direction": "human"
+  },
+  {
+    "phrase": "reduce the",
+    "log_odds": 1.4529485468592682,
+    "z_score": 35.421851184710164,
+    "topic_concentration": 0.39152007216959855,
+    "direction": "ai"
+  },
+  {
+    "phrase": "in addition",
+    "log_odds": 1.188702205169113,
+    "z_score": 35.38352782863454,
+    "topic_concentration": 0.20976440533636107,
+    "direction": "ai"
+  },
+  {
+    "phrase": "skills and",
+    "log_odds": 1.8169255125689503,
+    "z_score": 35.38138310788979,
+    "topic_concentration": 0.2812324929971989,
+    "direction": "ai"
+  },
+  {
+    "phrase": "you should",
+    "log_odds": -1.1088705325361303,
+    "z_score": -35.349186947630365,
+    "topic_concentration": 0.1288021816656178,
+    "direction": "human"
+  },
+  {
+    "phrase": "strong",
+    "log_odds": 1.1460072460250785,
+    "z_score": 35.33441848872059,
+    "topic_concentration": 0.11678174722305613,
+    "direction": "ai"
+  },
+  {
+    "phrase": "look",
+    "log_odds": -0.8518602627252871,
+    "z_score": -35.3300198303403,
+    "topic_concentration": 0.09899961023775497,
+    "direction": "human"
+  },
+  {
+    "phrase": "wrong",
+    "log_odds": -1.295867045131569,
+    "z_score": -35.263256895873305,
+    "topic_concentration": 0.17628705148205928,
+    "direction": "human"
+  },
+  {
+    "phrase": "almost",
+    "log_odds": -2.165060834660249,
+    "z_score": -35.16395412415614,
+    "topic_concentration": 0.11154959221257564,
+    "direction": "human"
+  },
+  {
+    "phrase": "do it",
+    "log_odds": -1.471199461918376,
+    "z_score": -35.12180921574281,
+    "topic_concentration": 0.12762645914396886,
+    "direction": "human"
+  },
+  {
+    "phrase": "how",
+    "log_odds": -0.36425664608499897,
+    "z_score": -35.09669048863747,
+    "topic_concentration": 0.08010970567767817,
+    "direction": "human"
+  },
+  {
+    "phrase": "asking",
+    "log_odds": -1.51404224322129,
+    "z_score": -34.98763524235202,
+    "topic_concentration": 0.44286312264545835,
+    "direction": "human"
+  },
+  {
+    "phrase": "so they",
+    "log_odds": -1.4406613941440636,
+    "z_score": -34.98271481034797,
+    "topic_concentration": 0.0757439134355275,
+    "direction": "human"
+  },
+  {
+    "phrase": "one",
+    "log_odds": -0.2937575941722397,
+    "z_score": -34.87481533796202,
+    "topic_concentration": 0.08318529171248908,
+    "direction": "human"
+  },
+  {
+    "phrase": "paragraph",
+    "log_odds": -2.937786001173306,
+    "z_score": -34.83560153919627,
+    "topic_concentration": 0.2420349434737924,
+    "direction": "human"
+  },
+  {
+    "phrase": "possible",
+    "log_odds": 0.668210182744934,
+    "z_score": 34.793268152287354,
+    "topic_concentration": 0.07845200514439378,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to school",
+    "log_odds": -1.4107179065804036,
+    "z_score": -34.76893331577037,
+    "topic_concentration": 0.39352469959946595,
+    "direction": "human"
+  },
+  {
+    "phrase": "addition",
+    "log_odds": 1.0984049296692735,
+    "z_score": 34.73589216112031,
+    "topic_concentration": 0.19240769630785232,
+    "direction": "ai"
+  },
+  {
+    "phrase": "valuable",
+    "log_odds": 1.0072788052450754,
+    "z_score": 34.70081904742799,
+    "topic_concentration": 0.2501469723691946,
+    "direction": "ai"
+  },
+  {
+    "phrase": "example",
+    "log_odds": 0.4279778550327338,
+    "z_score": 34.64298914591473,
+    "topic_concentration": 0.10882336792401032,
+    "direction": "ai"
+  },
+  {
+    "phrase": "next",
+    "log_odds": -1.1029902480373206,
+    "z_score": -34.62165139313101,
+    "topic_concentration": 0.09544390419593013,
+    "direction": "human"
+  },
+  {
+    "phrase": "same",
+    "log_odds": -0.5610898540590679,
+    "z_score": -34.57781938756855,
+    "topic_concentration": 0.07180739706908583,
+    "direction": "human"
+  },
+  {
+    "phrase": "answer",
+    "log_odds": -1.512945859437668,
+    "z_score": -34.55318539487409,
+    "topic_concentration": 0.08822761681023232,
+    "direction": "human"
+  },
+  {
+    "phrase": "types",
+    "log_odds": 1.0662916971156324,
+    "z_score": 34.53803361124884,
+    "topic_concentration": 0.04690647482014389,
+    "direction": "ai"
+  },
+  {
+    "phrase": "economic",
+    "log_odds": 1.560181877463103,
+    "z_score": 34.53431617550535,
+    "topic_concentration": 0.22865853658536586,
+    "direction": "ai"
+  },
+  {
+    "phrase": "environmental",
+    "log_odds": 1.9344249578601875,
+    "z_score": 34.500499374486324,
+    "topic_concentration": 0.591878871300757,
+    "direction": "ai"
+  },
+  {
+    "phrase": "considered",
+    "log_odds": 1.11879745301324,
+    "z_score": 34.48632990247467,
+    "topic_concentration": 0.0709639266706091,
+    "direction": "ai"
+  },
+  {
+    "phrase": "name",
+    "log_odds": 0.9440017766605457,
+    "z_score": 34.4659446184576,
+    "topic_concentration": 0.3136375626483777,
+    "direction": "ai"
+  },
+  {
+    "phrase": "can make",
+    "log_odds": 0.8251831489650723,
+    "z_score": 34.34752200013035,
+    "topic_concentration": 0.14200853907555225,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to get",
+    "log_odds": -0.5840477966456481,
+    "z_score": -34.32334103832336,
+    "topic_concentration": 0.12335319949811795,
+    "direction": "human"
+  },
+  {
+    "phrase": "services",
+    "log_odds": 1.2826342263657686,
+    "z_score": 34.303758995834166,
+    "topic_concentration": 0.14299424184261036,
+    "direction": "ai"
+  },
+  {
+    "phrase": "health and",
+    "log_odds": 2.094750318043765,
+    "z_score": 34.267368897434025,
+    "topic_concentration": 0.4132285527177472,
+    "direction": "ai"
+  },
+  {
+    "phrase": "texting",
+    "log_odds": -2.1089683597252513,
+    "z_score": -34.249178549205155,
+    "topic_concentration": 0.5227272727272727,
+    "direction": "human"
+  },
+  {
+    "phrase": "because you",
+    "log_odds": -1.7345535955683271,
+    "z_score": -34.233003299180226,
+    "topic_concentration": 0.15341246290801186,
+    "direction": "human"
+  },
+  {
+    "phrase": "including the",
+    "log_odds": 2.1914264970536745,
+    "z_score": 34.23011167452886,
+    "topic_concentration": 0.19313554392088422,
+    "direction": "ai"
+  },
+  {
+    "phrase": "while it",
+    "log_odds": 1.8141869308711982,
+    "z_score": 34.16076959238383,
+    "topic_concentration": 0.1712913553895411,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to support",
+    "log_odds": 1.4450384854102527,
+    "z_score": 34.14977395287592,
+    "topic_concentration": 0.2791088692728037,
+    "direction": "ai"
+  },
+  {
+    "phrase": "group",
+    "log_odds": 0.8212976144530906,
+    "z_score": 34.06627997709041,
+    "topic_concentration": 0.12530056104728826,
+    "direction": "ai"
+  },
+  {
+    "phrase": "express",
+    "log_odds": 1.2674762072106542,
+    "z_score": 34.059594652092876,
+    "topic_concentration": 0.48549394050679395,
+    "direction": "ai"
+  },
+  {
+    "phrase": "nothing",
+    "log_odds": -1.7228409305016719,
+    "z_score": -33.98248700481038,
+    "topic_concentration": 0.07698519515477793,
+    "direction": "human"
+  },
+  {
+    "phrase": "back",
+    "log_odds": -0.7075611426409827,
+    "z_score": -33.92889862095009,
+    "topic_concentration": 0.0536406495547407,
+    "direction": "human"
+  },
+  {
+    "phrase": "may also",
+    "log_odds": 1.7275805787163971,
+    "z_score": 33.82892451482369,
+    "topic_concentration": 0.07204905467552376,
+    "direction": "ai"
+  },
+  {
+    "phrase": "source of",
+    "log_odds": 1.6076577939364913,
+    "z_score": 33.81944262232412,
+    "topic_concentration": 0.5231431646932185,
+    "direction": "ai"
+  },
+  {
+    "phrase": "least",
+    "log_odds": -1.256339720775932,
+    "z_score": -33.792484620144585,
+    "topic_concentration": 0.1613042539408335,
+    "direction": "human"
+  },
+  {
+    "phrase": "cost of",
+    "log_odds": 1.5270598151133008,
+    "z_score": 33.78264662275794,
+    "topic_concentration": 0.26189042745334135,
+    "direction": "ai"
+  },
+  {
+    "phrase": "typically",
+    "log_odds": 1.114494507656838,
+    "z_score": 33.748017115060144,
+    "topic_concentration": 0.04071170084439083,
+    "direction": "ai"
+  },
+  {
+    "phrase": "everything",
+    "log_odds": -1.2486238783612489,
+    "z_score": -33.74347727976813,
+    "topic_concentration": 0.08184304649694929,
+    "direction": "human"
+  },
+  {
+    "phrase": "are often",
+    "log_odds": 1.6920198742395467,
+    "z_score": 33.68851708469644,
+    "topic_concentration": 0.07748309932397296,
+    "direction": "ai"
+  },
+  {
+    "phrase": "symptoms",
+    "log_odds": 1.8027663791175002,
+    "z_score": 33.67763729208072,
+    "topic_concentration": 0.02460456942003515,
+    "direction": "ai"
+  },
+  {
+    "phrase": "believe",
+    "log_odds": 0.4843815751372933,
+    "z_score": 33.66745933579463,
+    "topic_concentration": 0.13961261570106273,
+    "direction": "ai"
+  },
+  {
+    "phrase": "most of",
+    "log_odds": -1.5872400688298143,
+    "z_score": -33.61776635646584,
+    "topic_concentration": 0.07484879032258064,
+    "direction": "human"
+  },
+  {
+    "phrase": "areas",
+    "log_odds": 0.9628138508902211,
+    "z_score": 33.60678968838325,
+    "topic_concentration": 0.30849440488301116,
+    "direction": "ai"
+  },
+  {
+    "phrase": "behavior",
+    "log_odds": 1.4536371367273784,
+    "z_score": 33.587031594269305,
+    "topic_concentration": 0.11393939393939394,
+    "direction": "ai"
+  },
+  {
+    "phrase": "can have",
+    "log_odds": 0.9467821972960504,
+    "z_score": 33.57661989024211,
+    "topic_concentration": 0.14842256214149138,
+    "direction": "ai"
+  },
+  {
+    "phrase": "you get",
+    "log_odds": -1.2695187633829104,
+    "z_score": -33.54934460037884,
+    "topic_concentration": 0.1435680517541677,
+    "direction": "human"
+  },
+  {
+    "phrase": "unique",
+    "log_odds": 1.3183449955753908,
+    "z_score": 33.53317846795832,
+    "topic_concentration": 0.1363251481795089,
+    "direction": "ai"
+  },
+  {
+    "phrase": "fun",
+    "log_odds": -0.9184880963421644,
+    "z_score": -33.42455781709195,
+    "topic_concentration": 0.16757664846703066,
+    "direction": "human"
+  },
+  {
+    "phrase": "at all",
+    "log_odds": -1.6670993971614916,
+    "z_score": -33.35700030270011,
+    "topic_concentration": 0.105249343832021,
+    "direction": "human"
+  },
+  {
+    "phrase": "consequences",
+    "log_odds": 1.4280379063279014,
+    "z_score": 33.27442942376119,
+    "topic_concentration": 0.16100872938894278,
+    "direction": "ai"
+  },
+  {
+    "phrase": "pursue",
+    "log_odds": 2.013642410172098,
+    "z_score": 33.21166764921224,
+    "topic_concentration": 0.2761250953470633,
+    "direction": "ai"
+  },
+  {
+    "phrase": "access to",
+    "log_odds": 1.2766678673111809,
+    "z_score": 33.18376364065757,
+    "topic_concentration": 0.3120216118865376,
+    "direction": "ai"
+  },
+  {
+    "phrase": "and stuff",
+    "log_odds": 2.5190980893714254,
+    "z_score": 33.13504298379983,
+    "topic_concentration": 0.2219626168224299,
+    "direction": "ai"
+  },
+  {
+    "phrase": "achieving",
+    "log_odds": 3.2987816562574412,
+    "z_score": 33.134142066764724,
+    "topic_concentration": 0.5174216027874564,
+    "direction": "ai"
+  },
+  {
+    "phrase": "understanding",
+    "log_odds": 0.9613948746208418,
+    "z_score": 33.1318335731792,
+    "topic_concentration": 0.18076195622804647,
+    "direction": "ai"
+  },
+  {
+    "phrase": "high",
+    "log_odds": 0.5677634421992508,
+    "z_score": 33.126880261598934,
+    "topic_concentration": 0.11261314211825556,
+    "direction": "ai"
+  },
+  {
+    "phrase": "experience",
+    "log_odds": 0.6579357079681145,
+    "z_score": 33.092272563648564,
+    "topic_concentration": 0.17810086324398,
+    "direction": "ai"
+  },
+  {
+    "phrase": "pick",
+    "log_odds": -1.8884191938770378,
+    "z_score": -33.08699595424809,
+    "topic_concentration": 0.11728169528681037,
+    "direction": "human"
+  },
+  {
+    "phrase": "increased",
+    "log_odds": 1.3973224358119989,
+    "z_score": 33.07175268194519,
+    "topic_concentration": 0.20273571079628724,
+    "direction": "ai"
+  },
+  {
+    "phrase": "also important",
+    "log_odds": 3.1248697369426015,
+    "z_score": 33.05820149426671,
+    "topic_concentration": 0.16194581280788178,
+    "direction": "ai"
+  },
+  {
+    "phrase": "end",
+    "log_odds": -0.8992814826764981,
+    "z_score": -32.901584302762714,
+    "topic_concentration": 0.09404196661050697,
+    "direction": "human"
+  },
+  {
+    "phrase": "what the",
+    "log_odds": -1.8100772029605068,
+    "z_score": -32.90053549704166,
+    "topic_concentration": 0.11420118343195267,
+    "direction": "human"
+  },
+  {
+    "phrase": "possible that",
+    "log_odds": 2.0110653947690054,
+    "z_score": 32.86041489782244,
+    "topic_concentration": 0.07548430193720775,
+    "direction": "ai"
+  },
+  {
+    "phrase": "are also",
+    "log_odds": 1.0122165330613555,
+    "z_score": 32.833657371868476,
+    "topic_concentration": 0.15335381464413722,
+    "direction": "ai"
+  },
+  {
+    "phrase": "they have",
+    "log_odds": -0.70571189100714,
+    "z_score": -32.808814114678476,
+    "topic_concentration": 0.09085023737591713,
+    "direction": "human"
+  },
+  {
+    "phrase": "while some",
+    "log_odds": 2.14933420742768,
+    "z_score": 32.69938432076363,
+    "topic_concentration": 0.25596816976127323,
+    "direction": "ai"
+  },
+  {
+    "phrase": "more than",
+    "log_odds": -1.0046996498723395,
+    "z_score": -32.68869731235866,
+    "topic_concentration": 0.1772323154232702,
+    "direction": "human"
+  },
+  {
+    "phrase": "they could",
+    "log_odds": -1.4080924690420424,
+    "z_score": -32.672859471252785,
+    "topic_concentration": 0.10376282782212087,
+    "direction": "human"
+  },
+  {
+    "phrase": "numerous",
+    "log_odds": 1.5257938706434988,
+    "z_score": 32.63965535384911,
+    "topic_concentration": 0.24546424759871932,
+    "direction": "ai"
+  },
+  {
+    "phrase": "technology has",
+    "log_odds": 1.8563727269835528,
+    "z_score": 32.55913820415893,
+    "topic_concentration": 0.43979721166032953,
+    "direction": "ai"
+  },
+  {
+    "phrase": "be difficult",
+    "log_odds": 1.922362163120976,
+    "z_score": 32.55204910149885,
+    "topic_concentration": 0.17418944691671964,
+    "direction": "ai"
+  },
+  {
+    "phrase": "ourselves",
+    "log_odds": 1.4595845866238584,
+    "z_score": 32.54488619490324,
+    "topic_concentration": 0.29594423320659063,
+    "direction": "ai"
+  },
+  {
+    "phrase": "it easier",
+    "log_odds": 1.330942986124164,
+    "z_score": 32.52697163011604,
+    "topic_concentration": 0.2024482109227872,
+    "direction": "ai"
+  },
+  {
+    "phrase": "is essential",
+    "log_odds": 2.9099430230451713,
+    "z_score": 32.50870959159149,
+    "topic_concentration": 0.3280060882800609,
+    "direction": "ai"
+  },
+  {
+    "phrase": "working in",
+    "log_odds": 2.3032426406387483,
+    "z_score": 32.503567842722,
+    "topic_concentration": 0.37094017094017095,
+    "direction": "ai"
+  },
+  {
+    "phrase": "potentially",
+    "log_odds": 1.4774663708399203,
+    "z_score": 32.49261071213831,
+    "topic_concentration": 0.07894736842105263,
+    "direction": "ai"
+  },
+  {
+    "phrase": "provider",
+    "log_odds": 2.5482526046015046,
+    "z_score": 32.44276145758599,
+    "topic_concentration": 0.0033112582781456954,
+    "direction": "ai"
+  },
+  {
+    "phrase": "success in",
+    "log_odds": 3.0785417994904893,
+    "z_score": 32.379932788758616,
+    "topic_concentration": 0.43535620052770446,
+    "direction": "ai"
+  },
+  {
+    "phrase": "encourages",
+    "log_odds": 2.3432330572048468,
+    "z_score": 32.36459973902543,
+    "topic_concentration": 0.5458860759493671,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to protect",
+    "log_odds": 1.801086922618115,
+    "z_score": 32.28711061087052,
+    "topic_concentration": 0.10139416983523447,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to determine",
+    "log_odds": 1.7002440187754768,
+    "z_score": 32.273400504423364,
+    "topic_concentration": 0.04931669637551991,
+    "direction": "ai"
+  },
+  {
+    "phrase": "determine the",
+    "log_odds": 2.3557364652332833,
+    "z_score": 32.268995324485104,
+    "topic_concentration": 0.059496567505720827,
+    "direction": "ai"
+  },
+  {
+    "phrase": "ever",
+    "log_odds": -1.1111597557218893,
+    "z_score": -32.23313487574845,
+    "topic_concentration": 0.10132244262932712,
+    "direction": "human"
+  },
+  {
+    "phrase": "gets",
+    "log_odds": -1.269771153976091,
+    "z_score": -32.17270936986477,
+    "topic_concentration": 0.10517608130465611,
+    "direction": "human"
+  },
+  {
+    "phrase": "high school",
+    "log_odds": 0.960668115320443,
+    "z_score": 32.16660099652886,
+    "topic_concentration": 0.33584738243123335,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to provide",
+    "log_odds": 1.500054942281734,
+    "z_score": 32.15845421091769,
+    "topic_concentration": 0.14199698946312092,
+    "direction": "ai"
+  },
+  {
+    "phrase": "it difficult",
+    "log_odds": 2.2780176219305233,
+    "z_score": 32.08949165510039,
+    "topic_concentration": 0.2167883211678832,
+    "direction": "ai"
+  },
+  {
+    "phrase": "etc",
+    "log_odds": -3.6136241456533345,
+    "z_score": -32.08557699351822,
+    "topic_concentration": 0.03589997524139638,
+    "direction": "human"
+  },
+  {
+    "phrase": "students will",
+    "log_odds": -1.8007779338804255,
+    "z_score": -32.08058639616194,
+    "topic_concentration": 0.28887863405629904,
+    "direction": "human"
+  },
+  {
+    "phrase": "big",
+    "log_odds": -0.8110027264602806,
+    "z_score": -32.05316187048806,
+    "topic_concentration": 0.13241220495106507,
+    "direction": "human"
+  },
+  {
+    "phrase": "and may",
+    "log_odds": 1.6244989345419132,
+    "z_score": 32.05266898748272,
+    "topic_concentration": 0.09236518953550454,
+    "direction": "ai"
+  },
+  {
+    "phrase": "secondly",
+    "log_odds": 1.2597923292645365,
+    "z_score": 32.00586004825594,
+    "topic_concentration": 0.1941544885177453,
+    "direction": "ai"
+  },
+  {
+    "phrase": "would have",
+    "log_odds": -0.9562560655067056,
+    "z_score": -31.917138102350577,
+    "topic_concentration": 0.11450662739322533,
+    "direction": "human"
+  },
+  {
+    "phrase": "account",
+    "log_odds": 0.9416767907929575,
+    "z_score": 31.899732682821355,
+    "topic_concentration": 0.04679089026915114,
+    "direction": "ai"
+  },
+  {
+    "phrase": "risk",
+    "log_odds": 0.7515783687444308,
+    "z_score": 31.89770449987688,
+    "topic_concentration": 0.12029081295439524,
+    "direction": "ai"
+  },
+  {
+    "phrase": "essay will",
+    "log_odds": 3.25599892571417,
+    "z_score": 31.890826648546877,
+    "topic_concentration": 0.25472813238770686,
+    "direction": "ai"
+  },
+  {
+    "phrase": "furthermore",
+    "log_odds": 1.2444396679176926,
+    "z_score": 31.836030066123513,
+    "topic_concentration": 0.20739950195659906,
+    "direction": "ai"
+  },
+  {
+    "phrase": "and you",
+    "log_odds": -0.8411888131405139,
+    "z_score": -31.756906800707842,
+    "topic_concentration": 0.1178373382624769,
+    "direction": "human"
+  },
+  {
+    "phrase": "down",
+    "log_odds": -0.6282752023546587,
+    "z_score": -31.636306553289096,
+    "topic_concentration": 0.11728766025641026,
+    "direction": "human"
+  },
+  {
+    "phrase": "involves",
+    "log_odds": 1.79759836545934,
+    "z_score": 31.61630406657747,
+    "topic_concentration": 0.04375,
+    "direction": "ai"
+  },
+  {
+    "phrase": "however there",
+    "log_odds": 1.8106467616101796,
+    "z_score": 31.605726193410717,
+    "topic_concentration": 0.21205098493626884,
+    "direction": "ai"
+  },
+  {
+    "phrase": "get to",
+    "log_odds": -1.0085347917739451,
+    "z_score": -31.543254146844127,
+    "topic_concentration": 0.15519174702848174,
+    "direction": "human"
+  },
+  {
+    "phrase": "but the",
+    "log_odds": -1.211662383014584,
+    "z_score": -31.529410689204198,
+    "topic_concentration": 0.07181628392484342,
+    "direction": "human"
+  },
+  {
+    "phrase": "environment",
+    "log_odds": 0.6061766855414756,
+    "z_score": 31.489784611770528,
+    "topic_concentration": 0.3258183032732131,
+    "direction": "ai"
+  },
+  {
+    "phrase": "effects",
+    "log_odds": 1.0382315588469684,
+    "z_score": 31.477662658251987,
+    "topic_concentration": 0.1970192657215558,
+    "direction": "ai"
+  },
+  {
+    "phrase": "for the",
+    "log_odds": -0.3973409965433383,
+    "z_score": -31.47491040608228,
+    "topic_concentration": 0.11223355894534802,
+    "direction": "human"
+  },
+  {
+    "phrase": "role in",
+    "log_odds": 1.7243889006164395,
+    "z_score": 31.46486783210872,
+    "topic_concentration": 0.12523481527864747,
+    "direction": "ai"
+  },
+  {
+    "phrase": "have any",
+    "log_odds": 1.2107288913892127,
+    "z_score": 31.45065047140452,
+    "topic_concentration": 0.04259002770083103,
+    "direction": "ai"
+  },
+  {
+    "phrase": "self",
+    "log_odds": 0.7492872350281292,
+    "z_score": 31.435510984006548,
+    "topic_concentration": 0.15728604471858135,
+    "direction": "ai"
+  },
+  {
+    "phrase": "is very",
+    "log_odds": -1.168509858983942,
+    "z_score": -31.385228956323413,
+    "topic_concentration": 0.06610093791871371,
+    "direction": "human"
+  },
+  {
+    "phrase": "last",
+    "log_odds": -1.105952741112354,
+    "z_score": -31.361190457565794,
+    "topic_concentration": 0.08650447078394677,
+    "direction": "human"
+  },
+  {
+    "phrase": "idea to",
+    "log_odds": 1.2306856965381225,
+    "z_score": 31.348976285073405,
+    "topic_concentration": 0.038786482334869435,
+    "direction": "ai"
+  },
+  {
+    "phrase": "students would",
+    "log_odds": -1.460330945081246,
+    "z_score": -31.33465264233846,
+    "topic_concentration": 0.40531276778063413,
+    "direction": "human"
+  },
+  {
+    "phrase": "difficult for",
+    "log_odds": 1.8027124169422457,
+    "z_score": 31.277683479223292,
+    "topic_concentration": 0.237200259235256,
+    "direction": "ai"
+  },
+  {
+    "phrase": "offer",
+    "log_odds": 0.8945224716710882,
+    "z_score": 31.25115827338979,
+    "topic_concentration": 0.30500844119302195,
+    "direction": "ai"
+  },
+  {
+    "phrase": "available",
+    "log_odds": 0.9928919426456115,
+    "z_score": 31.230119883157066,
+    "topic_concentration": 0.16014558689717925,
+    "direction": "ai"
+  },
+  {
+    "phrase": "many",
+    "log_odds": -0.3136821601422204,
+    "z_score": -31.223648956364716,
+    "topic_concentration": 0.08942612369440206,
+    "direction": "human"
+  },
+  {
+    "phrase": "privacy",
+    "log_odds": 1.822378031335134,
+    "z_score": 31.184718834152534,
+    "topic_concentration": 0.4427083333333333,
+    "direction": "ai"
+  },
+  {
+    "phrase": "perspectives",
+    "log_odds": 1.607546244610898,
+    "z_score": 31.094823049910143,
+    "topic_concentration": 0.5079726651480638,
+    "direction": "ai"
+  },
+  {
+    "phrase": "context",
+    "log_odds": 1.7332797080796567,
+    "z_score": 30.95333620211288,
+    "topic_concentration": 0.4624173180998196,
+    "direction": "ai"
+  },
+  {
+    "phrase": "while others",
+    "log_odds": 2.0773587328923053,
+    "z_score": 30.899029144562583,
+    "topic_concentration": 0.1056241426611797,
+    "direction": "ai"
+  },
+  {
+    "phrase": "in recent",
+    "log_odds": 2.507703756596772,
+    "z_score": 30.878958838957733,
+    "topic_concentration": 0.4017725258493353,
+    "direction": "ai"
+  },
+  {
+    "phrase": "us to",
+    "log_odds": 0.9744830135147637,
+    "z_score": 30.867344489894663,
+    "topic_concentration": 0.15961606825453253,
+    "direction": "ai"
+  },
+  {
+    "phrase": "risk of",
+    "log_odds": 1.3157376186549747,
+    "z_score": 30.861114721989495,
+    "topic_concentration": 0.18675889328063242,
+    "direction": "ai"
+  },
+  {
+    "phrase": "him",
+    "log_odds": -1.1207836710830286,
+    "z_score": -30.832791428500776,
+    "topic_concentration": 0.10758377425044091,
+    "direction": "human"
+  },
+  {
+    "phrase": "picture",
+    "log_odds": -1.4516419241874825,
+    "z_score": -30.773618176342886,
+    "topic_concentration": 0.4041353383458647,
+    "direction": "human"
+  },
+  {
+    "phrase": "generic_name",
+    "log_odds": -2.1234735760962007,
+    "z_score": -30.763839368456935,
+    "topic_concentration": 0.3192868719611021,
+    "direction": "human"
+  },
+  {
+    "phrase": "either",
+    "log_odds": -1.1792378209056569,
+    "z_score": -30.685230853148134,
+    "topic_concentration": 0.05429265062900022,
+    "direction": "human"
+  },
+  {
+    "phrase": "key",
+    "log_odds": 1.042473248324649,
+    "z_score": 30.683306928409955,
+    "topic_concentration": 0.16672720668361787,
+    "direction": "ai"
+  },
+  {
+    "phrase": "earth",
+    "log_odds": -0.6650804719720771,
+    "z_score": -30.641547940312247,
+    "topic_concentration": 0.3456959706959707,
+    "direction": "human"
+  },
+  {
+    "phrase": "towards",
+    "log_odds": 0.9083345290168161,
+    "z_score": 30.616412509350518,
+    "topic_concentration": 0.16555329654371187,
+    "direction": "ai"
+  },
+  {
+    "phrase": "school day",
+    "log_odds": 1.822494239195965,
+    "z_score": 30.550127912353105,
+    "topic_concentration": 0.4276923076923077,
+    "direction": "ai"
+  },
+  {
+    "phrase": "good",
+    "log_odds": -0.35615820757162364,
+    "z_score": -30.549896259693792,
+    "topic_concentration": 0.0863019824116858,
+    "direction": "human"
+  },
+  {
+    "phrase": "promote",
+    "log_odds": 1.389931124480615,
+    "z_score": 30.50730170422436,
+    "topic_concentration": 0.47282913165266105,
+    "direction": "ai"
+  },
+  {
+    "phrase": "hey",
+    "log_odds": 1.606412410247298,
+    "z_score": 30.501871044383176,
+    "topic_concentration": 0.27806864456079117,
+    "direction": "ai"
+  },
+  {
+    "phrase": "an important",
+    "log_odds": 1.4401282673403752,
+    "z_score": 30.498096554230116,
+    "topic_concentration": 0.18661971830985916,
+    "direction": "ai"
+  },
+  {
+    "phrase": "at least",
+    "log_odds": -1.1905659426542172,
+    "z_score": -30.46204711907933,
+    "topic_concentration": 0.1824561403508772,
+    "direction": "human"
+  },
+  {
+    "phrase": "additional",
+    "log_odds": 1.3217518694315071,
+    "z_score": 30.458833798673986,
+    "topic_concentration": 0.1230392156862745,
+    "direction": "ai"
+  },
+  {
+    "phrase": "happen",
+    "log_odds": -1.0303107303459544,
+    "z_score": -30.450359593916776,
+    "topic_concentration": 0.09949622166246852,
+    "direction": "human"
+  },
+  {
+    "phrase": "you would",
+    "log_odds": -1.2023616708182665,
+    "z_score": -30.432269076585847,
+    "topic_concentration": 0.07280630263515349,
+    "direction": "human"
+  },
+  {
+    "phrase": "setting",
+    "log_odds": 1.2331029961429198,
+    "z_score": 30.376592709260926,
+    "topic_concentration": 0.28547486033519553,
+    "direction": "ai"
+  },
+  {
+    "phrase": "diverse",
+    "log_odds": 2.2634666150517564,
+    "z_score": 30.37500786431921,
+    "topic_concentration": 0.3044982698961938,
+    "direction": "ai"
+  },
+  {
+    "phrase": "known",
+    "log_odds": 0.7822416687032554,
+    "z_score": 30.32095539638526,
+    "topic_concentration": 0.06852207293666027,
+    "direction": "ai"
+  },
+  {
+    "phrase": "associated with",
+    "log_odds": 1.643024950976109,
+    "z_score": 30.30883292594382,
+    "topic_concentration": 0.1677295918367347,
+    "direction": "ai"
+  },
+  {
+    "phrase": "quality of",
+    "log_odds": 1.7887744386488933,
+    "z_score": 30.293765434321006,
+    "topic_concentration": 0.3927729772191673,
+    "direction": "ai"
+  },
+  {
+    "phrase": "so that",
+    "log_odds": -1.1749646085424068,
+    "z_score": -30.257740272830453,
+    "topic_concentration": 0.06270705158542357,
+    "direction": "human"
+  },
+  {
+    "phrase": "others",
+    "log_odds": 0.4469037948937453,
+    "z_score": 30.239386172821753,
+    "topic_concentration": 0.16188309415470772,
+    "direction": "ai"
+  },
+  {
+    "phrase": "her",
+    "log_odds": -0.774063195382821,
+    "z_score": -30.20941608755138,
+    "topic_concentration": 0.1324412889131622,
+    "direction": "human"
+  },
+  {
+    "phrase": "cell phones",
+    "log_odds": -0.8779846818892878,
+    "z_score": -30.183741301443057,
+    "topic_concentration": 0.5805500982318271,
+    "direction": "human"
+  },
+  {
+    "phrase": "rather than",
+    "log_odds": 0.7721603927475993,
+    "z_score": 30.101928928268325,
+    "topic_concentration": 0.13957307060755336,
+    "direction": "ai"
+  },
+  {
+    "phrase": "isn",
+    "log_odds": -1.712562844604836,
+    "z_score": -30.075462919305327,
+    "topic_concentration": 0.10600071864893999,
+    "direction": "human"
+  },
+  {
+    "phrase": "products",
+    "log_odds": 1.3596019839499487,
+    "z_score": 30.034386178358652,
+    "topic_concentration": 0.06220095693779904,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the company",
+    "log_odds": 1.098594072151018,
+    "z_score": 30.03350739741472,
+    "topic_concentration": 0.049937578027465665,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to develop",
+    "log_odds": 1.6652555728931766,
+    "z_score": 30.001804829615228,
+    "topic_concentration": 0.23496107572540695,
+    "direction": "ai"
+  },
+  {
+    "phrase": "also known",
+    "log_odds": 2.166253196312663,
+    "z_score": 29.994930155465024,
+    "topic_concentration": 0.012021036814425245,
+    "direction": "ai"
+  },
+  {
+    "phrase": "like to",
+    "log_odds": -1.393030451949178,
+    "z_score": -29.988959804560547,
+    "topic_concentration": 0.09834530128004995,
+    "direction": "human"
+  },
+  {
+    "phrase": "be",
+    "log_odds": -0.136572297258593,
+    "z_score": -29.978837421070978,
+    "topic_concentration": 0.06545303832174966,
+    "direction": "human"
+  },
+  {
+    "phrase": "motivated",
+    "log_odds": 1.525058938128371,
+    "z_score": 29.969491780832392,
+    "topic_concentration": 0.24473147518694766,
+    "direction": "ai"
+  },
+  {
+    "phrase": "goes",
+    "log_odds": -1.0959892993201414,
+    "z_score": -29.955351482335736,
+    "topic_concentration": 0.15260684716938913,
+    "direction": "human"
+  },
+  {
+    "phrase": "research",
+    "log_odds": 0.8043989061692525,
+    "z_score": 29.893822385933905,
+    "topic_concentration": 0.10475720976090708,
+    "direction": "ai"
+  },
+  {
+    "phrase": "also be",
+    "log_odds": 0.8919232380213682,
+    "z_score": 29.885046589068384,
+    "topic_concentration": 0.10158883004333173,
+    "direction": "ai"
+  },
+  {
+    "phrase": "read",
+    "log_odds": -1.02614795523737,
+    "z_score": -29.783320151951127,
+    "topic_concentration": 0.2795216741405082,
+    "direction": "human"
+  },
+  {
+    "phrase": "is possible",
+    "log_odds": 1.4032609259890787,
+    "z_score": 29.75045194381165,
+    "topic_concentration": 0.1985670419651996,
+    "direction": "ai"
+  },
+  {
+    "phrase": "value of",
+    "log_odds": 1.1650418942508765,
+    "z_score": 29.7032490893281,
+    "topic_concentration": 0.05041518386714116,
+    "direction": "ai"
+  },
+  {
+    "phrase": "based on",
+    "log_odds": 0.7434000151175351,
+    "z_score": 29.68311126193055,
+    "topic_concentration": 0.10543004359889022,
+    "direction": "ai"
+  },
+  {
+    "phrase": "it was",
+    "log_odds": -0.6522043978249208,
+    "z_score": -29.666147775528376,
+    "topic_concentration": 0.14135077415910305,
+    "direction": "human"
+  },
+  {
+    "phrase": "mental",
+    "log_odds": 1.0462864648149761,
+    "z_score": 29.660334593973467,
+    "topic_concentration": 0.2479185938945421,
+    "direction": "ai"
+  },
+  {
+    "phrase": "gonna",
+    "log_odds": 1.4589915867717007,
+    "z_score": 29.660280600873723,
+    "topic_concentration": 0.2608286252354049,
+    "direction": "ai"
+  }
+]

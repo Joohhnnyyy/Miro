@@ -1,0 +1,5448 @@
+[
+  {
+    "phrase": "car usage",
+    "log_odds": 1.4048536007451586,
+    "z_score": 80.6891838436723,
+    "topic_concentration": 0.9985342616342983,
+    "direction": "ai"
+  },
+  {
+    "phrase": "limiting car",
+    "log_odds": 1.658810443867118,
+    "z_score": 72.61392568992291,
+    "topic_concentration": 0.9991663192997082,
+    "direction": "ai"
+  },
+  {
+    "phrase": "usage",
+    "log_odds": 1.1186661489592238,
+    "z_score": 71.65117363716743,
+    "topic_concentration": 0.8320186970493719,
+    "direction": "ai"
+  },
+  {
+    "phrase": "limiting",
+    "log_odds": 1.321698525970441,
+    "z_score": 68.54482963524666,
+    "topic_concentration": 0.8684637869438129,
+    "direction": "ai"
+  },
+  {
+    "phrase": "summer",
+    "log_odds": -1.4172948523411755,
+    "z_score": -59.4608976776049,
+    "topic_concentration": 0.6985324947589099,
+    "direction": "human"
+  },
+  {
+    "phrase": "venus",
+    "log_odds": -1.1058439637092814,
+    "z_score": -59.27258474982808,
+    "topic_concentration": 0.9805424528301887,
+    "direction": "human"
+  },
+  {
+    "phrase": "congestion",
+    "log_odds": 2.0669956021100564,
+    "z_score": 51.75579184996082,
+    "topic_concentration": 0.913903743315508,
+    "direction": "ai"
+  },
+  {
+    "phrase": "usage can",
+    "log_odds": 2.810619729781763,
+    "z_score": 48.33001574375888,
+    "topic_concentration": 0.9943775100401606,
+    "direction": "ai"
+  },
+  {
+    "phrase": "reducing",
+    "log_odds": 1.744621568971704,
+    "z_score": 47.56894911663619,
+    "topic_concentration": 0.6230460026797677,
+    "direction": "ai"
+  },
+  {
+    "phrase": "transportation",
+    "log_odds": 0.9877062913942254,
+    "z_score": 47.04531014014302,
+    "topic_concentration": 0.6910742918225548,
+    "direction": "ai"
+  },
+  {
+    "phrase": "electors",
+    "log_odds": -1.7523235997300404,
+    "z_score": -45.750791063836715,
+    "topic_concentration": 0.9864738805970149,
+    "direction": "human"
+  },
+  {
+    "phrase": "advice",
+    "log_odds": -0.9611342055438836,
+    "z_score": -44.444501537386365,
+    "topic_concentration": 0.6558013193636011,
+    "direction": "human"
+  },
+  {
+    "phrase": "climate",
+    "log_odds": 2.451451869266325,
+    "z_score": 42.54368788666419,
+    "topic_concentration": 0.611323155216285,
+    "direction": "ai"
+  },
+  {
+    "phrase": "vote for",
+    "log_odds": -2.0731996142578097,
+    "z_score": -41.54568136026252,
+    "topic_concentration": 0.9185082872928176,
+    "direction": "human"
+  },
+  {
+    "phrase": "communities",
+    "log_odds": 1.7807461856399485,
+    "z_score": 41.4314863664408,
+    "topic_concentration": 0.6057866184448463,
+    "direction": "ai"
+  },
+  {
+    "phrase": "popular vote",
+    "log_odds": 0.7964004942487852,
+    "z_score": 40.23287018426607,
+    "topic_concentration": 0.9894486044928523,
+    "direction": "ai"
+  },
+  {
+    "phrase": "public transportation",
+    "log_odds": 1.5216499855354897,
+    "z_score": 39.43680276901086,
+    "topic_concentration": 0.9156556903523975,
+    "direction": "ai"
+  },
+  {
+    "phrase": "voting",
+    "log_odds": -1.9287591215635622,
+    "z_score": -37.766417272337485,
+    "topic_concentration": 0.8713123092573754,
+    "direction": "human"
+  },
+  {
+    "phrase": "ensures",
+    "log_odds": 2.9767046212118196,
+    "z_score": 37.389061206169345,
+    "topic_concentration": 0.6970021413276232,
+    "direction": "ai"
+  },
+  {
+    "phrase": "summer projects",
+    "log_odds": -2.007962437764487,
+    "z_score": -36.74648773380975,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "am writing",
+    "log_odds": 2.630728931656069,
+    "z_score": 35.697628128758,
+    "topic_concentration": 0.6870466321243524,
+    "direction": "ai"
+  },
+  {
+    "phrase": "while driving",
+    "log_odds": -1.6055199583796504,
+    "z_score": -35.46128277544638,
+    "topic_concentration": 0.8084935897435898,
+    "direction": "human"
+  },
+  {
+    "phrase": "community service",
+    "log_odds": -1.050222030135144,
+    "z_score": -35.2379788771902,
+    "topic_concentration": 0.9472259810554804,
+    "direction": "human"
+  },
+  {
+    "phrase": "climate change",
+    "log_odds": 3.3711361158669373,
+    "z_score": 35.02183944875073,
+    "topic_concentration": 0.761326860841424,
+    "direction": "ai"
+  },
+  {
+    "phrase": "your name",
+    "log_odds": 3.118442800222052,
+    "z_score": 34.85390544242573,
+    "topic_concentration": 0.6147540983606558,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the project",
+    "log_odds": -1.920624366272671,
+    "z_score": -34.09619710417082,
+    "topic_concentration": 0.8344569288389513,
+    "direction": "human"
+  },
+  {
+    "phrase": "driverless",
+    "log_odds": -0.7633552189679138,
+    "z_score": -33.99180181255774,
+    "topic_concentration": 0.9956140350877193,
+    "direction": "human"
+  },
+  {
+    "phrase": "emissions",
+    "log_odds": 0.9363742894948892,
+    "z_score": 33.93313151076909,
+    "topic_concentration": 0.9302019315188762,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to limit",
+    "log_odds": 1.7397502303524686,
+    "z_score": 33.90715045830147,
+    "topic_concentration": 0.8209606986899564,
+    "direction": "ai"
+  },
+  {
+    "phrase": "writing to",
+    "log_odds": 3.0545807088751005,
+    "z_score": 33.6799127378704,
+    "topic_concentration": 0.7160220994475138,
+    "direction": "ai"
+  },
+  {
+    "phrase": "mars",
+    "log_odds": -0.8692162167324415,
+    "z_score": -33.31877923631905,
+    "topic_concentration": 0.7821138211382114,
+    "direction": "human"
+  },
+  {
+    "phrase": "limit car",
+    "log_odds": 2.2175298978818443,
+    "z_score": 33.23531771229626,
+    "topic_concentration": 0.9987012987012988,
+    "direction": "ai"
+  },
+  {
+    "phrase": "gas emissions",
+    "log_odds": 1.2760637805827617,
+    "z_score": 32.48593635677949,
+    "topic_concentration": 0.9738687061822817,
+    "direction": "ai"
+  },
+  {
+    "phrase": "of limiting",
+    "log_odds": 1.361041062485242,
+    "z_score": 32.14314475337375,
+    "topic_concentration": 0.9909847434119279,
+    "direction": "ai"
+  },
+  {
+    "phrase": "usage is",
+    "log_odds": 1.357033631965157,
+    "z_score": 31.827038990797973,
+    "topic_concentration": 0.977088948787062,
+    "direction": "ai"
+  },
+  {
+    "phrase": "smog",
+    "log_odds": -1.3089995266428787,
+    "z_score": -31.76476242356064,
+    "topic_concentration": 0.9959798994974874,
+    "direction": "human"
+  },
+  {
+    "phrase": "air pollution",
+    "log_odds": 1.082112653566048,
+    "z_score": 31.70376050295266,
+    "topic_concentration": 0.9688311688311688,
+    "direction": "ai"
+  },
+  {
+    "phrase": "ensures that",
+    "log_odds": 3.2042441827325643,
+    "z_score": 31.63952102510251,
+    "topic_concentration": 0.7686170212765957,
+    "direction": "ai"
+  },
+  {
+    "phrase": "candidates",
+    "log_odds": 0.8424825858529008,
+    "z_score": 31.429079778237295,
+    "topic_concentration": 0.9105125977410947,
+    "direction": "ai"
+  },
+  {
+    "phrase": "for advice",
+    "log_odds": -1.8924514232602831,
+    "z_score": -31.383088648754708,
+    "topic_concentration": 0.960514233241506,
+    "direction": "human"
+  },
+  {
+    "phrase": "advantages of",
+    "log_odds": 1.45268105108741,
+    "z_score": 31.064017310416965,
+    "topic_concentration": 0.6264722378014582,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the driver",
+    "log_odds": -1.7823590951205635,
+    "z_score": -30.75630837278218,
+    "topic_concentration": 0.6298834818368746,
+    "direction": "human"
+  },
+  {
+    "phrase": "sincerely your",
+    "log_odds": 3.2998969063681063,
+    "z_score": 30.39947884522389,
+    "topic_concentration": 0.6609195402298851,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the summer",
+    "log_odds": -1.4869390307383856,
+    "z_score": -30.36554602080764,
+    "topic_concentration": 0.8329882677708764,
+    "direction": "human"
+  },
+  {
+    "phrase": "save money",
+    "log_odds": 1.7624966167832987,
+    "z_score": 30.326954500032862,
+    "topic_concentration": 0.6210221793635486,
+    "direction": "ai"
+  },
+  {
+    "phrase": "student designed",
+    "log_odds": -1.4268004526158062,
+    "z_score": -29.99308205084002,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "candidates to",
+    "log_odds": 2.9923278554867565,
+    "z_score": 29.887887335340217,
+    "topic_concentration": 0.981359649122807,
+    "direction": "ai"
+  },
+  {
+    "phrase": "greenhouse gas",
+    "log_odds": 1.0897145743791157,
+    "z_score": 29.769332849284538,
+    "topic_concentration": 0.9613555291319857,
+    "direction": "ai"
+  },
+  {
+    "phrase": "college system",
+    "log_odds": 1.3869494023806332,
+    "z_score": 29.726942122840835,
+    "topic_concentration": 0.993891797556719,
+    "direction": "ai"
+  },
+  {
+    "phrase": "extracurricular activity",
+    "log_odds": -1.8630104107932173,
+    "z_score": -29.596272601925687,
+    "topic_concentration": 0.9794275491949911,
+    "direction": "human"
+  },
+  {
+    "phrase": "traffic congestion",
+    "log_odds": 4.824002361179245,
+    "z_score": 29.569666118810506,
+    "topic_concentration": 0.9263456090651558,
+    "direction": "ai"
+  },
+  {
+    "phrase": "aliens",
+    "log_odds": -1.3160438940181276,
+    "z_score": -28.966801420110386,
+    "topic_concentration": 0.9117889530090684,
+    "direction": "human"
+  },
+  {
+    "phrase": "the electoral",
+    "log_odds": 0.34971425788370336,
+    "z_score": 28.93515994791999,
+    "topic_concentration": 0.9802800800228637,
+    "direction": "ai"
+  },
+  {
+    "phrase": "urge",
+    "log_odds": 2.2709000293156443,
+    "z_score": 28.396258512125407,
+    "topic_concentration": 0.7304048234280792,
+    "direction": "ai"
+  },
+  {
+    "phrase": "elected by",
+    "log_odds": 2.7651026890763184,
+    "z_score": 28.346603406324864,
+    "topic_concentration": 0.9235993208828522,
+    "direction": "ai"
+  },
+  {
+    "phrase": "elected",
+    "log_odds": 1.220066860441472,
+    "z_score": 28.327429851486844,
+    "topic_concentration": 0.8048422597212033,
+    "direction": "ai"
+  },
+  {
+    "phrase": "electing the",
+    "log_odds": 2.5640776296338395,
+    "z_score": 28.270469010277097,
+    "topic_concentration": 0.9964994165694282,
+    "direction": "ai"
+  },
+  {
+    "phrase": "landform",
+    "log_odds": -1.1589351044449856,
+    "z_score": -27.808465246351894,
+    "topic_concentration": 0.9983361064891847,
+    "direction": "human"
+  },
+  {
+    "phrase": "teacher designed",
+    "log_odds": -1.6296765205932129,
+    "z_score": -27.73854440801946,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "the author",
+    "log_odds": -0.7596825127355,
+    "z_score": -27.644951467803182,
+    "topic_concentration": 0.6119186046511628,
+    "direction": "human"
+  },
+  {
+    "phrase": "the context",
+    "log_odds": 2.606053486641338,
+    "z_score": 27.61988592866617,
+    "topic_concentration": 0.6909254267744834,
+    "direction": "ai"
+  },
+  {
+    "phrase": "sustainable",
+    "log_odds": 4.082621369448599,
+    "z_score": 27.61964872245675,
+    "topic_concentration": 0.845100105374078,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to vote",
+    "log_odds": -1.5286785456383214,
+    "z_score": -27.462152695219473,
+    "topic_concentration": 0.8457008244994111,
+    "direction": "human"
+  },
+  {
+    "phrase": "urban",
+    "log_odds": 2.4856310476889476,
+    "z_score": 27.37938973844804,
+    "topic_concentration": 0.6157082748948106,
+    "direction": "ai"
+  },
+  {
+    "phrase": "venus is",
+    "log_odds": -1.0217531116502716,
+    "z_score": -27.342335717129064,
+    "topic_concentration": 0.997275204359673,
+    "direction": "human"
+  },
+  {
+    "phrase": "air quality",
+    "log_odds": 4.359293546819087,
+    "z_score": 27.300181561559832,
+    "topic_concentration": 0.9676787463271302,
+    "direction": "ai"
+  },
+  {
+    "phrase": "can reduce",
+    "log_odds": 2.396201691553502,
+    "z_score": 27.08836506586952,
+    "topic_concentration": 0.6687578419071518,
+    "direction": "ai"
+  },
+  {
+    "phrase": "luke",
+    "log_odds": -1.7099067288156569,
+    "z_score": -27.070171800739303,
+    "topic_concentration": 0.9764089121887287,
+    "direction": "human"
+  },
+  {
+    "phrase": "support for",
+    "log_odds": 2.887289613897977,
+    "z_score": 26.790988807341567,
+    "topic_concentration": 0.7063789868667918,
+    "direction": "ai"
+  },
+  {
+    "phrase": "positive attitude",
+    "log_odds": 5.075836108367094,
+    "z_score": 26.753751471024717,
+    "topic_concentration": 0.7109826589595376,
+    "direction": "ai"
+  },
+  {
+    "phrase": "college and",
+    "log_odds": 1.2380449594317557,
+    "z_score": 26.721175315558835,
+    "topic_concentration": 0.6872160934458144,
+    "direction": "ai"
+  },
+  {
+    "phrase": "by reducing",
+    "log_odds": 2.359294023213767,
+    "z_score": 26.69606057357206,
+    "topic_concentration": 0.774365821094793,
+    "direction": "ai"
+  },
+  {
+    "phrase": "small states",
+    "log_odds": 2.2831802131606285,
+    "z_score": 26.38318682789995,
+    "topic_concentration": 0.9851851851851852,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to success",
+    "log_odds": 2.7321999734896263,
+    "z_score": 26.35159221874071,
+    "topic_concentration": 0.6116071428571429,
+    "direction": "ai"
+  },
+  {
+    "phrase": "greenhouse",
+    "log_odds": 0.7874382869214482,
+    "z_score": 26.244635407812044,
+    "topic_concentration": 0.9097914777878513,
+    "direction": "ai"
+  },
+  {
+    "phrase": "are number",
+    "log_odds": 3.265281848731247,
+    "z_score": 26.12028844861248,
+    "topic_concentration": 0.6445880452342488,
+    "direction": "ai"
+  },
+  {
+    "phrase": "context of",
+    "log_odds": 2.802541449639966,
+    "z_score": 26.045348873125462,
+    "topic_concentration": 0.7568897637795275,
+    "direction": "ai"
+  },
+  {
+    "phrase": "electing",
+    "log_odds": 1.4525060607998643,
+    "z_score": 25.874856294521,
+    "topic_concentration": 0.9799453053783045,
+    "direction": "ai"
+  },
+  {
+    "phrase": "electoral college",
+    "log_odds": 0.3111856655529044,
+    "z_score": 25.674016764500312,
+    "topic_concentration": 0.981159420289855,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the popular",
+    "log_odds": 0.7328302232899233,
+    "z_score": 25.633249617479578,
+    "topic_concentration": 0.9526938239159002,
+    "direction": "ai"
+  },
+  {
+    "phrase": "dear senator",
+    "log_odds": 1.5659937842399678,
+    "z_score": 25.61958426922701,
+    "topic_concentration": 1.0,
+    "direction": "ai"
+  },
+  {
+    "phrase": "reducing car",
+    "log_odds": 2.2776952773352726,
+    "z_score": 25.364843952826092,
+    "topic_concentration": 0.9964664310954063,
+    "direction": "ai"
+  },
+  {
+    "phrase": "emotions",
+    "log_odds": -0.7671150951626853,
+    "z_score": -25.297603250062128,
+    "topic_concentration": 0.7208988764044943,
+    "direction": "human"
+  },
+  {
+    "phrase": "congestion and",
+    "log_odds": 3.9568159752569265,
+    "z_score": 25.257481333509162,
+    "topic_concentration": 0.8997695852534562,
+    "direction": "ai"
+  },
+  {
+    "phrase": "and driving",
+    "log_odds": -2.3976707837280653,
+    "z_score": -25.25533060282839,
+    "topic_concentration": 0.6638566912539515,
+    "direction": "human"
+  },
+  {
+    "phrase": "the election",
+    "log_odds": 0.7590170630268371,
+    "z_score": 25.219721668810138,
+    "topic_concentration": 0.9541160593792173,
+    "direction": "ai"
+  },
+  {
+    "phrase": "biking",
+    "log_odds": 1.5600302275533675,
+    "z_score": 25.145762545576787,
+    "topic_concentration": 0.9588053553038105,
+    "direction": "ai"
+  },
+  {
+    "phrase": "abolishing",
+    "log_odds": 2.287988025849126,
+    "z_score": 25.144245379625687,
+    "topic_concentration": 0.9828080229226361,
+    "direction": "ai"
+  },
+  {
+    "phrase": "senator am",
+    "log_odds": 2.9803192000617855,
+    "z_score": 24.95988762993749,
+    "topic_concentration": 1.0,
+    "direction": "ai"
+  },
+  {
+    "phrase": "abolishing the",
+    "log_odds": 2.4663412488818715,
+    "z_score": 24.87815946731062,
+    "topic_concentration": 0.9970014992503748,
+    "direction": "ai"
+  },
+  {
+    "phrase": "vote this",
+    "log_odds": 2.2803426361313246,
+    "z_score": 24.59832305692945,
+    "topic_concentration": 0.984516129032258,
+    "direction": "ai"
+  },
+  {
+    "phrase": "voter",
+    "log_odds": 1.5710266204715015,
+    "z_score": 24.586262762226745,
+    "topic_concentration": 0.9317269076305221,
+    "direction": "ai"
+  },
+  {
+    "phrase": "alien",
+    "log_odds": -1.2954135311722332,
+    "z_score": -24.50312257574799,
+    "topic_concentration": 0.8994932432432432,
+    "direction": "human"
+  },
+  {
+    "phrase": "modes",
+    "log_odds": 2.8593530300630405,
+    "z_score": 24.44711933477762,
+    "topic_concentration": 0.8708414872798435,
+    "direction": "ai"
+  },
+  {
+    "phrase": "are major",
+    "log_odds": 3.278730308654607,
+    "z_score": 24.440385626015317,
+    "topic_concentration": 0.9108527131782945,
+    "direction": "ai"
+  },
+  {
+    "phrase": "swing states",
+    "log_odds": 1.0910678129185776,
+    "z_score": 24.389885371136753,
+    "topic_concentration": 0.995475113122172,
+    "direction": "ai"
+  },
+  {
+    "phrase": "is elected",
+    "log_odds": 2.636570439447871,
+    "z_score": 24.30339670583054,
+    "topic_concentration": 0.918859649122807,
+    "direction": "ai"
+  },
+  {
+    "phrase": "graduating",
+    "log_odds": 3.2265109140529553,
+    "z_score": 24.215839770317032,
+    "topic_concentration": 0.7147766323024055,
+    "direction": "ai"
+  },
+  {
+    "phrase": "driverless car",
+    "log_odds": -2.716082393120887,
+    "z_score": -24.125044001367268,
+    "topic_concentration": 0.9977064220183486,
+    "direction": "human"
+  },
+  {
+    "phrase": "reliance",
+    "log_odds": 2.940189639826494,
+    "z_score": 24.09462412229724,
+    "topic_concentration": 0.6339434276206323,
+    "direction": "ai"
+  },
+  {
+    "phrase": "president is",
+    "log_odds": 1.3752218961548301,
+    "z_score": 24.062414173538475,
+    "topic_concentration": 0.8998793727382388,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the electors",
+    "log_odds": -2.841800458104508,
+    "z_score": -24.034506768709754,
+    "topic_concentration": 0.9880294659300184,
+    "direction": "human"
+  },
+  {
+    "phrase": "mesa",
+    "log_odds": -2.142415345347004,
+    "z_score": -23.878617940761213,
+    "topic_concentration": 0.9928571428571429,
+    "direction": "human"
+  },
+  {
+    "phrase": "president of",
+    "log_odds": 1.0115318516410703,
+    "z_score": 23.810301681868292,
+    "topic_concentration": 0.8603286384976526,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to limiting",
+    "log_odds": 1.5895950207275078,
+    "z_score": 23.731753284923744,
+    "topic_concentration": 0.9938800489596084,
+    "direction": "ai"
+  },
+  {
+    "phrase": "another advantage",
+    "log_odds": 1.9990927625773427,
+    "z_score": 23.631819536406,
+    "topic_concentration": 0.6264929424538545,
+    "direction": "ai"
+  },
+  {
+    "phrase": "on mars",
+    "log_odds": -0.7379952514075363,
+    "z_score": -23.605660578115724,
+    "topic_concentration": 0.9502801120448179,
+    "direction": "human"
+  },
+  {
+    "phrase": "bored",
+    "log_odds": -1.6097084926131195,
+    "z_score": -23.604850758687473,
+    "topic_concentration": 0.6136950904392765,
+    "direction": "human"
+  },
+  {
+    "phrase": "facial",
+    "log_odds": -0.7794038506653891,
+    "z_score": -23.587522413613215,
+    "topic_concentration": 0.8505810736026563,
+    "direction": "human"
+  },
+  {
+    "phrase": "electoral",
+    "log_odds": 0.25694983502849134,
+    "z_score": 23.577020853438025,
+    "topic_concentration": 0.9744525547445255,
+    "direction": "ai"
+  },
+  {
+    "phrase": "win the",
+    "log_odds": 1.2385554030182817,
+    "z_score": 23.51394754725444,
+    "topic_concentration": 0.8606837606837607,
+    "direction": "ai"
+  },
+  {
+    "phrase": "emotion",
+    "log_odds": -2.114096384909736,
+    "z_score": -23.451794742786443,
+    "topic_concentration": 0.8590998043052838,
+    "direction": "human"
+  },
+  {
+    "phrase": "senator",
+    "log_odds": 0.8302819401521422,
+    "z_score": 23.413585183891737,
+    "topic_concentration": 0.976461038961039,
+    "direction": "ai"
+  },
+  {
+    "phrase": "opinions",
+    "log_odds": -0.65659136726795,
+    "z_score": -23.339615849509542,
+    "topic_concentration": 0.6212185769066894,
+    "direction": "human"
+  },
+  {
+    "phrase": "smaller states",
+    "log_odds": 1.5811090401974361,
+    "z_score": 23.261081682118572,
+    "topic_concentration": 0.9809523809523809,
+    "direction": "ai"
+  },
+  {
+    "phrase": "cars on",
+    "log_odds": 1.3823013022143265,
+    "z_score": 23.214688918082167,
+    "topic_concentration": 0.832271762208068,
+    "direction": "ai"
+  },
+  {
+    "phrase": "in person",
+    "log_odds": 1.2397760251964893,
+    "z_score": 23.208149968890265,
+    "topic_concentration": 0.6647597254004577,
+    "direction": "ai"
+  },
+  {
+    "phrase": "candidate who",
+    "log_odds": 1.7627371660834523,
+    "z_score": 23.07919367216541,
+    "topic_concentration": 0.9614325068870524,
+    "direction": "ai"
+  },
+  {
+    "phrase": "regions",
+    "log_odds": 1.3813976781814503,
+    "z_score": 22.756244813059716,
+    "topic_concentration": 0.6056818181818182,
+    "direction": "ai"
+  },
+  {
+    "phrase": "reduce traffic",
+    "log_odds": 4.20262702910634,
+    "z_score": 22.751144449001703,
+    "topic_concentration": 0.8521617852161785,
+    "direction": "ai"
+  },
+  {
+    "phrase": "states this",
+    "log_odds": 2.004136611637163,
+    "z_score": 22.711377444476934,
+    "topic_concentration": 0.7647058823529411,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the presidency",
+    "log_odds": 1.3346355436245378,
+    "z_score": 22.69728613070936,
+    "topic_concentration": 0.9517937219730942,
+    "direction": "ai"
+  },
+  {
+    "phrase": "multiple people",
+    "log_odds": -1.2992909630648235,
+    "z_score": -22.618233853780684,
+    "topic_concentration": 0.9241758241758242,
+    "direction": "human"
+  },
+  {
+    "phrase": "our health",
+    "log_odds": 2.370266512337574,
+    "z_score": 22.607221674026214,
+    "topic_concentration": 0.782608695652174,
+    "direction": "ai"
+  },
+  {
+    "phrase": "cowboy",
+    "log_odds": -1.3931113513565485,
+    "z_score": -22.575121445275343,
+    "topic_concentration": 0.9895104895104895,
+    "direction": "human"
+  },
+  {
+    "phrase": "won the",
+    "log_odds": 1.1935313246324295,
+    "z_score": 22.49206040321792,
+    "topic_concentration": 0.8668555240793201,
+    "direction": "ai"
+  },
+  {
+    "phrase": "reduction",
+    "log_odds": 1.3309081760944128,
+    "z_score": 22.48441225924628,
+    "topic_concentration": 0.7546239210850801,
+    "direction": "ai"
+  },
+  {
+    "phrase": "voters in",
+    "log_odds": 1.1283556485736739,
+    "z_score": 22.4780567590297,
+    "topic_concentration": 0.9826238053866203,
+    "direction": "ai"
+  },
+  {
+    "phrase": "states by",
+    "log_odds": 2.366512366112401,
+    "z_score": 22.458019963573214,
+    "topic_concentration": 0.6971153846153846,
+    "direction": "ai"
+  },
+  {
+    "phrase": "large states",
+    "log_odds": 1.780675818093103,
+    "z_score": 22.43931231703185,
+    "topic_concentration": 0.9922720247295209,
+    "direction": "ai"
+  },
+  {
+    "phrase": "quality and",
+    "log_odds": 2.529662802655224,
+    "z_score": 22.43581819328242,
+    "topic_concentration": 0.7579908675799086,
+    "direction": "ai"
+  },
+  {
+    "phrase": "urge you",
+    "log_odds": 3.7954223031006276,
+    "z_score": 22.368847439048082,
+    "topic_concentration": 0.8874734607218684,
+    "direction": "ai"
+  },
+  {
+    "phrase": "interests of",
+    "log_odds": 3.0953546844236364,
+    "z_score": 22.347033565748884,
+    "topic_concentration": 0.7005163511187608,
+    "direction": "ai"
+  },
+  {
+    "phrase": "you ask",
+    "log_odds": -2.1218890545404445,
+    "z_score": -22.260939787695328,
+    "topic_concentration": 0.6596417281348789,
+    "direction": "human"
+  },
+  {
+    "phrase": "modes of",
+    "log_odds": 3.2719398673253757,
+    "z_score": 22.222481572105792,
+    "topic_concentration": 0.9422222222222222,
+    "direction": "ai"
+  },
+  {
+    "phrase": "today to",
+    "log_odds": 2.619848062059063,
+    "z_score": 22.141101916786482,
+    "topic_concentration": 0.8845637583892617,
+    "direction": "ai"
+  },
+  {
+    "phrase": "paris",
+    "log_odds": -0.869156437155425,
+    "z_score": -22.134064392848273,
+    "topic_concentration": 0.9614624505928854,
+    "direction": "human"
+  },
+  {
+    "phrase": "usage we",
+    "log_odds": 2.4252186731921714,
+    "z_score": 22.08151719417721,
+    "topic_concentration": 0.9976958525345622,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the environment",
+    "log_odds": 0.6711048340469468,
+    "z_score": 22.075980168872377,
+    "topic_concentration": 0.6271119842829077,
+    "direction": "ai"
+  },
+  {
+    "phrase": "take public",
+    "log_odds": 2.3205258310771377,
+    "z_score": 22.057605243203056,
+    "topic_concentration": 0.9803536345776032,
+    "direction": "ai"
+  },
+  {
+    "phrase": "vote system",
+    "log_odds": 2.1100793083320877,
+    "z_score": 22.0453225760337,
+    "topic_concentration": 0.997716894977169,
+    "direction": "ai"
+  },
+  {
+    "phrase": "extracurricular",
+    "log_odds": -0.5061982879184992,
+    "z_score": -22.030916688435482,
+    "topic_concentration": 0.6675126903553299,
+    "direction": "human"
+  },
+  {
+    "phrase": "healthier",
+    "log_odds": 0.985395339508468,
+    "z_score": 21.98793955034039,
+    "topic_concentration": 0.6981566820276498,
+    "direction": "ai"
+  },
+  {
+    "phrase": "appeal",
+    "log_odds": 1.1244612677286412,
+    "z_score": 21.920990276091306,
+    "topic_concentration": 0.7301006404391582,
+    "direction": "ai"
+  },
+  {
+    "phrase": "respiratory",
+    "log_odds": 3.262455133067773,
+    "z_score": 21.695010567454663,
+    "topic_concentration": 0.7933526011560693,
+    "direction": "ai"
+  },
+  {
+    "phrase": "an extracurricular",
+    "log_odds": -2.121096311770689,
+    "z_score": -21.67891595287098,
+    "topic_concentration": 0.9777777777777777,
+    "direction": "human"
+  },
+  {
+    "phrase": "reduction in",
+    "log_odds": 2.501997240807519,
+    "z_score": 21.65069753339587,
+    "topic_concentration": 0.7814569536423841,
+    "direction": "ai"
+  },
+  {
+    "phrase": "than one",
+    "log_odds": -1.1753815032467934,
+    "z_score": -21.633780708155804,
+    "topic_concentration": 0.6123680241327301,
+    "direction": "human"
+  },
+  {
+    "phrase": "get around",
+    "log_odds": 1.2819071048671589,
+    "z_score": 21.62380676700743,
+    "topic_concentration": 0.7766323024054983,
+    "direction": "ai"
+  },
+  {
+    "phrase": "these cars",
+    "log_odds": -2.0611157259923623,
+    "z_score": -21.485868999015555,
+    "topic_concentration": 0.924863387978142,
+    "direction": "human"
+  },
+  {
+    "phrase": "seagoing cowboy",
+    "log_odds": -2.866170800486218,
+    "z_score": -21.46960396728209,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "to campaign",
+    "log_odds": 2.4677612899848818,
+    "z_score": 21.435162019249248,
+    "topic_concentration": 0.9925925925925926,
+    "direction": "ai"
+  },
+  {
+    "phrase": "or bike",
+    "log_odds": 2.3617133209497503,
+    "z_score": 21.413851438609683,
+    "topic_concentration": 0.9682539682539683,
+    "direction": "ai"
+  },
+  {
+    "phrase": "summer project",
+    "log_odds": -3.0562853036339472,
+    "z_score": -21.31940922883444,
+    "topic_concentration": 0.9973684210526316,
+    "direction": "human"
+  },
+  {
+    "phrase": "disease and",
+    "log_odds": 2.8510630026408865,
+    "z_score": 21.27796587309048,
+    "topic_concentration": 0.7038269550748752,
+    "direction": "ai"
+  },
+  {
+    "phrase": "swing",
+    "log_odds": 0.8381135660626082,
+    "z_score": 21.228055811724627,
+    "topic_concentration": 0.929419525065963,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the facial",
+    "log_odds": -1.3101017549376728,
+    "z_score": -21.14574055086483,
+    "topic_concentration": 0.9708646616541353,
+    "direction": "human"
+  },
+  {
+    "phrase": "heart disease",
+    "log_odds": 3.694352910398237,
+    "z_score": 21.11887655514372,
+    "topic_concentration": 0.7396870554765291,
+    "direction": "ai"
+  },
+  {
+    "phrase": "do community",
+    "log_odds": -2.9946896401119663,
+    "z_score": -21.078522385209197,
+    "topic_concentration": 0.9859514687100894,
+    "direction": "human"
+  },
+  {
+    "phrase": "you today",
+    "log_odds": 3.142490915428949,
+    "z_score": 21.03829251836587,
+    "topic_concentration": 0.9318497913769124,
+    "direction": "ai"
+  },
+  {
+    "phrase": "2016",
+    "log_odds": 1.5472164231593197,
+    "z_score": 21.000450936420304,
+    "topic_concentration": 0.6688829787234043,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the cars",
+    "log_odds": -2.7803502737499315,
+    "z_score": -20.97363245635451,
+    "topic_concentration": 0.6723276723276723,
+    "direction": "human"
+  },
+  {
+    "phrase": "impressions",
+    "log_odds": 4.60622357064965,
+    "z_score": 20.952281041847925,
+    "topic_concentration": 0.6702127659574468,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the advantages",
+    "log_odds": 1.1349633998087878,
+    "z_score": 20.91640622536075,
+    "topic_concentration": 0.6843774781919112,
+    "direction": "ai"
+  },
+  {
+    "phrase": "people for",
+    "log_odds": -1.610212526529958,
+    "z_score": -20.91085355851197,
+    "topic_concentration": 0.6556420233463035,
+    "direction": "human"
+  },
+  {
+    "phrase": "projects should",
+    "log_odds": -2.2568639634021235,
+    "z_score": -20.882294693782363,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "voting for",
+    "log_odds": -3.4091316228758224,
+    "z_score": -20.82127358176301,
+    "topic_concentration": 0.9700193423597679,
+    "direction": "human"
+  },
+  {
+    "phrase": "younger students",
+    "log_odds": 3.5966839530748516,
+    "z_score": 20.818029218497763,
+    "topic_concentration": 0.6292134831460674,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to venus",
+    "log_odds": -2.4625955945906064,
+    "z_score": -20.802442239953205,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "advantages to",
+    "log_odds": 1.2708794544104336,
+    "z_score": 20.719300053188004,
+    "topic_concentration": 0.8080593849416755,
+    "direction": "ai"
+  },
+  {
+    "phrase": "seagoing",
+    "log_odds": -0.6882218227628449,
+    "z_score": -20.685622037832875,
+    "topic_concentration": 0.9975825946817083,
+    "direction": "human"
+  },
+  {
+    "phrase": "pollutants",
+    "log_odds": 2.356294291376992,
+    "z_score": 20.555006042235764,
+    "topic_concentration": 0.9343544857768052,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the environmental",
+    "log_odds": 2.0250441117151237,
+    "z_score": 20.350454599031533,
+    "topic_concentration": 0.907942238267148,
+    "direction": "ai"
+  },
+  {
+    "phrase": "fair and",
+    "log_odds": 1.6428359136466177,
+    "z_score": 20.3265640075823,
+    "topic_concentration": 0.6839762611275965,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the lesson",
+    "log_odds": -1.9146040822591281,
+    "z_score": -20.26607840472575,
+    "topic_concentration": 0.683684794672586,
+    "direction": "human"
+  },
+  {
+    "phrase": "coding system",
+    "log_odds": -1.1483302236842086,
+    "z_score": -20.12389683011947,
+    "topic_concentration": 0.998166819431714,
+    "direction": "human"
+  },
+  {
+    "phrase": "bike",
+    "log_odds": 0.734483449325749,
+    "z_score": 20.10320950423268,
+    "topic_concentration": 0.8953282081608516,
+    "direction": "ai"
+  },
+  {
+    "phrase": "play sports",
+    "log_odds": -2.4140007536054355,
+    "z_score": -20.09346692568782,
+    "topic_concentration": 0.709838107098381,
+    "direction": "human"
+  },
+  {
+    "phrase": "action coding",
+    "log_odds": -1.1422630248060166,
+    "z_score": -20.089594635496912,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "facial action",
+    "log_odds": -1.1417396315289619,
+    "z_score": -20.079538093510415,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "the picture",
+    "log_odds": -2.1734790076091866,
+    "z_score": -20.058546011281518,
+    "topic_concentration": 0.7187141216991964,
+    "direction": "human"
+  },
+  {
+    "phrase": "years there",
+    "log_odds": 2.3929717776353474,
+    "z_score": 19.952260443786038,
+    "topic_concentration": 0.6495016611295681,
+    "direction": "ai"
+  },
+  {
+    "phrase": "traditional classroom",
+    "log_odds": 2.7271385166770266,
+    "z_score": 19.902255244183554,
+    "topic_concentration": 0.9601226993865031,
+    "direction": "ai"
+  },
+  {
+    "phrase": "express my",
+    "log_odds": 4.985263535320513,
+    "z_score": 19.851388902253078,
+    "topic_concentration": 0.8260869565217391,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to design",
+    "log_odds": -1.4610647096835976,
+    "z_score": -19.82871316581365,
+    "topic_concentration": 0.8214689265536723,
+    "direction": "human"
+  },
+  {
+    "phrase": "presidency",
+    "log_odds": 1.0160578027151956,
+    "z_score": 19.78555602041602,
+    "topic_concentration": 0.9298076923076923,
+    "direction": "ai"
+  },
+  {
+    "phrase": "public health",
+    "log_odds": 4.342146427999513,
+    "z_score": 19.699344451734145,
+    "topic_concentration": 0.8941176470588236,
+    "direction": "ai"
+  },
+  {
+    "phrase": "reliance on",
+    "log_odds": 3.0391921577958776,
+    "z_score": 19.629305325402335,
+    "topic_concentration": 0.8034934497816594,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the interests",
+    "log_odds": 3.0048448312296916,
+    "z_score": 19.596730221960804,
+    "topic_concentration": 0.7965738758029979,
+    "direction": "ai"
+  },
+  {
+    "phrase": "election process",
+    "log_odds": 1.6446519851969725,
+    "z_score": 19.53080778271378,
+    "topic_concentration": 0.9741035856573705,
+    "direction": "ai"
+  },
+  {
+    "phrase": "on venus",
+    "log_odds": -1.8303090733996772,
+    "z_score": -19.461789027779876,
+    "topic_concentration": 0.9935400516795866,
+    "direction": "human"
+  },
+  {
+    "phrase": "regional",
+    "log_odds": 1.2175745094015333,
+    "z_score": 19.425703512599892,
+    "topic_concentration": 0.8390804597701149,
+    "direction": "ai"
+  },
+  {
+    "phrase": "happier",
+    "log_odds": -1.3320189493823058,
+    "z_score": -19.362113240425042,
+    "topic_concentration": 0.7018072289156626,
+    "direction": "human"
+  },
+  {
+    "phrase": "wins the",
+    "log_odds": 1.7263415523888792,
+    "z_score": 19.316799919861452,
+    "topic_concentration": 0.8770343580470162,
+    "direction": "ai"
+  },
+  {
+    "phrase": "reduce air",
+    "log_odds": 2.907453149274284,
+    "z_score": 19.294582147821163,
+    "topic_concentration": 0.9858490566037735,
+    "direction": "ai"
+  },
+  {
+    "phrase": "undemocratic",
+    "log_odds": 3.8987473851568133,
+    "z_score": 19.182619735312883,
+    "topic_concentration": 0.9908592321755028,
+    "direction": "ai"
+  },
+  {
+    "phrase": "smile",
+    "log_odds": -1.305935367280732,
+    "z_score": -19.140848668638434,
+    "topic_concentration": 0.8068833652007649,
+    "direction": "human"
+  },
+  {
+    "phrase": "of venus",
+    "log_odds": -1.4463990213769282,
+    "z_score": -19.09127872122593,
+    "topic_concentration": 0.9955456570155902,
+    "direction": "human"
+  },
+  {
+    "phrase": "more power",
+    "log_odds": 1.6316510184107038,
+    "z_score": 19.08402119680566,
+    "topic_concentration": 0.6726943942133815,
+    "direction": "ai"
+  },
+  {
+    "phrase": "coding",
+    "log_odds": -0.9045846578478258,
+    "z_score": -19.066310246156178,
+    "topic_concentration": 0.8729071537290716,
+    "direction": "human"
+  },
+  {
+    "phrase": "texting and",
+    "log_odds": -3.399816286791605,
+    "z_score": -19.05284548982972,
+    "topic_concentration": 0.7550077041602465,
+    "direction": "human"
+  },
+  {
+    "phrase": "driving is",
+    "log_odds": -1.537009987314125,
+    "z_score": -18.96371697175904,
+    "topic_concentration": 0.6779107725788901,
+    "direction": "human"
+  },
+  {
+    "phrase": "lunch",
+    "log_odds": -0.8758669862412969,
+    "z_score": -18.94960154934583,
+    "topic_concentration": 0.7126514131897712,
+    "direction": "human"
+  },
+  {
+    "phrase": "pollution and",
+    "log_odds": 1.0308062866888719,
+    "z_score": 18.94747878259403,
+    "topic_concentration": 0.9328493647912885,
+    "direction": "ai"
+  },
+  {
+    "phrase": "voice in",
+    "log_odds": 2.2079387860059825,
+    "z_score": 18.946842615403067,
+    "topic_concentration": 0.8382022471910112,
+    "direction": "ai"
+  },
+  {
+    "phrase": "phone while",
+    "log_odds": -1.6408222146128733,
+    "z_score": -18.886830892290117,
+    "topic_concentration": 0.9528571428571428,
+    "direction": "human"
+  },
+  {
+    "phrase": "online school",
+    "log_odds": -2.517298040390404,
+    "z_score": -18.88534166067439,
+    "topic_concentration": 0.9887640449438202,
+    "direction": "human"
+  },
+  {
+    "phrase": "their cell",
+    "log_odds": -1.5919531953108415,
+    "z_score": -18.883591706760168,
+    "topic_concentration": 0.6261203585147247,
+    "direction": "human"
+  },
+  {
+    "phrase": "driverless cars",
+    "log_odds": -0.458335478237192,
+    "z_score": -18.811493650633484,
+    "topic_concentration": 0.9973684210526316,
+    "direction": "human"
+  },
+  {
+    "phrase": "without cars",
+    "log_odds": -1.4850355016432015,
+    "z_score": -18.789843224465567,
+    "topic_concentration": 0.9928861788617886,
+    "direction": "human"
+  },
+  {
+    "phrase": "it ensures",
+    "log_odds": 2.981064175063219,
+    "z_score": 18.779826825090247,
+    "topic_concentration": 0.859375,
+    "direction": "ai"
+  },
+  {
+    "phrase": "our goals",
+    "log_odds": 4.447988222406202,
+    "z_score": 18.703592347933004,
+    "topic_concentration": 0.6367265469061876,
+    "direction": "ai"
+  },
+  {
+    "phrase": "be student",
+    "log_odds": -2.3799994633621164,
+    "z_score": -18.676735216365618,
+    "topic_concentration": 0.9378698224852071,
+    "direction": "human"
+  },
+  {
+    "phrase": "zip",
+    "log_odds": 2.327112822375568,
+    "z_score": 18.5784866478485,
+    "topic_concentration": 0.7814814814814814,
+    "direction": "ai"
+  },
+  {
+    "phrase": "seeking",
+    "log_odds": 0.6274636271485239,
+    "z_score": 18.407991218657237,
+    "topic_concentration": 0.6243478260869565,
+    "direction": "ai"
+  },
+  {
+    "phrase": "livable",
+    "log_odds": 4.378081184475677,
+    "z_score": 18.39620760005817,
+    "topic_concentration": 0.9447619047619048,
+    "direction": "ai"
+  },
+  {
+    "phrase": "usage has",
+    "log_odds": 1.364369399774466,
+    "z_score": 18.376702304780988,
+    "topic_concentration": 0.9761194029850746,
+    "direction": "ai"
+  },
+  {
+    "phrase": "our communities",
+    "log_odds": 2.8769210411766117,
+    "z_score": 18.25567994098384,
+    "topic_concentration": 0.7091503267973857,
+    "direction": "ai"
+  },
+  {
+    "phrase": "winning the",
+    "log_odds": 1.9192459877546746,
+    "z_score": 18.223350678636535,
+    "topic_concentration": 0.8463203463203464,
+    "direction": "ai"
+  },
+  {
+    "phrase": "mistakes and",
+    "log_odds": 1.9103579601928065,
+    "z_score": 18.20389797168601,
+    "topic_concentration": 0.6118421052631579,
+    "direction": "ai"
+  },
+  {
+    "phrase": "trump",
+    "log_odds": 2.2114269040804277,
+    "z_score": 18.202214061801204,
+    "topic_concentration": 0.8406862745098039,
+    "direction": "ai"
+  },
+  {
+    "phrase": "in 2016",
+    "log_odds": 2.1649029822030723,
+    "z_score": 18.19299004664367,
+    "topic_concentration": 0.7749419953596288,
+    "direction": "ai"
+  },
+  {
+    "phrase": "photo",
+    "log_odds": -1.9203941310070345,
+    "z_score": -18.129685663296765,
+    "topic_concentration": 0.687402799377916,
+    "direction": "human"
+  },
+  {
+    "phrase": "when student",
+    "log_odds": -2.381322757641005,
+    "z_score": -18.103643653660118,
+    "topic_concentration": 0.656964656964657,
+    "direction": "human"
+  },
+  {
+    "phrase": "favor of",
+    "log_odds": 1.0042003479596175,
+    "z_score": 18.073765959707643,
+    "topic_concentration": 0.6819887429643527,
+    "direction": "ai"
+  },
+  {
+    "phrase": "by limiting",
+    "log_odds": 1.2648249173293475,
+    "z_score": 18.061140177235153,
+    "topic_concentration": 0.9093904448105437,
+    "direction": "ai"
+  },
+  {
+    "phrase": "posner",
+    "log_odds": 0.9727157642225315,
+    "z_score": 17.994765909836214,
+    "topic_concentration": 1.0,
+    "direction": "ai"
+  },
+  {
+    "phrase": "cities",
+    "log_odds": 0.4893586347659351,
+    "z_score": 17.981917886393468,
+    "topic_concentration": 0.7522556390977444,
+    "direction": "ai"
+  },
+  {
+    "phrase": "school year",
+    "log_odds": -1.0861638460438812,
+    "z_score": -17.926862587102292,
+    "topic_concentration": 0.756319514661274,
+    "direction": "human"
+  },
+  {
+    "phrase": "obesity",
+    "log_odds": 1.3857861784679582,
+    "z_score": 17.908069924986513,
+    "topic_concentration": 0.6907051282051282,
+    "direction": "ai"
+  },
+  {
+    "phrase": "walk or",
+    "log_odds": 1.2106109683155477,
+    "z_score": 17.892767784944983,
+    "topic_concentration": 0.9013157894736842,
+    "direction": "ai"
+  },
+  {
+    "phrase": "that candidates",
+    "log_odds": 2.9465138588608646,
+    "z_score": 17.878565057359822,
+    "topic_concentration": 0.9904761904761905,
+    "direction": "ai"
+  },
+  {
+    "phrase": "success is",
+    "log_odds": 3.8735566344609307,
+    "z_score": 17.871074558303274,
+    "topic_concentration": 0.6788511749347258,
+    "direction": "ai"
+  },
+  {
+    "phrase": "in favor",
+    "log_odds": 0.9837120487607596,
+    "z_score": 17.83864560042631,
+    "topic_concentration": 0.6772684752104771,
+    "direction": "ai"
+  },
+  {
+    "phrase": "2001",
+    "log_odds": -2.0332727854469415,
+    "z_score": -17.834153598923912,
+    "topic_concentration": 0.6063454759106933,
+    "direction": "human"
+  },
+  {
+    "phrase": "focus their",
+    "log_odds": 2.227284930582643,
+    "z_score": 17.772062531849944,
+    "topic_concentration": 0.8012684989429175,
+    "direction": "ai"
+  },
+  {
+    "phrase": "older students",
+    "log_odds": 3.626727782669615,
+    "z_score": 17.752958872835368,
+    "topic_concentration": 0.6394557823129252,
+    "direction": "ai"
+  },
+  {
+    "phrase": "license",
+    "log_odds": -1.4130808854425805,
+    "z_score": -17.750479191788074,
+    "topic_concentration": 0.601,
+    "direction": "human"
+  },
+  {
+    "phrase": "vote",
+    "log_odds": -0.2367373680341327,
+    "z_score": -17.69941895314046,
+    "topic_concentration": 0.8392857142857143,
+    "direction": "human"
+  },
+  {
+    "phrase": "walk bike",
+    "log_odds": 2.853394775188521,
+    "z_score": 17.672147777613162,
+    "topic_concentration": 1.0,
+    "direction": "ai"
+  },
+  {
+    "phrase": "fossil fuels",
+    "log_odds": 1.7970297671003017,
+    "z_score": 17.658513159947145,
+    "topic_concentration": 0.7338129496402878,
+    "direction": "ai"
+  },
+  {
+    "phrase": "regional appeal",
+    "log_odds": 1.4231560179064235,
+    "z_score": 17.64862317095667,
+    "topic_concentration": 1.0,
+    "direction": "ai"
+  },
+  {
+    "phrase": "an outdated",
+    "log_odds": 3.088641102585038,
+    "z_score": 17.624424455371962,
+    "topic_concentration": 0.9792626728110599,
+    "direction": "ai"
+  },
+  {
+    "phrase": "design their",
+    "log_odds": -1.722181405258608,
+    "z_score": -17.622489325787768,
+    "topic_concentration": 0.9932546374367622,
+    "direction": "human"
+  },
+  {
+    "phrase": "would benefit",
+    "log_odds": -1.5081679120648648,
+    "z_score": -17.57766355214088,
+    "topic_concentration": 0.6290143964562569,
+    "direction": "human"
+  },
+  {
+    "phrase": "of transportation",
+    "log_odds": 0.7582478313500847,
+    "z_score": 17.574034358887754,
+    "topic_concentration": 0.8045801526717558,
+    "direction": "ai"
+  },
+  {
+    "phrase": "venus has",
+    "log_odds": -1.9033664121518612,
+    "z_score": -17.392122147202997,
+    "topic_concentration": 0.9973154362416108,
+    "direction": "human"
+  },
+  {
+    "phrase": "vote by",
+    "log_odds": 2.104249656306795,
+    "z_score": 17.385004283472195,
+    "topic_concentration": 0.9672131147540983,
+    "direction": "ai"
+  },
+  {
+    "phrase": "tie",
+    "log_odds": -1.310416804982534,
+    "z_score": -17.355264763017374,
+    "topic_concentration": 0.8372352285395763,
+    "direction": "human"
+  },
+  {
+    "phrase": "reduce our",
+    "log_odds": 3.845625551737056,
+    "z_score": 17.32597226094277,
+    "topic_concentration": 0.8995098039215687,
+    "direction": "ai"
+  },
+  {
+    "phrase": "democracy",
+    "log_odds": 1.0387743821957063,
+    "z_score": 17.26975608645967,
+    "topic_concentration": 0.7822164948453608,
+    "direction": "ai"
+  },
+  {
+    "phrase": "emissions and",
+    "log_odds": 1.0406770904121636,
+    "z_score": 17.267900887173507,
+    "topic_concentration": 0.9685393258426966,
+    "direction": "ai"
+  },
+  {
+    "phrase": "autonomous",
+    "log_odds": 1.2326154125210937,
+    "z_score": 17.24472192893157,
+    "topic_concentration": 0.6631016042780749,
+    "direction": "ai"
+  },
+  {
+    "phrase": "trans regional",
+    "log_odds": 1.754957200891777,
+    "z_score": 17.235565639755624,
+    "topic_concentration": 1.0,
+    "direction": "ai"
+  },
+  {
+    "phrase": "cars would",
+    "log_odds": -2.064460775344033,
+    "z_score": -17.23246051976341,
+    "topic_concentration": 0.7534668721109399,
+    "direction": "human"
+  },
+  {
+    "phrase": "projects are",
+    "log_odds": -1.5940558451099687,
+    "z_score": -17.219289337544357,
+    "topic_concentration": 0.9717682020802377,
+    "direction": "human"
+  },
+  {
+    "phrase": "certainty",
+    "log_odds": 1.1274981325277604,
+    "z_score": 17.21861191020108,
+    "topic_concentration": 0.8674698795180723,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the smog",
+    "log_odds": -1.9266186768917635,
+    "z_score": -17.130469888814787,
+    "topic_concentration": 0.9950124688279302,
+    "direction": "human"
+  },
+  {
+    "phrase": "receives",
+    "log_odds": 1.1215012069118124,
+    "z_score": 17.10910050409597,
+    "topic_concentration": 0.6516347237880497,
+    "direction": "ai"
+  },
+  {
+    "phrase": "time sincerely",
+    "log_odds": 2.103968873312125,
+    "z_score": 17.061344989823922,
+    "topic_concentration": 0.8170212765957446,
+    "direction": "ai"
+  },
+  {
+    "phrase": "designed projects",
+    "log_odds": -0.9434332476878247,
+    "z_score": -16.975845810479974,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "campaign in",
+    "log_odds": 2.0400533378543724,
+    "z_score": 16.96480936384672,
+    "topic_concentration": 0.9465648854961832,
+    "direction": "ai"
+  },
+  {
+    "phrase": "schooling",
+    "log_odds": -1.1886735269522397,
+    "z_score": -16.922391868309127,
+    "topic_concentration": 0.7722222222222223,
+    "direction": "human"
+  },
+  {
+    "phrase": "arguments in",
+    "log_odds": 2.1115914368208433,
+    "z_score": 16.915804481199753,
+    "topic_concentration": 0.826302729528536,
+    "direction": "ai"
+  },
+  {
+    "phrase": "mona",
+    "log_odds": -1.3340770688587114,
+    "z_score": -16.898906142087192,
+    "topic_concentration": 0.9398496240601504,
+    "direction": "human"
+  },
+  {
+    "phrase": "many cities",
+    "log_odds": 2.0230925265689432,
+    "z_score": 16.898053503391758,
+    "topic_concentration": 0.9029126213592233,
+    "direction": "ai"
+  },
+  {
+    "phrase": "plates",
+    "log_odds": -1.8329026577070842,
+    "z_score": -16.88023436735564,
+    "topic_concentration": 0.7884012539184952,
+    "direction": "human"
+  },
+  {
+    "phrase": "online classes",
+    "log_odds": -0.5806119536071233,
+    "z_score": -16.87741444033536,
+    "topic_concentration": 0.9891304347826086,
+    "direction": "human"
+  },
+  {
+    "phrase": "who wins",
+    "log_odds": 1.994684140284578,
+    "z_score": 16.81222749658533,
+    "topic_concentration": 0.9537275064267352,
+    "direction": "ai"
+  },
+  {
+    "phrase": "election this",
+    "log_odds": 2.371261888467087,
+    "z_score": 16.81041150828779,
+    "topic_concentration": 0.9705093833780161,
+    "direction": "ai"
+  },
+  {
+    "phrase": "guidance from",
+    "log_odds": 3.2213822036588002,
+    "z_score": 16.805958478574983,
+    "topic_concentration": 0.6171171171171171,
+    "direction": "ai"
+  },
+  {
+    "phrase": "and public",
+    "log_odds": 1.3061639516984158,
+    "z_score": 16.783865094306496,
+    "topic_concentration": 0.8132530120481928,
+    "direction": "ai"
+  },
+  {
+    "phrase": "homework club",
+    "log_odds": 2.6434379856913193,
+    "z_score": 16.77642373813109,
+    "topic_concentration": 0.7156862745098039,
+    "direction": "ai"
+  },
+  {
+    "phrase": "urban areas",
+    "log_odds": 3.0693053872604033,
+    "z_score": 16.73518760203987,
+    "topic_concentration": 0.6166666666666667,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the face",
+    "log_odds": -0.3669669139957694,
+    "z_score": -16.733633508218272,
+    "topic_concentration": 0.6366459627329193,
+    "direction": "human"
+  },
+  {
+    "phrase": "an alien",
+    "log_odds": -2.0188695128317367,
+    "z_score": -16.711286602679387,
+    "topic_concentration": 0.9585585585585585,
+    "direction": "human"
+  },
+  {
+    "phrase": "fuels",
+    "log_odds": 1.3837729299268062,
+    "z_score": 16.661365305678654,
+    "topic_concentration": 0.6283422459893048,
+    "direction": "ai"
+  },
+  {
+    "phrase": "conclusion limiting",
+    "log_odds": 2.349758662785348,
+    "z_score": 16.633797489320006,
+    "topic_concentration": 0.9976525821596244,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the projects",
+    "log_odds": -3.2326578421240004,
+    "z_score": -16.609214655116276,
+    "topic_concentration": 0.9759862778730704,
+    "direction": "human"
+  },
+  {
+    "phrase": "encourage people",
+    "log_odds": 2.439894767329676,
+    "z_score": 16.608487656356186,
+    "topic_concentration": 0.6823529411764706,
+    "direction": "ai"
+  },
+  {
+    "phrase": "national popular",
+    "log_odds": 1.9537065745968771,
+    "z_score": 16.591436600883615,
+    "topic_concentration": 0.9963503649635036,
+    "direction": "ai"
+  },
+  {
+    "phrase": "tense",
+    "log_odds": -1.8603234202565027,
+    "z_score": -16.590758073372683,
+    "topic_concentration": 0.8757062146892656,
+    "direction": "human"
+  },
+  {
+    "phrase": "fossil",
+    "log_odds": 1.4355694647279442,
+    "z_score": 16.58763126178737,
+    "topic_concentration": 0.6716417910447762,
+    "direction": "ai"
+  },
+  {
+    "phrase": "for president",
+    "log_odds": -1.2052492289945285,
+    "z_score": -16.560740264375283,
+    "topic_concentration": 0.9339430894308943,
+    "direction": "human"
+  },
+  {
+    "phrase": "viking",
+    "log_odds": -2.0814516485968007,
+    "z_score": -16.553624492624433,
+    "topic_concentration": 0.9860383944153578,
+    "direction": "human"
+  },
+  {
+    "phrase": "donald",
+    "log_odds": 2.586937973837477,
+    "z_score": 16.548671938222448,
+    "topic_concentration": 0.8704663212435233,
+    "direction": "ai"
+  },
+  {
+    "phrase": "usage one",
+    "log_odds": 3.531692088218122,
+    "z_score": 16.546712840622114,
+    "topic_concentration": 0.9927884615384616,
+    "direction": "ai"
+  },
+  {
+    "phrase": "been growing",
+    "log_odds": 3.279088196608509,
+    "z_score": 16.535462062269463,
+    "topic_concentration": 0.8555798687089715,
+    "direction": "ai"
+  },
+  {
+    "phrase": "geological",
+    "log_odds": 3.0326819685972506,
+    "z_score": 16.513462600755126,
+    "topic_concentration": 0.6822033898305084,
+    "direction": "ai"
+  },
+  {
+    "phrase": "of advantages",
+    "log_odds": 1.8356360450638096,
+    "z_score": 16.493376955391508,
+    "topic_concentration": 0.7941952506596306,
+    "direction": "ai"
+  },
+  {
+    "phrase": "cars that",
+    "log_odds": -2.350723917874504,
+    "z_score": -16.486412475300078,
+    "topic_concentration": 0.649025069637883,
+    "direction": "human"
+  },
+  {
+    "phrase": "footprint",
+    "log_odds": 2.871735598132547,
+    "z_score": 16.479466793880825,
+    "topic_concentration": 0.8257142857142857,
+    "direction": "ai"
+  },
+  {
+    "phrase": "major source",
+    "log_odds": 4.776031674721452,
+    "z_score": 16.445479250263443,
+    "topic_concentration": 0.9472843450479234,
+    "direction": "ai"
+  },
+  {
+    "phrase": "their summer",
+    "log_odds": -1.9868842426554902,
+    "z_score": -16.426600499725073,
+    "topic_concentration": 0.9219512195121952,
+    "direction": "human"
+  },
+  {
+    "phrase": "to air",
+    "log_odds": 2.048084702097748,
+    "z_score": 16.42368891066126,
+    "topic_concentration": 0.7897435897435897,
+    "direction": "ai"
+  },
+  {
+    "phrase": "representative",
+    "log_odds": 1.134376916905783,
+    "z_score": 16.423681166461037,
+    "topic_concentration": 0.7405329593267882,
+    "direction": "ai"
+  },
+  {
+    "phrase": "of voters",
+    "log_odds": 1.0412474318368918,
+    "z_score": 16.384122363106325,
+    "topic_concentration": 0.979874213836478,
+    "direction": "ai"
+  },
+  {
+    "phrase": "populous",
+    "log_odds": 2.6883799083680913,
+    "z_score": 16.323548235139935,
+    "topic_concentration": 0.8694267515923567,
+    "direction": "ai"
+  },
+  {
+    "phrase": "mona lisa",
+    "log_odds": -1.2975144222688968,
+    "z_score": -16.305427519029625,
+    "topic_concentration": 0.9428208386277002,
+    "direction": "human"
+  },
+  {
+    "phrase": "votes this",
+    "log_odds": 1.7666800498135729,
+    "z_score": 16.288564596595176,
+    "topic_concentration": 0.9928571428571429,
+    "direction": "ai"
+  },
+  {
+    "phrase": "biases",
+    "log_odds": 2.459373389261337,
+    "z_score": 16.280185071562748,
+    "topic_concentration": 0.6273764258555133,
+    "direction": "ai"
+  },
+  {
+    "phrase": "their peers",
+    "log_odds": 1.0753399011588645,
+    "z_score": 16.270920050736272,
+    "topic_concentration": 0.6007802340702211,
+    "direction": "ai"
+  },
+  {
+    "phrase": "and reducing",
+    "log_odds": 2.2714164007947275,
+    "z_score": 16.264010369339747,
+    "topic_concentration": 0.7151335311572701,
+    "direction": "ai"
+  },
+  {
+    "phrase": "classes at",
+    "log_odds": -1.3956999912581427,
+    "z_score": -16.258086709962548,
+    "topic_concentration": 0.9768595041322314,
+    "direction": "human"
+  },
+  {
+    "phrase": "that limiting",
+    "log_odds": 1.5308971753693914,
+    "z_score": 16.253337701264236,
+    "topic_concentration": 0.9863636363636363,
+    "direction": "ai"
+  },
+  {
+    "phrase": "dangers",
+    "log_odds": -0.7021246946540121,
+    "z_score": -16.247568330237378,
+    "topic_concentration": 0.6807304785894207,
+    "direction": "human"
+  },
+  {
+    "phrase": "car ownership",
+    "log_odds": 1.4262162874578799,
+    "z_score": 16.23503024419669,
+    "topic_concentration": 0.9764705882352941,
+    "direction": "ai"
+  },
+  {
+    "phrase": "is system",
+    "log_odds": 1.9511639050667675,
+    "z_score": 16.189295798694744,
+    "topic_concentration": 0.6898395721925134,
+    "direction": "ai"
+  },
+  {
+    "phrase": "transportation such",
+    "log_odds": 2.0673890132679453,
+    "z_score": 16.17501600016824,
+    "topic_concentration": 0.9672131147540983,
+    "direction": "ai"
+  },
+  {
+    "phrase": "by popular",
+    "log_odds": 0.6202451690223771,
+    "z_score": 16.13445246940878,
+    "topic_concentration": 0.9941176470588236,
+    "direction": "ai"
+  },
+  {
+    "phrase": "shadows",
+    "log_odds": -1.5489772910143778,
+    "z_score": -16.106677053297535,
+    "topic_concentration": 0.8825448613376835,
+    "direction": "human"
+  },
+  {
+    "phrase": "lisa",
+    "log_odds": -1.2141842767490445,
+    "z_score": -16.08485869904323,
+    "topic_concentration": 0.9305210918114144,
+    "direction": "human"
+  },
+  {
+    "phrase": "venus and",
+    "log_odds": -1.788821483720815,
+    "z_score": -16.084045145841948,
+    "topic_concentration": 0.9969834087481146,
+    "direction": "human"
+  },
+  {
+    "phrase": "cycling",
+    "log_odds": 2.9605056934413394,
+    "z_score": 16.07596747237933,
+    "topic_concentration": 0.8771331058020477,
+    "direction": "ai"
+  },
+  {
+    "phrase": "voter in",
+    "log_odds": 3.5088099249938924,
+    "z_score": 16.06948680214341,
+    "topic_concentration": 0.990909090909091,
+    "direction": "ai"
+  },
+  {
+    "phrase": "trash",
+    "log_odds": -1.6192918355200572,
+    "z_score": -16.050622225378667,
+    "topic_concentration": 0.7101967799642218,
+    "direction": "human"
+  },
+  {
+    "phrase": "of failure",
+    "log_odds": 2.9497557629669107,
+    "z_score": 16.010749366182846,
+    "topic_concentration": 0.6470588235294118,
+    "direction": "ai"
+  },
+  {
+    "phrase": "our cities",
+    "log_odds": 2.9497557629669107,
+    "z_score": 16.010749366182846,
+    "topic_concentration": 0.9066666666666666,
+    "direction": "ai"
+  },
+  {
+    "phrase": "by aliens",
+    "log_odds": -1.102348152312553,
+    "z_score": -16.000881576141524,
+    "topic_concentration": 0.9972027972027973,
+    "direction": "human"
+  },
+  {
+    "phrase": "asking for",
+    "log_odds": -1.226643054019176,
+    "z_score": -15.987885304476062,
+    "topic_concentration": 0.7391304347826086,
+    "direction": "human"
+  },
+  {
+    "phrase": "project that",
+    "log_odds": -1.6533463027911228,
+    "z_score": -15.963641399323793,
+    "topic_concentration": 0.8537360890302067,
+    "direction": "human"
+  },
+  {
+    "phrase": "cydonia",
+    "log_odds": -1.6970468583592364,
+    "z_score": -15.941400410138579,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "pollution cars",
+    "log_odds": 3.2844155461096776,
+    "z_score": 15.939604974407128,
+    "topic_concentration": 0.9974554707379135,
+    "direction": "ai"
+  },
+  {
+    "phrase": "with positive",
+    "log_odds": 2.9787895576668753,
+    "z_score": 15.931932427392725,
+    "topic_concentration": 0.6626506024096386,
+    "direction": "ai"
+  },
+  {
+    "phrase": "sensors",
+    "log_odds": -1.0799191433232629,
+    "z_score": -15.891068170890913,
+    "topic_concentration": 0.7649208282582217,
+    "direction": "human"
+  },
+  {
+    "phrase": "reduce greenhouse",
+    "log_odds": 1.4983472737179167,
+    "z_score": 15.890567232235732,
+    "topic_concentration": 0.9763440860215054,
+    "direction": "ai"
+  },
+  {
+    "phrase": "entire country",
+    "log_odds": 2.590404267944953,
+    "z_score": 15.837029285581545,
+    "topic_concentration": 0.8308457711442786,
+    "direction": "ai"
+  },
+  {
+    "phrase": "take risks",
+    "log_odds": 3.4604914571074588,
+    "z_score": 15.82955662149473,
+    "topic_concentration": 0.6514745308310992,
+    "direction": "ai"
+  },
+  {
+    "phrase": "of states",
+    "log_odds": 1.8033223090353747,
+    "z_score": 15.828004683437257,
+    "topic_concentration": 0.8429752066115702,
+    "direction": "ai"
+  },
+  {
+    "phrase": "venus the",
+    "log_odds": -1.4594989581720963,
+    "z_score": -15.761717749295482,
+    "topic_concentration": 0.9985815602836879,
+    "direction": "human"
+  },
+  {
+    "phrase": "slate",
+    "log_odds": -3.5516207590921542,
+    "z_score": -15.758733036819448,
+    "topic_concentration": 0.9683143219264893,
+    "direction": "human"
+  },
+  {
+    "phrase": "the animals",
+    "log_odds": -1.1661432843167177,
+    "z_score": -15.758177859131077,
+    "topic_concentration": 0.7734877734877735,
+    "direction": "human"
+  },
+  {
+    "phrase": "from home",
+    "log_odds": -0.5359626663832397,
+    "z_score": -15.728165596847845,
+    "topic_concentration": 0.8907910271546635,
+    "direction": "human"
+  },
+  {
+    "phrase": "usage and",
+    "log_odds": 1.3691892556606469,
+    "z_score": 15.71161550735628,
+    "topic_concentration": 0.9171374764595104,
+    "direction": "ai"
+  },
+  {
+    "phrase": "erosion",
+    "log_odds": 1.9616663284620586,
+    "z_score": 15.707084415948023,
+    "topic_concentration": 0.7975708502024291,
+    "direction": "ai"
+  },
+  {
+    "phrase": "states while",
+    "log_odds": 3.5069886860690858,
+    "z_score": 15.691194152925071,
+    "topic_concentration": 0.9289340101522843,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to number",
+    "log_odds": 2.6815793482280785,
+    "z_score": 15.669839539583885,
+    "topic_concentration": 0.6782608695652174,
+    "direction": "ai"
+  },
+  {
+    "phrase": "of air",
+    "log_odds": 0.9111123956610836,
+    "z_score": 15.649269070286111,
+    "topic_concentration": 0.7369439071566731,
+    "direction": "ai"
+  },
+  {
+    "phrase": "face was",
+    "log_odds": -1.4445835179579412,
+    "z_score": -15.644674226677825,
+    "topic_concentration": 0.9825119236883942,
+    "direction": "human"
+  },
+  {
+    "phrase": "to small",
+    "log_odds": 1.9655420721609325,
+    "z_score": 15.64390177628422,
+    "topic_concentration": 0.7138888888888889,
+    "direction": "ai"
+  },
+  {
+    "phrase": "greece",
+    "log_odds": -1.6831423430244836,
+    "z_score": -15.637673522535264,
+    "topic_concentration": 0.7557251908396947,
+    "direction": "human"
+  },
+  {
+    "phrase": "electors who",
+    "log_odds": -1.9873496155109986,
+    "z_score": -15.634311703011843,
+    "topic_concentration": 0.9799465240641712,
+    "direction": "human"
+  },
+  {
+    "phrase": "perseverance",
+    "log_odds": 3.8525101787538656,
+    "z_score": 15.61856635039776,
+    "topic_concentration": 0.6166666666666667,
+    "direction": "ai"
+  },
+  {
+    "phrase": "or take",
+    "log_odds": 1.0351745202129088,
+    "z_score": 15.548721063777716,
+    "topic_concentration": 0.6114570361145704,
+    "direction": "ai"
+  },
+  {
+    "phrase": "gives more",
+    "log_odds": 2.248220776044553,
+    "z_score": 15.525537494456572,
+    "topic_concentration": 0.8526645768025078,
+    "direction": "ai"
+  },
+  {
+    "phrase": "multiple opinions",
+    "log_odds": -0.828891864341422,
+    "z_score": -15.51744329494635,
+    "topic_concentration": 0.99625,
+    "direction": "human"
+  },
+  {
+    "phrase": "around without",
+    "log_odds": 2.90865308758816,
+    "z_score": 15.513030524728341,
+    "topic_concentration": 0.9003322259136213,
+    "direction": "ai"
+  },
+  {
+    "phrase": "take over",
+    "log_odds": -1.7470193082687988,
+    "z_score": -15.500244842497061,
+    "topic_concentration": 0.6993957703927492,
+    "direction": "human"
+  },
+  {
+    "phrase": "conclusion there",
+    "log_odds": 1.5000200521190763,
+    "z_score": 15.49309014480536,
+    "topic_concentration": 0.6704331450094162,
+    "direction": "ai"
+  },
+  {
+    "phrase": "car that",
+    "log_odds": -1.7191666118773448,
+    "z_score": -15.492968559017827,
+    "topic_concentration": 0.6309859154929578,
+    "direction": "human"
+  },
+  {
+    "phrase": "have average",
+    "log_odds": -2.418227884871543,
+    "z_score": -15.45023862294029,
+    "topic_concentration": 0.9942196531791907,
+    "direction": "human"
+  },
+  {
+    "phrase": "elections",
+    "log_odds": 0.5515510840019306,
+    "z_score": 15.416960941073343,
+    "topic_concentration": 0.896048632218845,
+    "direction": "ai"
+  },
+  {
+    "phrase": "failure is",
+    "log_odds": 4.897205581737696,
+    "z_score": 15.407341697728164,
+    "topic_concentration": 0.7533875338753387,
+    "direction": "ai"
+  },
+  {
+    "phrase": "should join",
+    "log_odds": -1.859626414101072,
+    "z_score": -15.397900106042258,
+    "topic_concentration": 0.9133064516129032,
+    "direction": "human"
+  },
+  {
+    "phrase": "phones while",
+    "log_odds": -1.3100089269605792,
+    "z_score": -15.364864984923917,
+    "topic_concentration": 0.9538461538461539,
+    "direction": "human"
+  },
+  {
+    "phrase": "voted",
+    "log_odds": -1.3651991595589354,
+    "z_score": -15.353651714261032,
+    "topic_concentration": 0.846441947565543,
+    "direction": "human"
+  },
+  {
+    "phrase": "their cars",
+    "log_odds": -1.044661694229017,
+    "z_score": -15.325411273767035,
+    "topic_concentration": 0.8526615969581749,
+    "direction": "human"
+  },
+  {
+    "phrase": "boat",
+    "log_odds": -1.2677206162981953,
+    "z_score": -15.325056777062498,
+    "topic_concentration": 0.7428139183055976,
+    "direction": "human"
+  },
+  {
+    "phrase": "hillary",
+    "log_odds": 3.1103089966750304,
+    "z_score": 15.308460540401768,
+    "topic_concentration": 0.9312320916905444,
+    "direction": "ai"
+  },
+  {
+    "phrase": "alert",
+    "log_odds": -1.2833514373128008,
+    "z_score": -15.302816505569153,
+    "topic_concentration": 0.6376811594202898,
+    "direction": "human"
+  },
+  {
+    "phrase": "project is",
+    "log_odds": -2.344841119531731,
+    "z_score": -15.295799991248119,
+    "topic_concentration": 0.8532110091743119,
+    "direction": "human"
+  },
+  {
+    "phrase": "provides students",
+    "log_odds": 2.6531928958122357,
+    "z_score": 15.276223937032068,
+    "topic_concentration": 0.7478260869565218,
+    "direction": "ai"
+  },
+  {
+    "phrase": "attend",
+    "log_odds": -0.484144055822755,
+    "z_score": -15.271934674784827,
+    "topic_concentration": 0.733578318787322,
+    "direction": "human"
+  },
+  {
+    "phrase": "trans",
+    "log_odds": 1.289341391612302,
+    "z_score": 15.229137905049333,
+    "topic_concentration": 0.898,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to win",
+    "log_odds": 0.7809000051489772,
+    "z_score": 15.204786704550308,
+    "topic_concentration": 0.7396657871591908,
+    "direction": "ai"
+  },
+  {
+    "phrase": "800",
+    "log_odds": -2.304672535513143,
+    "z_score": -15.182718391755321,
+    "topic_concentration": 0.8411843876177658,
+    "direction": "human"
+  },
+  {
+    "phrase": "appeal to",
+    "log_odds": 1.4376773437283763,
+    "z_score": 15.169118034812461,
+    "topic_concentration": 0.6410788381742739,
+    "direction": "ai"
+  },
+  {
+    "phrase": "natural landform",
+    "log_odds": -0.7187269482360374,
+    "z_score": -15.159041468090859,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "college also",
+    "log_odds": 1.6324698452690587,
+    "z_score": 15.154615961365712,
+    "topic_concentration": 0.9582366589327146,
+    "direction": "ai"
+  },
+  {
+    "phrase": "least one",
+    "log_odds": -1.1301906429897013,
+    "z_score": -15.122530197883801,
+    "topic_concentration": 0.7109634551495017,
+    "direction": "human"
+  },
+  {
+    "phrase": "movement to",
+    "log_odds": 2.661541507347483,
+    "z_score": 15.122357366399505,
+    "topic_concentration": 0.9023668639053254,
+    "direction": "ai"
+  },
+  {
+    "phrase": "environmental impact",
+    "log_odds": 3.952544522278549,
+    "z_score": 15.076937010829761,
+    "topic_concentration": 0.8597014925373134,
+    "direction": "ai"
+  },
+  {
+    "phrase": "council",
+    "log_odds": -1.5281276898310932,
+    "z_score": -15.07008119416708,
+    "topic_concentration": 0.6031496062992125,
+    "direction": "human"
+  },
+  {
+    "phrase": "be teacher",
+    "log_odds": -2.1231763051854884,
+    "z_score": -15.068922338910074,
+    "topic_concentration": 0.9308300395256917,
+    "direction": "human"
+  },
+  {
+    "phrase": "other health",
+    "log_odds": 3.6250572555798595,
+    "z_score": 15.056412652836235,
+    "topic_concentration": 0.7029177718832891,
+    "direction": "ai"
+  },
+  {
+    "phrase": "designed by",
+    "log_odds": -2.286135979107689,
+    "z_score": -15.052529183048886,
+    "topic_concentration": 0.9190871369294605,
+    "direction": "human"
+  },
+  {
+    "phrase": "1976",
+    "log_odds": -2.034651794192765,
+    "z_score": -15.047215437107727,
+    "topic_concentration": 0.8127208480565371,
+    "direction": "human"
+  },
+  {
+    "phrase": "every vote",
+    "log_odds": 2.297210174488944,
+    "z_score": 15.04349555639777,
+    "topic_concentration": 0.9926739926739927,
+    "direction": "ai"
+  },
+  {
+    "phrase": "closest",
+    "log_odds": -1.4366364349392455,
+    "z_score": -15.01954652998937,
+    "topic_concentration": 0.7029569892473119,
+    "direction": "human"
+  },
+  {
+    "phrase": "was always",
+    "log_odds": -1.9972971487669682,
+    "z_score": -14.998231872239712,
+    "topic_concentration": 0.798234552332913,
+    "direction": "human"
+  },
+  {
+    "phrase": "on swing",
+    "log_odds": 2.8628633956963725,
+    "z_score": 14.991421790033096,
+    "topic_concentration": 0.979381443298969,
+    "direction": "ai"
+  },
+  {
+    "phrase": "can significantly",
+    "log_odds": 4.056762503541542,
+    "z_score": 14.973215874134542,
+    "topic_concentration": 0.7636363636363637,
+    "direction": "ai"
+  },
+  {
+    "phrase": "city state",
+    "log_odds": 3.806656741559621,
+    "z_score": 14.959764402231096,
+    "topic_concentration": 0.8796680497925311,
+    "direction": "ai"
+  },
+  {
+    "phrase": "confused or",
+    "log_odds": -2.1654644913731893,
+    "z_score": -14.957072097711135,
+    "topic_concentration": 0.9583333333333334,
+    "direction": "human"
+  },
+  {
+    "phrase": "donald trump",
+    "log_odds": 3.354476234088768,
+    "z_score": 14.950248340032688,
+    "topic_concentration": 0.9256198347107438,
+    "direction": "ai"
+  },
+  {
+    "phrase": "in traditional",
+    "log_odds": 2.0381974452831404,
+    "z_score": 14.907319887745512,
+    "topic_concentration": 0.8246268656716418,
+    "direction": "ai"
+  },
+  {
+    "phrase": "person for",
+    "log_odds": -1.6973889353192586,
+    "z_score": -14.849708916424666,
+    "topic_concentration": 0.7841328413284133,
+    "direction": "human"
+  },
+  {
+    "phrase": "walking biking",
+    "log_odds": 2.263427623641814,
+    "z_score": 14.786085434109243,
+    "topic_concentration": 1.0,
+    "direction": "ai"
+  },
+  {
+    "phrase": "autonomous vehicles",
+    "log_odds": 3.564616997950237,
+    "z_score": 14.785719738143412,
+    "topic_concentration": 0.7230769230769231,
+    "direction": "ai"
+  },
+  {
+    "phrase": "usage this",
+    "log_odds": 2.5480730192294185,
+    "z_score": 14.782595155199756,
+    "topic_concentration": 0.9725609756097561,
+    "direction": "ai"
+  },
+  {
+    "phrase": "advice is",
+    "log_odds": -1.410088600820206,
+    "z_score": -14.775838134101688,
+    "topic_concentration": 0.9446428571428571,
+    "direction": "human"
+  },
+  {
+    "phrase": "advantages for",
+    "log_odds": 2.171560935319473,
+    "z_score": 14.774394171594574,
+    "topic_concentration": 0.6933797909407665,
+    "direction": "ai"
+  },
+  {
+    "phrase": "election",
+    "log_odds": 0.29483526625369727,
+    "z_score": 14.770528242830245,
+    "topic_concentration": 0.8999696877841771,
+    "direction": "ai"
+  },
+  {
+    "phrase": "flexibility and",
+    "log_odds": 2.9127941723702797,
+    "z_score": 14.766826891712904,
+    "topic_concentration": 0.6700680272108843,
+    "direction": "ai"
+  },
+  {
+    "phrase": "setbacks",
+    "log_odds": 4.142963178045854,
+    "z_score": 14.752661574904907,
+    "topic_concentration": 0.704,
+    "direction": "ai"
+  },
+  {
+    "phrase": "landforms",
+    "log_odds": -1.4507513469729503,
+    "z_score": -14.749340781029959,
+    "topic_concentration": 0.9844020797227037,
+    "direction": "human"
+  },
+  {
+    "phrase": "popular votes",
+    "log_odds": -1.2691482315515792,
+    "z_score": -14.749136065527768,
+    "topic_concentration": 0.9971830985915493,
+    "direction": "human"
+  },
+  {
+    "phrase": "populated",
+    "log_odds": 1.1888670654990712,
+    "z_score": 14.737862669719407,
+    "topic_concentration": 0.6401515151515151,
+    "direction": "ai"
+  },
+  {
+    "phrase": "achieve our",
+    "log_odds": 4.138926454425951,
+    "z_score": 14.737497204756849,
+    "topic_concentration": 0.6312684365781711,
+    "direction": "ai"
+  },
+  {
+    "phrase": "car was",
+    "log_odds": -2.6581750533572084,
+    "z_score": -14.732350141291954,
+    "topic_concentration": 0.8374836173001311,
+    "direction": "human"
+  },
+  {
+    "phrase": "off elections",
+    "log_odds": 1.0498066183007975,
+    "z_score": 14.712951479225788,
+    "topic_concentration": 1.0,
+    "direction": "ai"
+  },
+  {
+    "phrase": "attitude and",
+    "log_odds": 2.9362515720725693,
+    "z_score": 14.631540236109302,
+    "topic_concentration": 0.6482213438735178,
+    "direction": "ai"
+  },
+  {
+    "phrase": "designed project",
+    "log_odds": -3.305548253969885,
+    "z_score": -14.629832982875623,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "join the",
+    "log_odds": -0.9549253391036796,
+    "z_score": -14.621196455712788,
+    "topic_concentration": 0.6789989118607181,
+    "direction": "human"
+  },
+  {
+    "phrase": "grade average",
+    "log_odds": -1.1563804394888297,
+    "z_score": -14.610461100766942,
+    "topic_concentration": 0.9879032258064516,
+    "direction": "human"
+  },
+  {
+    "phrase": "to climate",
+    "log_odds": 4.651757210457369,
+    "z_score": 14.607170838750646,
+    "topic_concentration": 0.9295302013422819,
+    "direction": "ai"
+  },
+  {
+    "phrase": "on cars",
+    "log_odds": 0.9372767555548087,
+    "z_score": 14.605956620647202,
+    "topic_concentration": 0.9351351351351351,
+    "direction": "ai"
+  },
+  {
+    "phrase": "carpool",
+    "log_odds": 1.560466152539762,
+    "z_score": 14.605602471354832,
+    "topic_concentration": 0.9606299212598425,
+    "direction": "ai"
+  },
+  {
+    "phrase": "for electing",
+    "log_odds": 2.4657039245793744,
+    "z_score": 14.604639006061753,
+    "topic_concentration": 0.9772727272727273,
+    "direction": "ai"
+  },
+  {
+    "phrase": "france",
+    "log_odds": -0.7904687416528109,
+    "z_score": -14.587440180947308,
+    "topic_concentration": 0.7300380228136882,
+    "direction": "human"
+  },
+  {
+    "phrase": "cities more",
+    "log_odds": 3.7180309242352667,
+    "z_score": 14.587133905618284,
+    "topic_concentration": 0.9641255605381166,
+    "direction": "ai"
+  },
+  {
+    "phrase": "drive less",
+    "log_odds": 2.3863545072446932,
+    "z_score": 14.581086784960599,
+    "topic_concentration": 0.9675675675675676,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to earth",
+    "log_odds": -0.9974679851758186,
+    "z_score": -14.54341917692371,
+    "topic_concentration": 0.8181818181818182,
+    "direction": "human"
+  },
+  {
+    "phrase": "representative of",
+    "log_odds": 2.5710446052235802,
+    "z_score": 14.536977591711542,
+    "topic_concentration": 0.722007722007722,
+    "direction": "ai"
+  },
+  {
+    "phrase": "lanes",
+    "log_odds": 1.6722664153145832,
+    "z_score": 14.536146950612492,
+    "topic_concentration": 0.7402985074626866,
+    "direction": "ai"
+  },
+  {
+    "phrase": "carbon footprint",
+    "log_odds": 3.6007571991648053,
+    "z_score": 14.526486945502226,
+    "topic_concentration": 0.8685015290519877,
+    "direction": "ai"
+  },
+  {
+    "phrase": "and electing",
+    "log_odds": 4.416694777698536,
+    "z_score": 14.513744641105705,
+    "topic_concentration": 1.0,
+    "direction": "ai"
+  },
+  {
+    "phrase": "candidate to",
+    "log_odds": 1.153004516158747,
+    "z_score": 14.510955106798614,
+    "topic_concentration": 0.9661290322580646,
+    "direction": "ai"
+  },
+  {
+    "phrase": "is unfair",
+    "log_odds": -0.873086507727491,
+    "z_score": -14.510676989116199,
+    "topic_concentration": 0.8508699254349628,
+    "direction": "human"
+  },
+  {
+    "phrase": "of owning",
+    "log_odds": 2.3082681916550527,
+    "z_score": 14.510056002614759,
+    "topic_concentration": 0.8340248962655602,
+    "direction": "ai"
+  },
+  {
+    "phrase": "president and",
+    "log_odds": -1.1375506933515194,
+    "z_score": -14.501011172653973,
+    "topic_concentration": 0.8904458598726115,
+    "direction": "human"
+  },
+  {
+    "phrase": "small number",
+    "log_odds": 2.0310150534449907,
+    "z_score": 14.498678211683274,
+    "topic_concentration": 0.6585365853658537,
+    "direction": "ai"
+  },
+  {
+    "phrase": "columbia",
+    "log_odds": -2.2513363051368476,
+    "z_score": -14.482616724235855,
+    "topic_concentration": 0.6312056737588653,
+    "direction": "human"
+  },
+  {
+    "phrase": "texting while",
+    "log_odds": -2.784982664908826,
+    "z_score": -14.47394328112093,
+    "topic_concentration": 0.8886075949367088,
+    "direction": "human"
+  },
+  {
+    "phrase": "third the",
+    "log_odds": 2.4444299284815703,
+    "z_score": 14.45948120745879,
+    "topic_concentration": 0.765079365079365,
+    "direction": "ai"
+  },
+  {
+    "phrase": "of kindness",
+    "log_odds": 3.687512045352042,
+    "z_score": 14.458623418397206,
+    "topic_concentration": 0.6346153846153846,
+    "direction": "ai"
+  },
+  {
+    "phrase": "irrational",
+    "log_odds": -2.246986898330908,
+    "z_score": -14.452739047991077,
+    "topic_concentration": 0.833904109589041,
+    "direction": "human"
+  },
+  {
+    "phrase": "first impression",
+    "log_odds": 4.842750664390277,
+    "z_score": 14.448457620218042,
+    "topic_concentration": 0.6952380952380952,
+    "direction": "ai"
+  },
+  {
+    "phrase": "college ensures",
+    "log_odds": 4.21889063011705,
+    "z_score": 14.44770951787779,
+    "topic_concentration": 1.0,
+    "direction": "ai"
+  },
+  {
+    "phrase": "pollution which",
+    "log_odds": 2.0665227845994227,
+    "z_score": 14.435786681081114,
+    "topic_concentration": 0.9839743589743589,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the driverless",
+    "log_odds": -4.178792853762127,
+    "z_score": -14.428640848109245,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "cars in",
+    "log_odds": -1.35871279019638,
+    "z_score": -14.412834871597878,
+    "topic_concentration": 0.717208182912154,
+    "direction": "human"
+  },
+  {
+    "phrase": "when faced",
+    "log_odds": 2.720544416638859,
+    "z_score": 14.38684908248657,
+    "topic_concentration": 0.7865168539325843,
+    "direction": "ai"
+  },
+  {
+    "phrase": "college was",
+    "log_odds": 1.2071028586466443,
+    "z_score": 14.378891614913421,
+    "topic_concentration": 0.9643527204502814,
+    "direction": "ai"
+  },
+  {
+    "phrase": "coursework",
+    "log_odds": 2.29025212860752,
+    "z_score": 14.37835369097916,
+    "topic_concentration": 0.7309417040358744,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the candidates",
+    "log_odds": -1.1275012869759085,
+    "z_score": -14.361116861457173,
+    "topic_concentration": 0.9651612903225807,
+    "direction": "human"
+  },
+  {
+    "phrase": "have number",
+    "log_odds": 3.1634468340347563,
+    "z_score": 14.34794624433561,
+    "topic_concentration": 0.7158671586715867,
+    "direction": "ai"
+  },
+  {
+    "phrase": "banned",
+    "log_odds": -1.114140004278708,
+    "z_score": -14.320698385103857,
+    "topic_concentration": 0.6047032474804032,
+    "direction": "human"
+  },
+  {
+    "phrase": "reducing greenhouse",
+    "log_odds": 2.8292939038776943,
+    "z_score": 14.292181233832027,
+    "topic_concentration": 0.9727626459143969,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the citizens",
+    "log_odds": -2.8496688415102227,
+    "z_score": -14.287836143564196,
+    "topic_concentration": 0.625242718446602,
+    "direction": "human"
+  },
+  {
+    "phrase": "the closest",
+    "log_odds": -2.3499767172422317,
+    "z_score": -14.272823757618813,
+    "topic_concentration": 0.8061420345489443,
+    "direction": "human"
+  },
+  {
+    "phrase": "of electors",
+    "log_odds": -0.7943236447437378,
+    "z_score": -14.270793041490021,
+    "topic_concentration": 0.9859703819173812,
+    "direction": "human"
+  },
+  {
+    "phrase": "resilience",
+    "log_odds": 4.543925430892278,
+    "z_score": 14.254819393547532,
+    "topic_concentration": 0.6370558375634517,
+    "direction": "ai"
+  },
+  {
+    "phrase": "current system",
+    "log_odds": 2.2293519943071356,
+    "z_score": 14.233078979045985,
+    "topic_concentration": 0.8692307692307693,
+    "direction": "ai"
+  },
+  {
+    "phrase": "are expensive",
+    "log_odds": 1.9210165756048276,
+    "z_score": 14.215089244256804,
+    "topic_concentration": 0.7530864197530864,
+    "direction": "ai"
+  },
+  {
+    "phrase": "for run",
+    "log_odds": 2.115281231854956,
+    "z_score": 14.195022388503508,
+    "topic_concentration": 0.944,
+    "direction": "ai"
+  },
+  {
+    "phrase": "public transit",
+    "log_odds": 1.4228133727397871,
+    "z_score": 14.186452877415793,
+    "topic_concentration": 0.9367816091954023,
+    "direction": "ai"
+  },
+  {
+    "phrase": "win",
+    "log_odds": 0.4420587240776541,
+    "z_score": 14.177738455700345,
+    "topic_concentration": 0.6549731737515476,
+    "direction": "ai"
+  },
+  {
+    "phrase": "communities and",
+    "log_odds": 1.543659412247262,
+    "z_score": 14.170384234099693,
+    "topic_concentration": 0.6850393700787402,
+    "direction": "ai"
+  },
+  {
+    "phrase": "their project",
+    "log_odds": -2.776357411177294,
+    "z_score": -14.166861538347238,
+    "topic_concentration": 0.9654377880184332,
+    "direction": "human"
+  },
+  {
+    "phrase": "can encourage",
+    "log_odds": 2.5132769669661013,
+    "z_score": 14.163116022782274,
+    "topic_concentration": 0.6382978723404256,
+    "direction": "ai"
+  },
+  {
+    "phrase": "own project",
+    "log_odds": -2.3290575758341046,
+    "z_score": -14.137554744933977,
+    "topic_concentration": 0.9906542056074766,
+    "direction": "human"
+  },
+  {
+    "phrase": "of swing",
+    "log_odds": 2.8010301025260116,
+    "z_score": 14.131359502988191,
+    "topic_concentration": 0.9891304347826086,
+    "direction": "ai"
+  },
+  {
+    "phrase": "polluted",
+    "log_odds": -1.9497004435252023,
+    "z_score": -14.126446193084993,
+    "topic_concentration": 0.9586919104991394,
+    "direction": "human"
+  },
+  {
+    "phrase": "unfair",
+    "log_odds": -0.509510860035471,
+    "z_score": -14.112269058656391,
+    "topic_concentration": 0.6924050632911393,
+    "direction": "human"
+  },
+  {
+    "phrase": "these projects",
+    "log_odds": -2.5521344377933115,
+    "z_score": -14.112150885445367,
+    "topic_concentration": 0.9738717339667459,
+    "direction": "human"
+  },
+  {
+    "phrase": "or bored",
+    "log_odds": -2.672358723129504,
+    "z_score": -14.103714552608034,
+    "topic_concentration": 0.9808612440191388,
+    "direction": "human"
+  },
+  {
+    "phrase": "five times",
+    "log_odds": 2.8893504856328445,
+    "z_score": 14.1013285258922,
+    "topic_concentration": 0.8762541806020067,
+    "direction": "ai"
+  },
+  {
+    "phrase": "numbered",
+    "log_odds": -2.1472913256720165,
+    "z_score": -14.077341131011925,
+    "topic_concentration": 0.8972602739726028,
+    "direction": "human"
+  },
+  {
+    "phrase": "days of",
+    "log_odds": -1.3713227778765624,
+    "z_score": -14.045896602029435,
+    "topic_concentration": 0.6929824561403509,
+    "direction": "human"
+  },
+  {
+    "phrase": "contributor",
+    "log_odds": 2.0640495630221007,
+    "z_score": 14.044145853936271,
+    "topic_concentration": 0.8412162162162162,
+    "direction": "ai"
+  },
+  {
+    "phrase": "planet in",
+    "log_odds": -1.4140096691391264,
+    "z_score": -14.035299288530746,
+    "topic_concentration": 0.852112676056338,
+    "direction": "human"
+  },
+  {
+    "phrase": "like earth",
+    "log_odds": -2.9640768980997443,
+    "z_score": -14.004033399209728,
+    "topic_concentration": 0.933206106870229,
+    "direction": "human"
+  },
+  {
+    "phrase": "the streets",
+    "log_odds": -1.1539708189340185,
+    "z_score": -13.989959872533294,
+    "topic_concentration": 0.6111111111111112,
+    "direction": "human"
+  },
+  {
+    "phrase": "country not",
+    "log_odds": 2.4556970282241206,
+    "z_score": 13.980623771030864,
+    "topic_concentration": 0.8947368421052632,
+    "direction": "ai"
+  },
+  {
+    "phrase": "its population",
+    "log_odds": 2.72945495021526,
+    "z_score": 13.966690438561868,
+    "topic_concentration": 0.9026217228464419,
+    "direction": "ai"
+  },
+  {
+    "phrase": "are wrong",
+    "log_odds": -2.221194394682753,
+    "z_score": -13.947342996405323,
+    "topic_concentration": 0.6440366972477064,
+    "direction": "human"
+  },
+  {
+    "phrase": "the assignment",
+    "log_odds": -2.9517994098723808,
+    "z_score": -13.943351671200952,
+    "topic_concentration": 0.7482678983833718,
+    "direction": "human"
+  },
+  {
+    "phrase": "peers and",
+    "log_odds": 1.3736838908514795,
+    "z_score": 13.937615692724307,
+    "topic_concentration": 0.6074074074074074,
+    "direction": "ai"
+  },
+  {
+    "phrase": "martian",
+    "log_odds": -1.1911049396067988,
+    "z_score": -13.934251120378644,
+    "topic_concentration": 0.98125,
+    "direction": "human"
+  },
+  {
+    "phrase": "taking public",
+    "log_odds": 2.2938803424345533,
+    "z_score": 13.927232543906667,
+    "topic_concentration": 0.9721115537848606,
+    "direction": "ai"
+  },
+  {
+    "phrase": "democratic",
+    "log_odds": 0.5734984779087,
+    "z_score": 13.92174930341933,
+    "topic_concentration": 0.8412600370599135,
+    "direction": "ai"
+  },
+  {
+    "phrase": "much happier",
+    "log_odds": -3.151367661818597,
+    "z_score": -13.921164913934486,
+    "topic_concentration": 0.9648648648648649,
+    "direction": "human"
+  },
+  {
+    "phrase": "bob",
+    "log_odds": -1.954739141632146,
+    "z_score": -13.915045948804774,
+    "topic_concentration": 0.6470588235294118,
+    "direction": "human"
+  },
+  {
+    "phrase": "states where",
+    "log_odds": 1.8185154565264838,
+    "z_score": 13.892324591290558,
+    "topic_concentration": 0.8078175895765473,
+    "direction": "ai"
+  },
+  {
+    "phrase": "created in",
+    "log_odds": 1.7323217267579416,
+    "z_score": 13.883972759872218,
+    "topic_concentration": 0.6398891966759003,
+    "direction": "ai"
+  },
+  {
+    "phrase": "emit",
+    "log_odds": 1.4009627526896082,
+    "z_score": 13.874656036612224,
+    "topic_concentration": 0.7598039215686274,
+    "direction": "ai"
+  },
+  {
+    "phrase": "populated areas",
+    "log_odds": 2.2860992569179057,
+    "z_score": 13.872243058628673,
+    "topic_concentration": 0.7808764940239044,
+    "direction": "ai"
+  },
+  {
+    "phrase": "these states",
+    "log_odds": 1.600812246476691,
+    "z_score": 13.864014217402747,
+    "topic_concentration": 0.8658536585365854,
+    "direction": "ai"
+  },
+  {
+    "phrase": "all states",
+    "log_odds": 1.2550127111219638,
+    "z_score": 13.844411993649985,
+    "topic_concentration": 0.8692660550458715,
+    "direction": "ai"
+  },
+  {
+    "phrase": "concerns of",
+    "log_odds": 3.3512639716253894,
+    "z_score": 13.826764007584805,
+    "topic_concentration": 0.8560606060606061,
+    "direction": "ai"
+  },
+  {
+    "phrase": "nationwide",
+    "log_odds": 1.334565601953523,
+    "z_score": 13.82562572838715,
+    "topic_concentration": 0.8112745098039216,
+    "direction": "ai"
+  },
+  {
+    "phrase": "presidential elections",
+    "log_odds": 1.3096967398888868,
+    "z_score": 13.82026983402477,
+    "topic_concentration": 0.9667458432304038,
+    "direction": "ai"
+  },
+  {
+    "phrase": "study venus",
+    "log_odds": -2.154176722868222,
+    "z_score": -13.815205387679136,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "pixel",
+    "log_odds": -2.460690580496683,
+    "z_score": -13.787463875594991,
+    "topic_concentration": 0.6954314720812182,
+    "direction": "human"
+  },
+  {
+    "phrase": "disputes",
+    "log_odds": 1.441850993259525,
+    "z_score": 13.778774827621463,
+    "topic_concentration": 0.6934097421203438,
+    "direction": "ai"
+  },
+  {
+    "phrase": "fahrenheit",
+    "log_odds": -1.6580414757362103,
+    "z_score": -13.778382015531124,
+    "topic_concentration": 0.9027113237639554,
+    "direction": "human"
+  },
+  {
+    "phrase": "in urban",
+    "log_odds": 3.18292971688248,
+    "z_score": 13.7732116320249,
+    "topic_concentration": 0.7607843137254902,
+    "direction": "ai"
+  },
+  {
+    "phrase": "when had",
+    "log_odds": -2.6557101120935194,
+    "z_score": -13.767372559962588,
+    "topic_concentration": 0.9017595307917888,
+    "direction": "human"
+  },
+  {
+    "phrase": "contributor to",
+    "log_odds": 2.4519652622104946,
+    "z_score": 13.766246578919935,
+    "topic_concentration": 0.8768656716417911,
+    "direction": "ai"
+  },
+  {
+    "phrase": "graduate early",
+    "log_odds": 2.929736492763478,
+    "z_score": 13.760503616051949,
+    "topic_concentration": 0.8662420382165605,
+    "direction": "ai"
+  },
+  {
+    "phrase": "lost the",
+    "log_odds": 1.0011186434710613,
+    "z_score": 13.746182354835273,
+    "topic_concentration": 0.8544891640866873,
+    "direction": "ai"
+  },
+  {
+    "phrase": "churchill",
+    "log_odds": 4.615278509020785,
+    "z_score": 13.744557535466793,
+    "topic_concentration": 0.6743119266055045,
+    "direction": "ai"
+  },
+  {
+    "phrase": "more sustainable",
+    "log_odds": 5.616173585576879,
+    "z_score": 13.744153611849372,
+    "topic_concentration": 0.9533011272141707,
+    "direction": "ai"
+  },
+  {
+    "phrase": "attendance",
+    "log_odds": 1.2713588883067004,
+    "z_score": 13.743477948750947,
+    "topic_concentration": 0.7198581560283688,
+    "direction": "ai"
+  },
+  {
+    "phrase": "social interaction",
+    "log_odds": 1.2056342679359648,
+    "z_score": 13.734859835096557,
+    "topic_concentration": 0.6084788029925187,
+    "direction": "ai"
+  },
+  {
+    "phrase": "clinton",
+    "log_odds": 1.1229538127621659,
+    "z_score": 13.704926421814655,
+    "topic_concentration": 0.8926553672316384,
+    "direction": "ai"
+  },
+  {
+    "phrase": "this ensures",
+    "log_odds": 3.50373560415996,
+    "z_score": 13.682630932674249,
+    "topic_concentration": 0.8565891472868217,
+    "direction": "ai"
+  },
+  {
+    "phrase": "projects to",
+    "log_odds": -2.178106100537992,
+    "z_score": -13.658162752342534,
+    "topic_concentration": 0.9226415094339623,
+    "direction": "human"
+  },
+  {
+    "phrase": "health benefits",
+    "log_odds": 2.2313685785357897,
+    "z_score": 13.641539939448895,
+    "topic_concentration": 0.6311475409836066,
+    "direction": "ai"
+  },
+  {
+    "phrase": "efforts on",
+    "log_odds": 1.9698029105058623,
+    "z_score": 13.640745725495863,
+    "topic_concentration": 0.8466898954703833,
+    "direction": "ai"
+  },
+  {
+    "phrase": "our democracy",
+    "log_odds": 3.7148020982999164,
+    "z_score": 13.632301599487247,
+    "topic_concentration": 0.9963369963369964,
+    "direction": "ai"
+  },
+  {
+    "phrase": "college gives",
+    "log_odds": 2.3226246908580546,
+    "z_score": 13.62858334703211,
+    "topic_concentration": 0.9925925925925926,
+    "direction": "ai"
+  },
+  {
+    "phrase": "recently in",
+    "log_odds": 2.711101790065994,
+    "z_score": 13.619193281711114,
+    "topic_concentration": 0.8981818181818182,
+    "direction": "ai"
+  },
+  {
+    "phrase": "in wyoming",
+    "log_odds": 2.1277761789509597,
+    "z_score": 13.615825339387701,
+    "topic_concentration": 0.9575971731448764,
+    "direction": "ai"
+  },
+  {
+    "phrase": "do an",
+    "log_odds": -2.333825919406072,
+    "z_score": -13.612548435618923,
+    "topic_concentration": 0.6838407494145199,
+    "direction": "human"
+  },
+  {
+    "phrase": "assign",
+    "log_odds": -1.5463860034017998,
+    "z_score": -13.576706979996862,
+    "topic_concentration": 0.7389705882352942,
+    "direction": "human"
+  },
+  {
+    "phrase": "in achieving",
+    "log_odds": 3.697420609010914,
+    "z_score": 13.563843614181366,
+    "topic_concentration": 0.6468401486988847,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the voters",
+    "log_odds": -1.519869685954287,
+    "z_score": -13.55121181327054,
+    "topic_concentration": 0.9470588235294117,
+    "direction": "human"
+  },
+  {
+    "phrase": "design the",
+    "log_odds": -1.92196713616811,
+    "z_score": -13.538952603175785,
+    "topic_concentration": 0.833729216152019,
+    "direction": "human"
+  },
+  {
+    "phrase": "yearbook",
+    "log_odds": -2.113500801616974,
+    "z_score": -13.535829170333859,
+    "topic_concentration": 0.983957219251337,
+    "direction": "human"
+  },
+  {
+    "phrase": "phones at",
+    "log_odds": -1.4880866419553342,
+    "z_score": -13.533906406264064,
+    "topic_concentration": 0.9429657794676806,
+    "direction": "human"
+  },
+  {
+    "phrase": "bike or",
+    "log_odds": 1.1775442824138445,
+    "z_score": 13.488974242774914,
+    "topic_concentration": 0.9711751662971175,
+    "direction": "ai"
+  },
+  {
+    "phrase": "new technology",
+    "log_odds": -1.0063011545411733,
+    "z_score": -13.476590461538912,
+    "topic_concentration": 0.6362515413070283,
+    "direction": "human"
+  },
+  {
+    "phrase": "dependence",
+    "log_odds": 1.90842447017814,
+    "z_score": 13.46787628671045,
+    "topic_concentration": 0.7890295358649789,
+    "direction": "ai"
+  },
+  {
+    "phrase": "american history",
+    "log_odds": 3.192254650925644,
+    "z_score": 13.467827010471753,
+    "topic_concentration": 0.8175438596491228,
+    "direction": "ai"
+  },
+  {
+    "phrase": "percent in",
+    "log_odds": -1.3438982377569122,
+    "z_score": -13.452694106377633,
+    "topic_concentration": 0.9779917469050894,
+    "direction": "human"
+  },
+  {
+    "phrase": "of outcome",
+    "log_odds": 1.081226986072311,
+    "z_score": 13.437268734851324,
+    "topic_concentration": 0.9913978494623656,
+    "direction": "ai"
+  },
+  {
+    "phrase": "earth like",
+    "log_odds": -2.1449466392894774,
+    "z_score": -13.43563163404459,
+    "topic_concentration": 0.9369918699186992,
+    "direction": "human"
+  },
+  {
+    "phrase": "presidential election",
+    "log_odds": 0.8483608926668058,
+    "z_score": 13.432024739255617,
+    "topic_concentration": 0.923784494086728,
+    "direction": "ai"
+  },
+  {
+    "phrase": "streets",
+    "log_odds": -0.7136146621495545,
+    "z_score": -13.413436248300975,
+    "topic_concentration": 0.6171389080856945,
+    "direction": "human"
+  },
+  {
+    "phrase": "project and",
+    "log_odds": -1.4612069318598024,
+    "z_score": -13.40810014061221,
+    "topic_concentration": 0.7762711864406779,
+    "direction": "human"
+  },
+  {
+    "phrase": "home because",
+    "log_odds": -3.2862046582628412,
+    "z_score": -13.406123804307803,
+    "topic_concentration": 0.8603238866396761,
+    "direction": "human"
+  },
+  {
+    "phrase": "campaigns",
+    "log_odds": 1.2438857462133512,
+    "z_score": 13.387568879015717,
+    "topic_concentration": 0.7483731019522777,
+    "direction": "ai"
+  },
+  {
+    "phrase": "human error",
+    "log_odds": 1.7626394238192944,
+    "z_score": 13.384363615056365,
+    "topic_concentration": 0.9266409266409267,
+    "direction": "ai"
+  },
+  {
+    "phrase": "walking and",
+    "log_odds": 1.1849070436306235,
+    "z_score": 13.382648452388237,
+    "topic_concentration": 0.9300411522633745,
+    "direction": "ai"
+  },
+  {
+    "phrase": "school early",
+    "log_odds": 2.4521968558697953,
+    "z_score": 13.379844526561266,
+    "topic_concentration": 0.8067226890756303,
+    "direction": "ai"
+  },
+  {
+    "phrase": "states was",
+    "log_odds": 2.4521968558697953,
+    "z_score": 13.379844526561266,
+    "topic_concentration": 0.7378277153558053,
+    "direction": "ai"
+  },
+  {
+    "phrase": "and biking",
+    "log_odds": 1.9960843539936235,
+    "z_score": 13.378513697934938,
+    "topic_concentration": 0.9758064516129032,
+    "direction": "ai"
+  },
+  {
+    "phrase": "and elect",
+    "log_odds": 3.0295896304442422,
+    "z_score": 13.362264902367361,
+    "topic_concentration": 0.9769230769230769,
+    "direction": "ai"
+  },
+  {
+    "phrase": "advice you",
+    "log_odds": -2.3860133743388214,
+    "z_score": -13.343419936327663,
+    "topic_concentration": 0.9309462915601023,
+    "direction": "human"
+  },
+  {
+    "phrase": "interaction and",
+    "log_odds": 2.0062354492585666,
+    "z_score": 13.336109179079457,
+    "topic_concentration": 0.6147859922178989,
+    "direction": "ai"
+  },
+  {
+    "phrase": "certainty of",
+    "log_odds": 1.0196401972429463,
+    "z_score": 13.3356619244655,
+    "topic_concentration": 0.9960079840319361,
+    "direction": "ai"
+  },
+  {
+    "phrase": "an activity",
+    "log_odds": -1.3466987481103203,
+    "z_score": -13.307806588255694,
+    "topic_concentration": 0.7606679035250464,
+    "direction": "human"
+  },
+  {
+    "phrase": "attitude is",
+    "log_odds": 5.04628600023041,
+    "z_score": 13.296507111382816,
+    "topic_concentration": 0.8040540540540541,
+    "direction": "ai"
+  },
+  {
+    "phrase": "own projects",
+    "log_odds": -1.2840390177102403,
+    "z_score": -13.28699067603556,
+    "topic_concentration": 0.9762845849802372,
+    "direction": "human"
+  },
+  {
+    "phrase": "the dangers",
+    "log_odds": -0.73840106695617,
+    "z_score": -13.280776686081062,
+    "topic_concentration": 0.7430117222723174,
+    "direction": "human"
+  },
+  {
+    "phrase": "courses",
+    "log_odds": 0.5901480596033561,
+    "z_score": 13.272405830606349,
+    "topic_concentration": 0.6462018730489074,
+    "direction": "ai"
+  },
+  {
+    "phrase": "modify",
+    "log_odds": -1.521747653177325,
+    "z_score": -13.264476785180918,
+    "topic_concentration": 0.7431781701444623,
+    "direction": "human"
+  },
+  {
+    "phrase": "losing the",
+    "log_odds": 1.8966278771842955,
+    "z_score": 13.260762110061647,
+    "topic_concentration": 0.7867647058823529,
+    "direction": "ai"
+  },
+  {
+    "phrase": "like face",
+    "log_odds": -1.754657628656613,
+    "z_score": -13.252632243269776,
+    "topic_concentration": 0.9925373134328358,
+    "direction": "human"
+  },
+  {
+    "phrase": "transit",
+    "log_odds": 1.1100234786074008,
+    "z_score": 13.248134402147974,
+    "topic_concentration": 0.8669833729216152,
+    "direction": "ai"
+  },
+  {
+    "phrase": "courage to",
+    "log_odds": 2.6868493476451576,
+    "z_score": 13.2380402835007,
+    "topic_concentration": 0.6169154228855721,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the flexibility",
+    "log_odds": 2.3696270004408255,
+    "z_score": 13.233318775012222,
+    "topic_concentration": 0.7574468085106383,
+    "direction": "ai"
+  },
+  {
+    "phrase": "and accessible",
+    "log_odds": 2.8292913639874193,
+    "z_score": 13.23197677736256,
+    "topic_concentration": 0.6919431279620853,
+    "direction": "ai"
+  },
+  {
+    "phrase": "most recently",
+    "log_odds": 3.066895347574775,
+    "z_score": 13.218801554138661,
+    "topic_concentration": 0.9227941176470589,
+    "direction": "ai"
+  },
+  {
+    "phrase": "would ensure",
+    "log_odds": 2.5561979206161247,
+    "z_score": 13.182682635576613,
+    "topic_concentration": 0.8240343347639485,
+    "direction": "ai"
+  },
+  {
+    "phrase": "gun control",
+    "log_odds": 4.214832513876253,
+    "z_score": 13.175545440498428,
+    "topic_concentration": 0.6901408450704225,
+    "direction": "ai"
+  },
+  {
+    "phrase": "their opinion",
+    "log_odds": -2.1541747152909014,
+    "z_score": -13.172269224035402,
+    "topic_concentration": 0.7542997542997543,
+    "direction": "human"
+  },
+  {
+    "phrase": "electoral votes",
+    "log_odds": 0.42555628576350735,
+    "z_score": 13.163992225839563,
+    "topic_concentration": 0.9868351764086362,
+    "direction": "ai"
+  },
+  {
+    "phrase": "project they",
+    "log_odds": -2.1759697363129753,
+    "z_score": -13.147519673599795,
+    "topic_concentration": 0.9234234234234234,
+    "direction": "human"
+  },
+  {
+    "phrase": "dependency",
+    "log_odds": 2.4138187275600043,
+    "z_score": 13.13842539510735,
+    "topic_concentration": 0.8465909090909091,
+    "direction": "ai"
+  },
+  {
+    "phrase": "planet to",
+    "log_odds": -1.516402873713238,
+    "z_score": -13.136701721520257,
+    "topic_concentration": 0.8838028169014085,
+    "direction": "human"
+  },
+  {
+    "phrase": "to graduate",
+    "log_odds": 1.1301955216345991,
+    "z_score": 13.09884390237037,
+    "topic_concentration": 0.7027027027027027,
+    "direction": "ai"
+  },
+  {
+    "phrase": "enviroment",
+    "log_odds": -2.5747167040019896,
+    "z_score": -13.084197700092641,
+    "topic_concentration": 0.6656891495601173,
+    "direction": "human"
+  },
+  {
+    "phrase": "car use",
+    "log_odds": -1.336306905199688,
+    "z_score": -13.078438643993206,
+    "topic_concentration": 0.9889624724061811,
+    "direction": "human"
+  },
+  {
+    "phrase": "the reduction",
+    "log_odds": 1.2010101808865485,
+    "z_score": 13.058949321904766,
+    "topic_concentration": 0.9371859296482412,
+    "direction": "ai"
+  },
+  {
+    "phrase": "limit our",
+    "log_odds": 1.660703302847038,
+    "z_score": 13.039574548815247,
+    "topic_concentration": 0.8071748878923767,
+    "direction": "ai"
+  },
+  {
+    "phrase": "60 percent",
+    "log_odds": -1.3429604638950021,
+    "z_score": -13.030545573954111,
+    "topic_concentration": 0.7123834886817576,
+    "direction": "human"
+  },
+  {
+    "phrase": "monday",
+    "log_odds": -1.8866160465017412,
+    "z_score": -13.02238875339503,
+    "topic_concentration": 0.6224677716390423,
+    "direction": "human"
+  },
+  {
+    "phrase": "anger",
+    "log_odds": -1.4719870862375295,
+    "z_score": -13.013860623106131,
+    "topic_concentration": 0.6450567260940032,
+    "direction": "human"
+  },
+  {
+    "phrase": "has numerous",
+    "log_odds": 3.8218145033974977,
+    "z_score": 13.010659392517772,
+    "topic_concentration": 0.6431095406360424,
+    "direction": "ai"
+  },
+  {
+    "phrase": "about venus",
+    "log_odds": -1.8213049623915687,
+    "z_score": -13.009195793511438,
+    "topic_concentration": 0.9976689976689976,
+    "direction": "human"
+  },
+  {
+    "phrase": "538",
+    "log_odds": -2.43646447236773,
+    "z_score": -13.008499413329977,
+    "topic_concentration": 0.9883040935672515,
+    "direction": "human"
+  },
+  {
+    "phrase": "energy sources",
+    "log_odds": 3.442723997241089,
+    "z_score": 12.997915780561922,
+    "topic_concentration": 0.6229508196721312,
+    "direction": "ai"
+  },
+  {
+    "phrase": "be elected",
+    "log_odds": 1.148127056253971,
+    "z_score": 12.986744750529308,
+    "topic_concentration": 0.9774436090225563,
+    "direction": "ai"
+  },
+  {
+    "phrase": "designed summer",
+    "log_odds": -1.2700768732732772,
+    "z_score": -12.970751411737819,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "biking or",
+    "log_odds": 2.0396786149126296,
+    "z_score": 12.954288275213997,
+    "topic_concentration": 0.978448275862069,
+    "direction": "ai"
+  },
+  {
+    "phrase": "environmentally",
+    "log_odds": 2.0940401402680866,
+    "z_score": 12.946764886537347,
+    "topic_concentration": 0.7368421052631579,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the courage",
+    "log_odds": 2.883227205577402,
+    "z_score": 12.940492632938467,
+    "topic_concentration": 0.6476683937823834,
+    "direction": "ai"
+  },
+  {
+    "phrase": "degrees fahrenheit",
+    "log_odds": -1.6564749886010812,
+    "z_score": -12.93485616452617,
+    "topic_concentration": 0.9187279151943463,
+    "direction": "human"
+  },
+  {
+    "phrase": "online class",
+    "log_odds": -1.8418077153964774,
+    "z_score": -12.930326344296047,
+    "topic_concentration": 0.9929824561403509,
+    "direction": "human"
+  },
+  {
+    "phrase": "the workforce",
+    "log_odds": 1.7570148102040068,
+    "z_score": 12.875019494216,
+    "topic_concentration": 0.6231884057971014,
+    "direction": "ai"
+  },
+  {
+    "phrase": "walter",
+    "log_odds": -2.734965815854709,
+    "z_score": -12.870442288661701,
+    "topic_concentration": 0.9698581560283688,
+    "direction": "human"
+  },
+  {
+    "phrase": "18th",
+    "log_odds": 2.102654563121636,
+    "z_score": 12.867287853314856,
+    "topic_concentration": 0.6706349206349206,
+    "direction": "ai"
+  },
+  {
+    "phrase": "not benefit",
+    "log_odds": -2.3053006449079394,
+    "z_score": -12.863343110857897,
+    "topic_concentration": 0.7635327635327636,
+    "direction": "human"
+  },
+  {
+    "phrase": "improve air",
+    "log_odds": 5.7488142732463405,
+    "z_score": 12.851509056705789,
+    "topic_concentration": 0.9822485207100592,
+    "direction": "ai"
+  },
+  {
+    "phrase": "obstacles and",
+    "log_odds": 3.515196502167031,
+    "z_score": 12.844299326439241,
+    "topic_concentration": 0.6625,
+    "direction": "ai"
+  },
+  {
+    "phrase": "of climate",
+    "log_odds": 3.775611368277202,
+    "z_score": 12.842575470750605,
+    "topic_concentration": 0.7224334600760456,
+    "direction": "ai"
+  },
+  {
+    "phrase": "attitude can",
+    "log_odds": 5.743583775865565,
+    "z_score": 12.839481308741586,
+    "topic_concentration": 0.7750759878419453,
+    "direction": "ai"
+  },
+  {
+    "phrase": "summer assignments",
+    "log_odds": -3.7289710912224,
+    "z_score": -12.835790423321209,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "will of",
+    "log_odds": 0.8279465246950171,
+    "z_score": 12.822377797061641,
+    "topic_concentration": 0.9398084815321477,
+    "direction": "ai"
+  },
+  {
+    "phrase": "vote believe",
+    "log_odds": 3.3995709405768864,
+    "z_score": 12.820685614850792,
+    "topic_concentration": 1.0,
+    "direction": "ai"
+  },
+  {
+    "phrase": "college provides",
+    "log_odds": 3.3958892883430156,
+    "z_score": 12.805555792768374,
+    "topic_concentration": 0.990521327014218,
+    "direction": "ai"
+  },
+  {
+    "phrase": "self reliance",
+    "log_odds": 3.1249828617197224,
+    "z_score": 12.80393768283466,
+    "topic_concentration": 0.6299212598425197,
+    "direction": "ai"
+  },
+  {
+    "phrase": "and parking",
+    "log_odds": 2.8002477205406766,
+    "z_score": 12.803598267100442,
+    "topic_concentration": 0.9198113207547169,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the concerns",
+    "log_odds": 3.7629208017681446,
+    "z_score": 12.796374233954348,
+    "topic_concentration": 0.796875,
+    "direction": "ai"
+  },
+  {
+    "phrase": "from anywhere",
+    "log_odds": 1.9524062172040715,
+    "z_score": 12.793355854609615,
+    "topic_concentration": 0.7675438596491229,
+    "direction": "ai"
+  },
+  {
+    "phrase": "and communities",
+    "log_odds": 2.3556456248298456,
+    "z_score": 12.772551517162036,
+    "topic_concentration": 0.6231884057971014,
+    "direction": "ai"
+  },
+  {
+    "phrase": "asking multiple",
+    "log_odds": -2.226176355128416,
+    "z_score": -12.762648398534537,
+    "topic_concentration": 0.9968944099378882,
+    "direction": "human"
+  },
+  {
+    "phrase": "is becoming",
+    "log_odds": -1.1021090277529506,
+    "z_score": -12.761276435303609,
+    "topic_concentration": 0.6206115515288788,
+    "direction": "human"
+  },
+  {
+    "phrase": "better choice",
+    "log_odds": -0.8619182617206498,
+    "z_score": -12.756553522941292,
+    "topic_concentration": 0.6653333333333333,
+    "direction": "human"
+  },
+  {
+    "phrase": "bike instead",
+    "log_odds": 3.1941410979305065,
+    "z_score": 12.747585972215122,
+    "topic_concentration": 0.9907407407407407,
+    "direction": "ai"
+  },
+  {
+    "phrase": "student council",
+    "log_odds": -2.353067383965275,
+    "z_score": -12.742838163689486,
+    "topic_concentration": 0.9335106382978723,
+    "direction": "human"
+  },
+  {
+    "phrase": "different perspectives",
+    "log_odds": 1.101761768613219,
+    "z_score": 12.736494071576825,
+    "topic_concentration": 0.7645687645687645,
+    "direction": "ai"
+  },
+  {
+    "phrase": "school activity",
+    "log_odds": -2.8258774535589684,
+    "z_score": -12.728228836469508,
+    "topic_concentration": 0.7186629526462396,
+    "direction": "human"
+  },
+  {
+    "phrase": "in swing",
+    "log_odds": 1.7507363246634977,
+    "z_score": 12.72681651692371,
+    "topic_concentration": 0.9915611814345991,
+    "direction": "ai"
+  },
+  {
+    "phrase": "usage of",
+    "log_odds": -4.038751037442143,
+    "z_score": -12.7190685872184,
+    "topic_concentration": 0.7431340872374798,
+    "direction": "human"
+  },
+  {
+    "phrase": "can win",
+    "log_odds": 1.6777639616466686,
+    "z_score": 12.701944058159375,
+    "topic_concentration": 0.9270833333333334,
+    "direction": "ai"
+  },
+  {
+    "phrase": "1998",
+    "log_odds": -1.7524488063567478,
+    "z_score": -12.698524024031403,
+    "topic_concentration": 0.8524590163934426,
+    "direction": "human"
+  },
+  {
+    "phrase": "the president",
+    "log_odds": 0.2561033819274101,
+    "z_score": 12.693801659732152,
+    "topic_concentration": 0.8872944693572496,
+    "direction": "ai"
+  },
+  {
+    "phrase": "and maintenance",
+    "log_odds": 2.312743335165564,
+    "z_score": 12.685351536700727,
+    "topic_concentration": 0.645021645021645,
+    "direction": "ai"
+  },
+  {
+    "phrase": "hillary clinton",
+    "log_odds": 4.062446634806829,
+    "z_score": 12.673439753037023,
+    "topic_concentration": 0.9501466275659824,
+    "direction": "ai"
+  },
+  {
+    "phrase": "significantly reduce",
+    "log_odds": 3.881300540065377,
+    "z_score": 12.663683019464292,
+    "topic_concentration": 0.7209302325581395,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the states",
+    "log_odds": -1.0662728976715652,
+    "z_score": -12.648133628651673,
+    "topic_concentration": 0.6949602122015915,
+    "direction": "human"
+  },
+  {
+    "phrase": "ask more",
+    "log_odds": -2.6363092668016073,
+    "z_score": -12.64787460723943,
+    "topic_concentration": 0.9211267605633803,
+    "direction": "human"
+  },
+  {
+    "phrase": "numerous advantages",
+    "log_odds": 4.262409470717966,
+    "z_score": 12.647831552615447,
+    "topic_concentration": 0.8322368421052632,
+    "direction": "ai"
+  },
+  {
+    "phrase": "density",
+    "log_odds": -1.3984426044226197,
+    "z_score": -12.64741051717079,
+    "topic_concentration": 0.6086956521739131,
+    "direction": "human"
+  },
+  {
+    "phrase": "bogota",
+    "log_odds": -0.5755073362504923,
+    "z_score": -12.64480164244744,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "cities can",
+    "log_odds": 3.57868900990424,
+    "z_score": 12.61903993802347,
+    "topic_concentration": 0.9395604395604396,
+    "direction": "ai"
+  },
+  {
+    "phrase": "twin",
+    "log_odds": -1.5770139296127095,
+    "z_score": -12.617383512129287,
+    "topic_concentration": 0.8553719008264463,
+    "direction": "human"
+  },
+  {
+    "phrase": "one extracurricular",
+    "log_odds": -1.0969767235323626,
+    "z_score": -12.617274090292387,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "to attend",
+    "log_odds": -0.5044197992214574,
+    "z_score": -12.615478644232732,
+    "topic_concentration": 0.7801332525741974,
+    "direction": "human"
+  },
+  {
+    "phrase": "disproportionate",
+    "log_odds": 3.453723385141732,
+    "z_score": 12.60079203631778,
+    "topic_concentration": 0.8870967741935484,
+    "direction": "ai"
+  },
+  {
+    "phrase": "and bike",
+    "log_odds": 2.3882253404030056,
+    "z_score": 12.589971162205707,
+    "topic_concentration": 0.9950980392156863,
+    "direction": "ai"
+  },
+  {
+    "phrase": "lifestyles",
+    "log_odds": 1.7132774018231984,
+    "z_score": 12.58289049168003,
+    "topic_concentration": 0.6808510638297872,
+    "direction": "ai"
+  },
+  {
+    "phrase": "system used",
+    "log_odds": 2.419968682409916,
+    "z_score": 12.58234563795092,
+    "topic_concentration": 0.8305084745762712,
+    "direction": "ai"
+  },
+  {
+    "phrase": "your address",
+    "log_odds": 2.7556076912610656,
+    "z_score": 12.573250276140401,
+    "topic_concentration": 0.8884120171673819,
+    "direction": "ai"
+  },
+  {
+    "phrase": "tennis",
+    "log_odds": -2.037711593576965,
+    "z_score": -12.563876475600065,
+    "topic_concentration": 0.8229376257545271,
+    "direction": "human"
+  },
+  {
+    "phrase": "electors and",
+    "log_odds": -2.855696505768,
+    "z_score": -12.559072707748511,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "online schooling",
+    "log_odds": -1.4535396782593377,
+    "z_score": -12.544414626406574,
+    "topic_concentration": 0.9680365296803652,
+    "direction": "human"
+  },
+  {
+    "phrase": "our mistakes",
+    "log_odds": 3.145168519306395,
+    "z_score": 12.532089626791938,
+    "topic_concentration": 0.723404255319149,
+    "direction": "ai"
+  },
+  {
+    "phrase": "biking and",
+    "log_odds": 2.233543202459165,
+    "z_score": 12.523687022082804,
+    "topic_concentration": 0.9598214285714286,
+    "direction": "ai"
+  },
+  {
+    "phrase": "all americans",
+    "log_odds": 3.0626123745856866,
+    "z_score": 12.521015631504078,
+    "topic_concentration": 0.8969072164948454,
+    "direction": "ai"
+  },
+  {
+    "phrase": "just natural",
+    "log_odds": -1.0088087521658142,
+    "z_score": -12.520351098795642,
+    "topic_concentration": 0.966044142614601,
+    "direction": "human"
+  },
+  {
+    "phrase": "in air",
+    "log_odds": 1.5012880048606707,
+    "z_score": 12.510219772092293,
+    "topic_concentration": 0.6996587030716723,
+    "direction": "ai"
+  },
+  {
+    "phrase": "transportation this",
+    "log_odds": 1.9456160836005072,
+    "z_score": 12.497915364260246,
+    "topic_concentration": 0.9314516129032258,
+    "direction": "ai"
+  },
+  {
+    "phrase": "recognize when",
+    "log_odds": -2.4591208969107363,
+    "z_score": -12.462790574257669,
+    "topic_concentration": 0.962890625,
+    "direction": "human"
+  },
+  {
+    "phrase": "as walking",
+    "log_odds": 2.1261074312203263,
+    "z_score": 12.443356151253882,
+    "topic_concentration": 0.8918918918918919,
+    "direction": "ai"
+  },
+  {
+    "phrase": "noise pollution",
+    "log_odds": 3.3072358688226178,
+    "z_score": 12.440796417843064,
+    "topic_concentration": 0.9806451612903225,
+    "direction": "ai"
+  },
+  {
+    "phrase": "and consideration",
+    "log_odds": 3.531517325605275,
+    "z_score": 12.439312012708355,
+    "topic_concentration": 0.7445255474452555,
+    "direction": "ai"
+  },
+  {
+    "phrase": "face on",
+    "log_odds": -0.4596091069550532,
+    "z_score": -12.436938640388636,
+    "topic_concentration": 0.9598070739549839,
+    "direction": "human"
+  },
+  {
+    "phrase": "in greenhouse",
+    "log_odds": 2.6302893952337723,
+    "z_score": 12.433550578813414,
+    "topic_concentration": 0.97,
+    "direction": "ai"
+  },
+  {
+    "phrase": "during class",
+    "log_odds": -0.692346492515977,
+    "z_score": -12.43159136876694,
+    "topic_concentration": 0.8387698042870456,
+    "direction": "human"
+  },
+  {
+    "phrase": "ownership and",
+    "log_odds": 2.5025970510338986,
+    "z_score": 12.42973177034786,
+    "topic_concentration": 0.6933333333333334,
+    "direction": "ai"
+  },
+  {
+    "phrase": "and concerns",
+    "log_odds": 2.7816192334975103,
+    "z_score": 12.428173161650019,
+    "topic_concentration": 0.6794258373205742,
+    "direction": "ai"
+  },
+  {
+    "phrase": "owning and",
+    "log_odds": 3.2991418471926472,
+    "z_score": 12.407452475333548,
+    "topic_concentration": 0.9057591623036649,
+    "direction": "ai"
+  },
+  {
+    "phrase": "facs in",
+    "log_odds": 2.2142214349712344,
+    "z_score": 12.397153915083953,
+    "topic_concentration": 1.0,
+    "direction": "ai"
+  },
+  {
+    "phrase": "their projects",
+    "log_odds": -2.0331347384038523,
+    "z_score": -12.37975517951554,
+    "topic_concentration": 0.9793510324483776,
+    "direction": "human"
+  },
+  {
+    "phrase": "18th century",
+    "log_odds": 2.666330328976059,
+    "z_score": 12.372637978088568,
+    "topic_concentration": 0.7695852534562212,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the online",
+    "log_odds": -1.92327395047141,
+    "z_score": -12.36838077569621,
+    "topic_concentration": 0.8710601719197708,
+    "direction": "human"
+  },
+  {
+    "phrase": "in state",
+    "log_odds": 1.0295227296054943,
+    "z_score": 12.354901126995358,
+    "topic_concentration": 0.7064220183486238,
+    "direction": "ai"
+  },
+  {
+    "phrase": "these emissions",
+    "log_odds": 3.1024409850680765,
+    "z_score": 12.34386514243542,
+    "topic_concentration": 0.9865470852017937,
+    "direction": "ai"
+  },
+  {
+    "phrase": "disaster",
+    "log_odds": -1.2564014834272736,
+    "z_score": -12.336405247709163,
+    "topic_concentration": 0.6378737541528239,
+    "direction": "human"
+  },
+  {
+    "phrase": "by promoting",
+    "log_odds": 3.6335648895961565,
+    "z_score": 12.324595004800207,
+    "topic_concentration": 0.7276785714285714,
+    "direction": "ai"
+  },
+  {
+    "phrase": "states as",
+    "log_odds": 1.3053679793757915,
+    "z_score": 12.321695544263422,
+    "topic_concentration": 0.671875,
+    "direction": "ai"
+  },
+  {
+    "phrase": "most votes",
+    "log_odds": 1.2425183753086735,
+    "z_score": 12.311594784867998,
+    "topic_concentration": 0.8968253968253969,
+    "direction": "ai"
+  },
+  {
+    "phrase": "character traits",
+    "log_odds": 4.392881197414992,
+    "z_score": 12.307547944599328,
+    "topic_concentration": 0.6736842105263158,
+    "direction": "ai"
+  },
+  {
+    "phrase": "candidate",
+    "log_odds": 0.29892776652292063,
+    "z_score": 12.305163792685217,
+    "topic_concentration": 0.9008233532934131,
+    "direction": "ai"
+  },
+  {
+    "phrase": "less we",
+    "log_odds": 2.2790641140777463,
+    "z_score": 12.291159975162977,
+    "topic_concentration": 0.8916666666666667,
+    "direction": "ai"
+  },
+  {
+    "phrase": "instructor",
+    "log_odds": -2.148645013949441,
+    "z_score": -12.287655223449178,
+    "topic_concentration": 0.7633262260127932,
+    "direction": "human"
+  },
+  {
+    "phrase": "million votes",
+    "log_odds": 3.941915304847493,
+    "z_score": 12.275096573762642,
+    "topic_concentration": 0.9902597402597403,
+    "direction": "ai"
+  },
+  {
+    "phrase": "and operating",
+    "log_odds": 3.0848249913524235,
+    "z_score": 12.26620723583775,
+    "topic_concentration": 0.7528089887640449,
+    "direction": "ai"
+  },
+  {
+    "phrase": "maintain and",
+    "log_odds": 2.3039257128205115,
+    "z_score": 12.262980311766846,
+    "topic_concentration": 0.75,
+    "direction": "ai"
+  },
+  {
+    "phrase": "road we",
+    "log_odds": 2.748526805294256,
+    "z_score": 12.261132578180572,
+    "topic_concentration": 0.8841463414634146,
+    "direction": "ai"
+  },
+  {
+    "phrase": "slate of",
+    "log_odds": -4.342746656956965,
+    "z_score": -12.254600711640297,
+    "topic_concentration": 0.997229916897507,
+    "direction": "human"
+  },
+  {
+    "phrase": "having positive",
+    "log_odds": 6.1167960055497375,
+    "z_score": 12.253304088317671,
+    "topic_concentration": 0.7603550295857988,
+    "direction": "ai"
+  },
+  {
+    "phrase": "have cell",
+    "log_odds": -2.6657191852784585,
+    "z_score": -12.251990435775294,
+    "topic_concentration": 0.8759894459102903,
+    "direction": "human"
+  },
+  {
+    "phrase": "outdated system",
+    "log_odds": 2.5095491513677697,
+    "z_score": 12.24472504154467,
+    "topic_concentration": 0.9952380952380953,
+    "direction": "ai"
+  },
+  {
+    "phrase": "designing",
+    "log_odds": -1.0264779259646755,
+    "z_score": -12.24025668297362,
+    "topic_concentration": 0.735632183908046,
+    "direction": "human"
+  },
+  {
+    "phrase": "of obesity",
+    "log_odds": 2.743708593652899,
+    "z_score": 12.236804878023797,
+    "topic_concentration": 0.8009950248756219,
+    "direction": "ai"
+  },
+  {
+    "phrase": "bicycle",
+    "log_odds": -1.3907858880399324,
+    "z_score": -12.232948907964232,
+    "topic_concentration": 0.9244935543278084,
+    "direction": "human"
+  },
+  {
+    "phrase": "should participate",
+    "log_odds": -1.8834657468053315,
+    "z_score": -12.226000106760782,
+    "topic_concentration": 0.6657681940700808,
+    "direction": "human"
+  },
+  {
+    "phrase": "author states",
+    "log_odds": -2.1674938928673466,
+    "z_score": -12.224655490681588,
+    "topic_concentration": 0.6109589041095891,
+    "direction": "human"
+  },
+  {
+    "phrase": "congestion is",
+    "log_odds": 3.2534133666284504,
+    "z_score": 12.218941059302638,
+    "topic_concentration": 0.91701244813278,
+    "direction": "ai"
+  },
+  {
+    "phrase": "nitrogen",
+    "log_odds": 1.4089331566185752,
+    "z_score": 12.18542842895142,
+    "topic_concentration": 0.6892307692307692,
+    "direction": "ai"
+  },
+  {
+    "phrase": "of achieving",
+    "log_odds": 2.6797583551892767,
+    "z_score": 12.181521243781297,
+    "topic_concentration": 0.6010928961748634,
+    "direction": "ai"
+  },
+  {
+    "phrase": "elector",
+    "log_odds": -3.080398001069021,
+    "z_score": -12.159376505893649,
+    "topic_concentration": 0.9887005649717514,
+    "direction": "human"
+  },
+  {
+    "phrase": "school policy",
+    "log_odds": -1.9762629215888001,
+    "z_score": -12.156760776520484,
+    "topic_concentration": 0.8238636363636364,
+    "direction": "human"
+  },
+  {
+    "phrase": "owning",
+    "log_odds": 0.8255824758671633,
+    "z_score": 12.128524845336832,
+    "topic_concentration": 0.6263079222720478,
+    "direction": "ai"
+  },
+  {
+    "phrase": "fined",
+    "log_odds": -3.1688693053629535,
+    "z_score": -12.12579734878061,
+    "topic_concentration": 0.8729838709677419,
+    "direction": "human"
+  },
+  {
+    "phrase": "that venus",
+    "log_odds": -0.7340924772238804,
+    "z_score": -12.124816186330413,
+    "topic_concentration": 0.9975816203143894,
+    "direction": "human"
+  },
+  {
+    "phrase": "democratic system",
+    "log_odds": 3.446234924589165,
+    "z_score": 12.113817394430068,
+    "topic_concentration": 0.9869565217391304,
+    "direction": "ai"
+  },
+  {
+    "phrase": "president but",
+    "log_odds": -3.524706466010807,
+    "z_score": -12.111113590950152,
+    "topic_concentration": 0.9655765920826161,
+    "direction": "human"
+  },
+  {
+    "phrase": "buses",
+    "log_odds": -0.8807901731421737,
+    "z_score": -12.099234209895782,
+    "topic_concentration": 0.8108395324123273,
+    "direction": "human"
+  },
+  {
+    "phrase": "take online",
+    "log_odds": -1.590381461564288,
+    "z_score": -12.098925320020896,
+    "topic_concentration": 0.95822454308094,
+    "direction": "human"
+  },
+  {
+    "phrase": "day without",
+    "log_odds": -1.6101793070567112,
+    "z_score": -12.072637861419976,
+    "topic_concentration": 0.9066390041493776,
+    "direction": "human"
+  },
+  {
+    "phrase": "the outcome",
+    "log_odds": 0.6785433004530077,
+    "z_score": 12.063087659881077,
+    "topic_concentration": 0.6316316316316316,
+    "direction": "ai"
+  },
+  {
+    "phrase": "people ask",
+    "log_odds": -2.4254168396841003,
+    "z_score": -12.051947423170818,
+    "topic_concentration": 0.9036827195467422,
+    "direction": "human"
+  },
+  {
+    "phrase": "venus would",
+    "log_odds": -2.9663797977224178,
+    "z_score": -12.049431135882053,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "of voting",
+    "log_odds": -1.8770464279687644,
+    "z_score": -12.047885913360101,
+    "topic_concentration": 0.9556650246305419,
+    "direction": "human"
+  },
+  {
+    "phrase": "had car",
+    "log_odds": -3.6550731563124828,
+    "z_score": -12.038447379409334,
+    "topic_concentration": 0.9798561151079137,
+    "direction": "human"
+  },
+  {
+    "phrase": "for abolishing",
+    "log_odds": 4.929035614103174,
+    "z_score": 12.014732808982616,
+    "topic_concentration": 0.9980276134122288,
+    "direction": "ai"
+  },
+  {
+    "phrase": "success it",
+    "log_odds": 3.54626901107898,
+    "z_score": 12.005327688465476,
+    "topic_concentration": 0.6794871794871795,
+    "direction": "ai"
+  },
+  {
+    "phrase": "and cancer",
+    "log_odds": 4.056751181451668,
+    "z_score": 12.005247304082559,
+    "topic_concentration": 0.9248366013071896,
+    "direction": "ai"
+  },
+  {
+    "phrase": "optimistic",
+    "log_odds": 2.1539091821200955,
+    "z_score": 12.002511528815102,
+    "topic_concentration": 0.6321243523316062,
+    "direction": "ai"
+  },
+  {
+    "phrase": "densely",
+    "log_odds": 2.4273861989906624,
+    "z_score": 12.000377532820005,
+    "topic_concentration": 0.746031746031746,
+    "direction": "ai"
+  },
+  {
+    "phrase": "alternative modes",
+    "log_odds": 5.375765253217024,
+    "z_score": 11.994510076104062,
+    "topic_concentration": 0.9971428571428571,
+    "direction": "ai"
+  },
+  {
+    "phrase": "attending",
+    "log_odds": 0.4439911394848082,
+    "z_score": 11.985022652791804,
+    "topic_concentration": 0.8360258481421647,
+    "direction": "ai"
+  },
+  {
+    "phrase": "volleyball",
+    "log_odds": -3.0378746588821173,
+    "z_score": -11.984260375518389,
+    "topic_concentration": 0.7430278884462151,
+    "direction": "human"
+  },
+  {
+    "phrase": "benefit from",
+    "log_odds": -0.5793125342120753,
+    "z_score": -11.984199631422857,
+    "topic_concentration": 0.6431893687707642,
+    "direction": "human"
+  },
+  {
+    "phrase": "snake",
+    "log_odds": -2.291274001291791,
+    "z_score": -11.98035289395019,
+    "topic_concentration": 0.8664850136239782,
+    "direction": "human"
+  },
+  {
+    "phrase": "edison",
+    "log_odds": 2.0374815956351675,
+    "z_score": 11.978092310349492,
+    "topic_concentration": 0.6147540983606558,
+    "direction": "ai"
+  },
+  {
+    "phrase": "transportation we",
+    "log_odds": 2.689116290984014,
+    "z_score": 11.961050677685872,
+    "topic_concentration": 0.9827586206896551,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the classes",
+    "log_odds": -1.6577006339591147,
+    "z_score": -11.95556268417561,
+    "topic_concentration": 0.7013333333333334,
+    "direction": "human"
+  },
+  {
+    "phrase": "of alternative",
+    "log_odds": 2.34793511482248,
+    "z_score": 11.952181015277214,
+    "topic_concentration": 0.8797814207650273,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to clear",
+    "log_odds": -1.0494117471592812,
+    "z_score": -11.945195501336471,
+    "topic_concentration": 0.7919143876337693,
+    "direction": "human"
+  },
+  {
+    "phrase": "clear the",
+    "log_odds": -1.1562451720793856,
+    "z_score": -11.943559839924424,
+    "topic_concentration": 0.8666666666666667,
+    "direction": "human"
+  },
+  {
+    "phrase": "butte",
+    "log_odds": -4.233343011420551,
+    "z_score": -11.938535168125107,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "pollution",
+    "log_odds": 0.2565217660984871,
+    "z_score": 11.935836397497788,
+    "topic_concentration": 0.9048672566371682,
+    "direction": "ai"
+  },
+  {
+    "phrase": "mars global",
+    "log_odds": -1.921025565317672,
+    "z_score": -11.933927798420488,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "project to",
+    "log_odds": -1.9613294673214892,
+    "z_score": -11.90990147731124,
+    "topic_concentration": 0.8658227848101265,
+    "direction": "human"
+  },
+  {
+    "phrase": "cars will",
+    "log_odds": -1.0372101991465286,
+    "z_score": -11.905794144310248,
+    "topic_concentration": 0.753448275862069,
+    "direction": "human"
+  },
+  {
+    "phrase": "our car",
+    "log_odds": 1.0540035589903756,
+    "z_score": 11.903753830839998,
+    "topic_concentration": 0.9321428571428572,
+    "direction": "ai"
+  },
+  {
+    "phrase": "all make",
+    "log_odds": 2.1885309527915044,
+    "z_score": 11.893884292970938,
+    "topic_concentration": 0.6338797814207651,
+    "direction": "ai"
+  },
+  {
+    "phrase": "walkable",
+    "log_odds": 4.531321165305563,
+    "z_score": 11.89194901488206,
+    "topic_concentration": 0.9896907216494846,
+    "direction": "ai"
+  },
+  {
+    "phrase": "seeking advice",
+    "log_odds": 0.9510275276834452,
+    "z_score": 11.88815490328678,
+    "topic_concentration": 0.9612903225806452,
+    "direction": "ai"
+  },
+  {
+    "phrase": "successful people",
+    "log_odds": 2.673695050350231,
+    "z_score": 11.883121265835227,
+    "topic_concentration": 0.6602564102564102,
+    "direction": "ai"
+  },
+  {
+    "phrase": "vote counts",
+    "log_odds": 1.6738267851128672,
+    "z_score": 11.88199170320509,
+    "topic_concentration": 0.9819004524886877,
+    "direction": "ai"
+  },
+  {
+    "phrase": "taxis",
+    "log_odds": -2.1672383459249396,
+    "z_score": -11.858161273737766,
+    "topic_concentration": 0.6568848758465011,
+    "direction": "human"
+  },
+  {
+    "phrase": "being honest",
+    "log_odds": 2.4804311192232706,
+    "z_score": 11.85565621176711,
+    "topic_concentration": 0.66,
+    "direction": "ai"
+  },
+  {
+    "phrase": "air of",
+    "log_odds": -1.65703757554415,
+    "z_score": -11.846901775156839,
+    "topic_concentration": 0.9737827715355806,
+    "direction": "human"
+  },
+  {
+    "phrase": "finally limiting",
+    "log_odds": 4.235922870907258,
+    "z_score": 11.846609895535764,
+    "topic_concentration": 1.0,
+    "direction": "ai"
+  },
+  {
+    "phrase": "wyoming",
+    "log_odds": 0.9298511129533402,
+    "z_score": 11.843460503218969,
+    "topic_concentration": 0.9306930693069307,
+    "direction": "ai"
+  },
+  {
+    "phrase": "emissions which",
+    "log_odds": 2.7202046107322104,
+    "z_score": 11.839492936816075,
+    "topic_concentration": 0.9611650485436893,
+    "direction": "ai"
+  },
+  {
+    "phrase": "environmentally friendly",
+    "log_odds": 2.663280443382023,
+    "z_score": 11.830484502362824,
+    "topic_concentration": 0.7422680412371134,
+    "direction": "ai"
+  },
+  {
+    "phrase": "economic benefits",
+    "log_odds": 3.4975029240100124,
+    "z_score": 11.826659610366738,
+    "topic_concentration": 0.824468085106383,
+    "direction": "ai"
+  },
+  {
+    "phrase": "attending classes",
+    "log_odds": 0.693973250376688,
+    "z_score": 11.82484214289114,
+    "topic_concentration": 0.99609375,
+    "direction": "ai"
+  },
+  {
+    "phrase": "cars to",
+    "log_odds": -1.1799831044378806,
+    "z_score": -11.82084045736553,
+    "topic_concentration": 0.6127080181543116,
+    "direction": "human"
+  },
+  {
+    "phrase": "venus in",
+    "log_odds": -2.1001221725788053,
+    "z_score": -11.817892914774538,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "on without",
+    "log_odds": -1.7093344891337825,
+    "z_score": -11.815451788604328,
+    "topic_concentration": 0.9454148471615721,
+    "direction": "human"
+  },
+  {
+    "phrase": "presidents",
+    "log_odds": -1.2023831984785947,
+    "z_score": -11.810019445747567,
+    "topic_concentration": 0.8118811881188119,
+    "direction": "human"
+  },
+  {
+    "phrase": "why even",
+    "log_odds": -2.337071108477687,
+    "z_score": -11.806274779354752,
+    "topic_concentration": 0.8763157894736842,
+    "direction": "human"
+  },
+  {
+    "phrase": "parking",
+    "log_odds": 0.6062417407954541,
+    "z_score": 11.806051996077652,
+    "topic_concentration": 0.8515482695810564,
+    "direction": "ai"
+  },
+  {
+    "phrase": "alternative transportation",
+    "log_odds": 0.8316801039525377,
+    "z_score": 11.79846516375883,
+    "topic_concentration": 0.9982046678635548,
+    "direction": "ai"
+  },
+  {
+    "phrase": "obesity and",
+    "log_odds": 2.2884859888185467,
+    "z_score": 11.792914742786424,
+    "topic_concentration": 0.7673267326732673,
+    "direction": "ai"
+  },
+  {
+    "phrase": "of traditional",
+    "log_odds": 1.9529940281987557,
+    "z_score": 11.792553952843894,
+    "topic_concentration": 0.6747572815533981,
+    "direction": "ai"
+  },
+  {
+    "phrase": "to failure",
+    "log_odds": 2.977024556284263,
+    "z_score": 11.790303700135306,
+    "topic_concentration": 0.6688311688311688,
+    "direction": "ai"
+  },
+  {
+    "phrase": "should keep",
+    "log_odds": -1.2410701320794004,
+    "z_score": -11.789009712963432,
+    "topic_concentration": 0.6048237476808905,
+    "direction": "human"
+  },
+  {
+    "phrase": "their share",
+    "log_odds": 2.508951162597345,
+    "z_score": 11.779267298410558,
+    "topic_concentration": 0.8454106280193237,
+    "direction": "ai"
+  },
+  {
+    "phrase": "diesel",
+    "log_odds": -0.9489132824351643,
+    "z_score": -11.773917322701982,
+    "topic_concentration": 0.8202676864244742,
+    "direction": "human"
+  },
+  {
+    "phrase": "winston",
+    "log_odds": 3.9809942640381255,
+    "z_score": 11.767818117405964,
+    "topic_concentration": 0.695,
+    "direction": "ai"
+  },
+  {
+    "phrase": "zip code",
+    "log_odds": 2.704541884129874,
+    "z_score": 11.762192598025715,
+    "topic_concentration": 0.794392523364486,
+    "direction": "ai"
+  },
+  {
+    "phrase": "phones are",
+    "log_odds": -0.8204657891108305,
+    "z_score": -11.756674428867823,
+    "topic_concentration": 0.6292798110979929,
+    "direction": "human"
+  },
+  {
+    "phrase": "surveyor",
+    "log_odds": -1.7010374224408533,
+    "z_score": -11.753256644850271,
+    "topic_concentration": 0.976063829787234,
+    "direction": "human"
+  },
+  {
+    "phrase": "this planet",
+    "log_odds": -2.060194548747207,
+    "z_score": -11.745893795414837,
+    "topic_concentration": 0.7433628318584071,
+    "direction": "human"
+  },
+  {
+    "phrase": "learning can",
+    "log_odds": 0.9654802196967687,
+    "z_score": 11.74278071249536,
+    "topic_concentration": 0.8864864864864865,
+    "direction": "ai"
+  },
+  {
+    "phrase": "transportation options",
+    "log_odds": 4.199481087308294,
+    "z_score": 11.73938978273035,
+    "topic_concentration": 0.947136563876652,
+    "direction": "ai"
+  },
+  {
+    "phrase": "transportation instead",
+    "log_odds": 2.458928543168323,
+    "z_score": 11.73736871172818,
+    "topic_concentration": 0.9759036144578314,
+    "direction": "ai"
+  },
+  {
+    "phrase": "using cars",
+    "log_odds": -2.5059565559831434,
+    "z_score": -11.735062957445333,
+    "topic_concentration": 0.9913544668587896,
+    "direction": "human"
+  },
+  {
+    "phrase": "ban to",
+    "log_odds": -1.545765185431172,
+    "z_score": -11.730102778555404,
+    "topic_concentration": 0.998211091234347,
+    "direction": "human"
+  },
+  {
+    "phrase": "decisions in",
+    "log_odds": 1.5780296572296617,
+    "z_score": 11.722818360905409,
+    "topic_concentration": 0.6347826086956522,
+    "direction": "ai"
+  },
+  {
+    "phrase": "run off",
+    "log_odds": 0.7391156277018887,
+    "z_score": 11.70924472584524,
+    "topic_concentration": 0.9013840830449827,
+    "direction": "ai"
+  },
+  {
+    "phrase": "carpool or",
+    "log_odds": 3.2288048876332294,
+    "z_score": 11.706525246076776,
+    "topic_concentration": 0.9850746268656716,
+    "direction": "ai"
+  },
+  {
+    "phrase": "positive outlook",
+    "log_odds": 3.3395701817219923,
+    "z_score": 11.705693360963812,
+    "topic_concentration": 0.6746987951807228,
+    "direction": "ai"
+  },
+  {
+    "phrase": "adversity",
+    "log_odds": 3.4636174274732667,
+    "z_score": 11.702376699515131,
+    "topic_concentration": 0.7085427135678392,
+    "direction": "ai"
+  },
+  {
+    "phrase": "in california",
+    "log_odds": 1.0522824953198757,
+    "z_score": 11.701912566975842,
+    "topic_concentration": 0.7311827956989247,
+    "direction": "ai"
+  },
+  {
+    "phrase": "or video",
+    "log_odds": -0.8885897304029502,
+    "z_score": -11.686820826071372,
+    "topic_concentration": 0.7894736842105263,
+    "direction": "human"
+  },
+  {
+    "phrase": "strong support",
+    "log_odds": 4.180748751608835,
+    "z_score": 11.684243856021508,
+    "topic_concentration": 0.897196261682243,
+    "direction": "ai"
+  },
+  {
+    "phrase": "residents",
+    "log_odds": 0.6322815046239469,
+    "z_score": 11.681350797365885,
+    "topic_concentration": 0.7367303609341825,
+    "direction": "ai"
+  },
+  {
+    "phrase": "lower air",
+    "log_odds": -3.1548607412174867,
+    "z_score": -11.660726579192914,
+    "topic_concentration": 0.9887218045112782,
+    "direction": "human"
+  },
+  {
+    "phrase": "traffic accidents",
+    "log_odds": 2.4047587087224365,
+    "z_score": 11.657299124161723,
+    "topic_concentration": 0.6319018404907976,
+    "direction": "ai"
+  },
+  {
+    "phrase": "the 18th",
+    "log_odds": 2.6832690080313757,
+    "z_score": 11.657179995634689,
+    "topic_concentration": 0.8020833333333334,
+    "direction": "ai"
+  },
+  {
+    "phrase": "own summer",
+    "log_odds": -1.4302626072825877,
+    "z_score": -11.654751159874415,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  },
+  {
+    "phrase": "and unfair",
+    "log_odds": 1.3311652808085572,
+    "z_score": 11.649009768208114,
+    "topic_concentration": 0.8705501618122977,
+    "direction": "ai"
+  },
+  {
+    "phrase": "initiatives",
+    "log_odds": 3.752002250116943,
+    "z_score": 11.645141388102322,
+    "topic_concentration": 0.7076923076923077,
+    "direction": "ai"
+  },
+  {
+    "phrase": "happier this",
+    "log_odds": -3.5378178492752355,
+    "z_score": -11.640077319303302,
+    "topic_concentration": 0.9888535031847133,
+    "direction": "human"
+  },
+  {
+    "phrase": "life goes",
+    "log_odds": -1.780774442876691,
+    "z_score": -11.631342871984316,
+    "topic_concentration": 0.9861111111111112,
+    "direction": "human"
+  },
+  {
+    "phrase": "artifact",
+    "log_odds": -2.192026916624613,
+    "z_score": -11.622215984817226,
+    "topic_concentration": 0.9496644295302014,
+    "direction": "human"
+  },
+  {
+    "phrase": "state electoral",
+    "log_odds": 2.522520657398564,
+    "z_score": 11.61299042032376,
+    "topic_concentration": 0.9692307692307692,
+    "direction": "ai"
+  },
+  {
+    "phrase": "public school",
+    "log_odds": -1.915631949635964,
+    "z_score": -11.61105761332092,
+    "topic_concentration": 0.827433628318584,
+    "direction": "human"
+  },
+  {
+    "phrase": "cities and",
+    "log_odds": 0.9432151254076793,
+    "z_score": 11.61045392380897,
+    "topic_concentration": 0.7642725598526704,
+    "direction": "ai"
+  },
+  {
+    "phrase": "wyoming has",
+    "log_odds": 3.7403134656232773,
+    "z_score": 11.606272427712224,
+    "topic_concentration": 1.0,
+    "direction": "ai"
+  },
+  {
+    "phrase": "cars and",
+    "log_odds": -0.5996635171141875,
+    "z_score": -11.594501909338787,
+    "topic_concentration": 0.6991970352069179,
+    "direction": "human"
+  },
+  {
+    "phrase": "adventure",
+    "log_odds": 0.7667173042228388,
+    "z_score": 11.577228640817575,
+    "topic_concentration": 0.8125,
+    "direction": "ai"
+  },
+  {
+    "phrase": "rock formation",
+    "log_odds": -1.8668550279780582,
+    "z_score": -11.571130161937086,
+    "topic_concentration": 0.9911764705882353,
+    "direction": "human"
+  },
+  {
+    "phrase": "oceans and",
+    "log_odds": -1.5708457530278093,
+    "z_score": -11.56422503476492,
+    "topic_concentration": 0.8591549295774648,
+    "direction": "human"
+  },
+  {
+    "phrase": "pressure is",
+    "log_odds": -1.4114629270778796,
+    "z_score": -11.563092739332753,
+    "topic_concentration": 0.7359550561797753,
+    "direction": "human"
+  },
+  {
+    "phrase": "mars was",
+    "log_odds": -1.6334133168116907,
+    "z_score": -11.560792169563667,
+    "topic_concentration": 0.9894736842105263,
+    "direction": "human"
+  },
+  {
+    "phrase": "kennedy",
+    "log_odds": -1.5587028981360742,
+    "z_score": -11.560603699406283,
+    "topic_concentration": 0.8333333333333334,
+    "direction": "human"
+  },
+  {
+    "phrase": "college as",
+    "log_odds": 1.2799246399119433,
+    "z_score": 11.55782380106432,
+    "topic_concentration": 0.8801169590643275,
+    "direction": "ai"
+  },
+  {
+    "phrase": "help individuals",
+    "log_odds": 5.183585395998927,
+    "z_score": 11.553139269571068,
+    "topic_concentration": 0.6509803921568628,
+    "direction": "ai"
+  },
+  {
+    "phrase": "of smaller",
+    "log_odds": 2.2770709612019004,
+    "z_score": 11.533772038882635,
+    "topic_concentration": 0.6898395721925134,
+    "direction": "ai"
+  },
+  {
+    "phrase": "should change",
+    "log_odds": -1.6861868486185756,
+    "z_score": -11.531616764378361,
+    "topic_concentration": 0.7204030226700252,
+    "direction": "human"
+  },
+  {
+    "phrase": "candidate can",
+    "log_odds": 2.106009180216157,
+    "z_score": 11.530461161967331,
+    "topic_concentration": 0.9795918367346939,
+    "direction": "ai"
+  },
+  {
+    "phrase": "states however",
+    "log_odds": 3.293497569630164,
+    "z_score": 11.529060066383025,
+    "topic_concentration": 0.7475728155339806,
+    "direction": "ai"
+  },
+  {
+    "phrase": "states which",
+    "log_odds": 1.610562697489117,
+    "z_score": 11.516182207523372,
+    "topic_concentration": 0.7125984251968503,
+    "direction": "ai"
+  },
+  {
+    "phrase": "always tense",
+    "log_odds": -3.6643873665511553,
+    "z_score": -11.508366870745082,
+    "topic_concentration": 1.0,
+    "direction": "human"
+  }
+]

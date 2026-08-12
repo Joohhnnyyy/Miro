@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/assets/miro-favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#FFFFFF">
+    <link rel="apple-touch-icon" href="/assets/miro-favicon.png">
+    <meta name="description" content="Craft is the constant. Engineering, and now AI, is how we make more of it. A point of view from wild, a design and technology studio born in Vienna.">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="wild">
+    <meta property="og:url" content="https://craft.wild.as/">
+    <meta property="og:title" content="wild · Craft, engineered.">
+    <meta property="og:description" content="A design and technology partner for modern brands. Award-winning websites, apps, and digital content, built with craft and AI.">
+    <meta property="og:image" content="https://craft.wild.as/assets/og.png?v=20260623">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="wild, Craft engineered">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="wild · Craft, engineered.">
+    <meta name="twitter:description" content="A design and technology partner for modern brands. Award-winning websites, apps, and digital content, built with craft and AI.">
+    <meta name="twitter:image" content="https://craft.wild.as/assets/og.png?v=20260623">
+    <title>MIRO AI Detection</title>
+    <!-- PostHog cookieless tracking -->
+    <script type="text/javascript" crossorigin="anonymous" async="" src="https://eu-assets.i.posthog.com/static/array.js"></script><script type="text/javascript">
+      !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="init capture register register_once register_for_session unregister unregister_for_session getFeatureFlag getFeatureFlagPayload isFeatureEnabled reloadFeatureFlags updateEarlyAccessFeatureEnrollment getEarlyAccessFeatures on onFeatureFlags onSessionId getSurveys getActiveMatchingSurveys renderSurvey canRenderSurvey getNextSurveyStep identify setPersonProperties group resetGroups setPersonPropertiesForFlags resetPersonPropertiesForFlags setGroupPropertiesForFlags resetGroupPropertiesForFlags reset get_distinct_id getGroups get_session_id get_session_replay_url alias set_config startSessionRecording stopSessionRecording sessionRecordingStarted captureException loadToolbar get_property getSessionProperty createPersonProfile opt_in_capturing opt_out_capturing has_opted_in_capturing has_opted_out_capturing clear_opt_in_out_capturing debug".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+      posthog.init('phc_m9qwJX5U94wAu8h5jZNNVs9d9viWAsyei6km5SeGR5Po', { api_host: 'https://eu.i.posthog.com', cookieless_mode: 'always' });
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://code.iconify.design/iconify-icon/3.0.0/iconify-icon.min.js"></script>
+    <style type="text/tailwindcss">
+      @theme inline {
+        --color-background: var(--background);
+        --color-foreground: var(--foreground);
+        --color-primary: var(--primary);
+        --color-primary-foreground: var(--primary-foreground);
+        --color-secondary: var(--secondary);
+        --color-secondary-foreground: var(--secondary-foreground);
+        --color-tertiary: var(--tertiary);
+        --color-tertiary-foreground: var(--tertiary-foreground);
+        --color-muted: var(--muted);
+        --color-muted-foreground: var(--muted-foreground);
+        --color-accent: var(--accent);
+        --color-accent-foreground: var(--accent-foreground);
+        --color-destructive: var(--destructive);
+        --color-destructive-foreground: var(--destructive-foreground);
+        --color-card: var(--card);
+        --color-card-foreground: var(--card-foreground);
+        --color-popover: var(--popover);
+        --color-popover-foreground: var(--popover-foreground);
+        --color-border: var(--border);
+        --color-input: var(--input);
+        --color-ring: var(--ring);
+        --radius-sm: calc(var(--radius) - 4px);
+        --radius-md: calc(var(--radius) - 2px);
+        --radius-lg: var(--radius);
+        --font-family-sans: var(--font-sans);
+        --font-family-heading: var(--font-heading);
+        --font-family-mono: var(--font-mono);
+        --font-heading: var(--font-heading, var(--font-sans, ui-sans-serif, system-ui, sans-serif));
+      }
+
+      @layer base {
+        .bg-card { color: var(--card-foreground); }
+        .bg-popover { color: var(--popover-foreground, var(--card-foreground)); }
+        .bg-primary { color: var(--primary-foreground); }
+        .bg-secondary { color: var(--secondary-foreground); }
+        .bg-accent { color: var(--accent-foreground, var(--foreground)); }
+        .bg-tertiary { color: var(--tertiary-foreground, var(--primary-foreground)); }
+        .bg-destructive { color: var(--destructive-foreground, var(--primary-foreground)); }
+      }
+      :root {
+        --background: #FFFFFF;
+        --foreground: #0A0A0A;
+        --primary: #0A0A0A;
+        --primary-foreground: #FFFFFF;
+        --secondary: #F5F5F5;
+        --secondary-foreground: #0A0A0A;
+        --tertiary: #3B5BD9;
+        --muted: #F5F5F5;
+        --muted-foreground: #8B8B8B;
+        --accent: #F5C518;
+        --accent-foreground: #0A0A0A;
+        --card: #FFFFFF;
+        --card-foreground: #0A0A0A;
+        --destructive: #E0492A;
+        --border: rgba(10, 10, 10, 0.12);
+        --input: rgba(10, 10, 10, 0.12);
+        --ring: #0A0A0A;
+        --radius: 0.5rem;
+        --font-sans: Sneak, ui-sans-serif, system-ui, sans-serif;
+        --font-heading: Sneak, ui-sans-serif, system-ui, sans-serif;
+        --font-mono: SFMono-Regular, ui-monospace, Menlo, Consolas, monospace;
+      }
+    </style>
+  </head>
+  <body>
+    <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+      <symbol id="wild-mark" viewBox="0 0 280 107.49">
+        <polygon points="85.15 78.09 68.18 34.92 53.04 34.92 36.21 78.09 20.37 34.92 0 34.92 28.71 105.65 42.86 105.65 60.68 63.63 78.36 105.65 92.51 105.65 121.22 34.92 100.86 34.92 85.15 78.09" fill="currentColor"></polygon>
+        <rect x="134.41" y="34.92" width="18.67" height="70.73" fill="currentColor"></rect><rect x="172.69" y="6.63" width="18.81" height="99.02" fill="currentColor"></rect>
+        <path d="M143.69,0a11.18,11.18,0,0,0-11.37,11.5,11.43,11.43,0,0,0,22.87,0A11.38,11.38,0,0,0,143.69,0Z" fill="currentColor"></path>
+        <path d="M261.33,6.63V43.07a32.25,32.25,0,0,0-23.36-10h-.49l-1.45,0h-.14a22.57,22.57,0,0,0-2.34.21,30.61,30.61,0,0,0-8.29,2.22,29.54,29.54,0,0,0-10.18,7.21,34.45,34.45,0,0,0-6.93,11.67,45.8,45.8,0,0,0-2.54,15.84,45.79,45.79,0,0,0,2.54,15.84,33.82,33.82,0,0,0,7,11.67A30.26,30.26,0,0,0,225.4,105a31.38,31.38,0,0,0,12.45,2.48h.78q.87,0,1.72-.08l.2,0a32.29,32.29,0,0,0,20.77-9.87v8.15H280v-99Zm-4.7,78.15A19.18,19.18,0,0,1,242.8,90.1a20.67,20.67,0,0,1-7.69-1.41,17.83,17.83,0,0,1-6.14-4,18.38,18.38,0,0,1-4.07-6.29,23.12,23.12,0,0,1,0-16.27A18.43,18.43,0,0,1,229,55.86a17.9,17.9,0,0,1,6.14-4,20.71,20.71,0,0,1,7.69-1.41,19.34,19.34,0,0,1,13.83,5.25q5.55,5.25,5.55,14.57T256.63,84.78Z" fill="currentColor"></path>
+      </symbol>
+    </svg>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <script src="https://wild.as/assets/footer-tetris.js"></script>
+    <script src="/interactions.js"></script>
+  </body>
+</html>
