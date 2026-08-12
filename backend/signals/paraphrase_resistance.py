@@ -1,52 +1,63 @@
 import numpy as np
 import os
-import requests
+import torch
 import nltk
 from nltk.corpus import wordnet as wn
 
 class ParaphraseResistanceSignal:
-    def __init__(self):
+    def __init__(self, model_name: str = "sentence-transformers/all-MiniLM-L6-v2"):
+        self.model_name = model_name
+        self.model = None
+        self._load_attempted = False
         # Ensure wordnet is available
         try:
             wn.synsets('dog')
         except:
             nltk.download('wordnet', quiet=True)
             
+    def _get_model(self):
+        if self.model is None and not self._load_attempted:
+            self._load_attempted = True
+            try:
+                from sentence_transformers import SentenceTransformer
+                self.model = SentenceTransformer(self.model_name, device="cpu")
+                print("Signal E: Loaded SentenceTransformer onto CPU.")
+            except Exception as e:
+                print(f"Notice: ParaphraseResistance fallback: {e}")
+                self.model = None
+        return self.model
+            
     def semantic_surface_gap(self, sentences):
         if len(sentences) < 3:
             return []
             
-        token = os.environ.get("HF_TOKEN")
-        if not token:
-            print("WARNING: HF_TOKEN missing. Paraphrase resistance fallback.")
+        model = self._get_model()
+        if model is None:
             return []
             
-        url = "https://api-inference.huggingface.co/pipeline/feature-extraction/sentence-transformers/all-MiniLM-L6-v2"
-        headers = {"Authorization": f"Bearer {token}"}
-        
         try:
-            response = requests.post(url, headers=headers, json={"inputs": sentences}, timeout=10)
-            if response.status_code == 200:
-                embs = np.array(response.json())
+            with torch.no_grad():
+                embs_tensor = model.encode(sentences, convert_to_tensor=True, show_progress_bar=False)
+                embs = embs_tensor.cpu().numpy()
                 
-                gaps = []
-                for i in range(1, len(sentences) - 1):
-                    norm_a = np.linalg.norm(embs[i])
-                    norm_b = np.linalg.norm(embs[i-1])
-                    if norm_a == 0 or norm_b == 0:
-                        sem_sim = 0.0
-                    else:
-                        sem_sim = np.dot(embs[i], embs[i-1]) / (norm_a * norm_b)
-                        
-                    toks_a = set(sentences[i].lower().split())
-                    toks_b = set(sentences[i-1].lower().split())
-                    union_len = len(toks_a | toks_b)
-                    surface_overlap = len(toks_a & toks_b) / max(union_len, 1)
+            gaps = []
+            for i in range(1, len(sentences) - 1):
+                norm_a = np.linalg.norm(embs[i])
+                norm_b = np.linalg.norm(embs[i-1])
+                if norm_a == 0 or norm_b == 0:
+                    sem_sim = 0.0
+                else:
+                    sem_sim = np.dot(embs[i], embs[i-1]) / (norm_a * norm_b)
                     
-                    gaps.append(float(sem_sim - surface_overlap))
-                return gaps
+                toks_a = set(sentences[i].lower().split())
+                toks_b = set(sentences[i-1].lower().split())
+                union_len = len(toks_a | toks_b)
+                surface_overlap = len(toks_a & toks_b) / max(union_len, 1)
+                
+                gaps.append(float(sem_sim - surface_overlap))
+            return gaps
         except Exception as e:
-            print(f"Paraphrase HF API Error: {e}")
+            print(f"Paraphrase local model error: {e}")
             
         return []
         

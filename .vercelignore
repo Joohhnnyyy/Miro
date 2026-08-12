@@ -1,0 +1,9 @@
+data/
+venv/
+test_venv/
+node_modules/
+frontend/node_modules/
+api/model_weights/final_model/
+backend/
+__pycache__/
+.git/

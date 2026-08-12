@@ -1,10 +1,24 @@
 import numpy as np
+import torch
 import os
-import requests
 
 class NarrativeSignal:
-    def __init__(self):
-        pass
+    def __init__(self, model_name: str = "sentence-transformers/all-MiniLM-L6-v2"):
+        self.model_name = model_name
+        self.model = None
+        self._load_attempted = False
+        
+    def _get_model(self):
+        if self.model is None and not self._load_attempted:
+            self._load_attempted = True
+            try:
+                from sentence_transformers import SentenceTransformer
+                self.model = SentenceTransformer(self.model_name, device="cpu")
+                print("Signal B: Loaded SentenceTransformer onto CPU.")
+            except Exception as e:
+                print(f"Notice: NarrativeSignal fallback: {e}")
+                self.model = None
+        return self.model
         
     def score_essay(self, sentences):
         """
@@ -15,33 +29,23 @@ class NarrativeSignal:
         if len(sentences) < 2:
             return 0.0
             
-        token = os.environ.get("HF_TOKEN")
-        if not token:
-            print("WARNING: HF_TOKEN missing. Narrative variance fallback.")
+        model = self._get_model()
+        if model is None:
             return 0.05
             
-        url = "https://api-inference.huggingface.co/pipeline/feature-extraction/sentence-transformers/all-MiniLM-L6-v2"
-        headers = {"Authorization": f"Bearer {token}"}
-        
         try:
-            response = requests.post(url, headers=headers, json={"inputs": sentences}, timeout=10)
-            if response.status_code == 200:
-                embs = np.array(response.json())
+            with torch.no_grad():
+                embeddings = model.encode(sentences, convert_to_tensor=True, show_progress_bar=False)
+                norms = torch.norm(embeddings, dim=1, keepdim=True)
+                norm_embeddings = embeddings / (norms + 1e-8)
                 
-                similarities = []
-                for i in range(1, len(sentences)):
-                    norm_a = np.linalg.norm(embs[i])
-                    norm_b = np.linalg.norm(embs[i-1])
-                    if norm_a == 0 or norm_b == 0:
-                        sim = 0.0
-                    else:
-                        sim = np.dot(embs[i], embs[i-1]) / (norm_a * norm_b)
-                    similarities.append(sim)
-                    
-                if len(similarities) == 0:
-                    return 0.0
-                return float(np.var(similarities))
+                sims_tensor = (norm_embeddings[:-1] * norm_embeddings[1:]).sum(dim=1)
+                similarities = sims_tensor.cpu().numpy().tolist()
+                
+            if len(similarities) == 0:
+                return 0.0
+            return float(np.var(similarities))
         except Exception as e:
-            print(f"Narrative HF API Error: {e}")
+            print(f"Narrative local model error: {e}")
             
         return 0.05

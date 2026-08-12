@@ -49,3 +49,7 @@ data/
 *.csv
 *.jsonl
 test_venv/
+.vercel
+backend/test_*.py
+backend/get_*.py
+test_*.py
