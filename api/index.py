@@ -28,7 +28,7 @@ def load_detector():
 class DetectRequest(BaseModel):
     text: str
     
-@app.post("/detect")
+@app.post("/api/detect")
 def detect_essay(request: DetectRequest):
     if not request.text or len(request.text.strip()) < 50:
         raise HTTPException(status_code=400, detail="Text is too short to reliably analyze.")

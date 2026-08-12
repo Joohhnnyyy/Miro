@@ -10,12 +10,15 @@ from signals.classifier import ClassifierSignal
 from signals.paraphrase_resistance import ParaphraseResistanceSignal
 
 class Detector:
-    def __init__(self, base_dir="/Users/anshjohnson/AI_Detection"):
+    def __init__(self, base_dir=None):
         print("Loading NLP models...")
         self.nlp = spacy.load("en_core_web_sm")
         
         print("Loading signals...")
-        weights_dir = os.path.join(base_dir, "backend", "model_weights")
+        if base_dir is None:
+            weights_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "model_weights")
+        else:
+            weights_dir = os.path.join(base_dir, "backend", "model_weights")
         self.vocab = VocabularySignal(os.path.join(weights_dir, "signature_list.json"))
         self.narrative = NarrativeSignal()
         self.stylometry = StylometrySignal()
