@@ -28,19 +28,7 @@ interface PreloaderProps {
 }
 
 export const Preloader = ({ onComplete }: PreloaderProps) => {
-  const [mounted, setMounted] = useState(false);
   const [animatingOut, setAnimatingOut] = useState(false);
-  const [stableTransforms] = useState(() => {
-    // Generate and store initial transforms so they don't regenerate on re-renders
-    const transforms: string[][] = [];
-    for (let r = 0; r < 9; r++) {
-      transforms[r] = [];
-      for (let c = 0; c < 14; c++) {
-        transforms[r][c] = LOGO_PATTERN[r][c] === '#' ? `translate(0, -100vh)` : 'none';
-      }
-    }
-    return transforms;
-  });
 
   const [stableDelays] = useState(() => {
     const delays: string[][] = [];
