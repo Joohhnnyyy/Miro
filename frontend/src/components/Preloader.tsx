@@ -82,8 +82,6 @@ export const Preloader = ({ onComplete }: PreloaderProps) => {
   });
 
   useEffect(() => {
-    // Trigger animation slightly after mount
-    setTimeout(() => setMounted(true), 100);
 
     // List of assets to preload (based on the user's setup)
     const videosToPreload = [
