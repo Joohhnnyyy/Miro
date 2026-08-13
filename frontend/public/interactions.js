@@ -183,6 +183,7 @@
     if(k===KON[ki]){ ki++; if(ki===KON.length){ ki=0; fireWild(); } } else { ki=(k===KON[0])?1:0; }
     if(e.key&&e.key.length===1){ typed=(typed+e.key.toLowerCase()).slice(-6); if(typed.slice(-4)==='wild') fireWild(); else if(typed==='vienna') fireHeart(); } });
   addEventListener('dblclick',function(e){ if(TOUCH) return; if(e.target.closest&&e.target.closest('a,button,input,.pxctl'))return; waves.push({x:e.clientX,y:e.clientY,t0:performance.now()/1000,pow:2.8}); dep(e.clientX,e.clientY,1,BRUSH*22); shake=2.4; });
+  addEventListener('triggerExplosion',function(e){ waves.push({x:e.detail.x,y:e.detail.y,t0:performance.now()/1000,pow:2.8}); dep(e.detail.x,e.detail.y,1,BRUSH*22); shake=2.4; });
   function render(){ var tt=t*0.001, ns=performance.now()/1000;
     /* hero rect drives the headline + its safe zone */
     var hb=hero.getBoundingClientRect(); hrTop=hb.top; hrH=hb.height;

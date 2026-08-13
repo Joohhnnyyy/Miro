@@ -51,6 +51,9 @@ export const Detector = () => {
   const [result, setResult] = useState<DetectResponse | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [scanProgress, setScanProgress] = useState(0);
+  const [isHowItWorksOpen, setIsHowItWorksOpen] = useState(false);
+  const [isSearchOpen, setIsSearchOpen] = useState(false);
+  const [searchQuery, setSearchQuery] = useState('');
 
   useEffect(() => {
     window.hasNavigatedAwayFromHome = true;
@@ -107,9 +110,9 @@ export const Detector = () => {
   const Sidebar = () => (
     <aside className="hidden w-60 shrink-0 flex-col border-r border-border bg-background lg:flex">
       <div className="flex min-h-16 items-center justify-between border-b border-border px-5">
-        <Link to="/" className="flex items-center gap-3 transition-transform duration-300 ease-out hover:scale-[1.02] hover:opacity-80">
+        <a href="/" className="flex items-center gap-3 transition-transform duration-300 ease-out hover:scale-[1.02] hover:opacity-80">
           <img src="/assets/Miro_black_logo.png" alt="MIRO Logo" className="h-10 w-auto" />
-        </Link>
+        </a>
         <span className="font-mono text-[10px] text-muted-foreground">v1.0</span>
       </div>
       <nav className="flex flex-1 flex-col p-3 text-[13px]">
@@ -171,6 +174,20 @@ export const Detector = () => {
     </aside>
   );
 
+  const renderHighlightedText = (text: string, highlight: string) => {
+    if (!highlight.trim()) return text;
+    const parts = text.split(new RegExp(`(${highlight})`, 'gi'));
+    return (
+      <>
+        {parts.map((part, i) => 
+          part.toLowerCase() === highlight.toLowerCase() 
+            ? <mark key={i} className="bg-primary/40 text-foreground px-0.5 rounded-sm">{part}</mark>
+            : part
+        )}
+      </>
+    );
+  };
+
   return (
     <div className="min-h-screen w-full bg-background flex flex-col relative font-sans">
       <div className="flex flex-1">
@@ -210,7 +227,7 @@ export const Detector = () => {
             </div>
 
             {viewState === 'input' && (
-              <button className="min-h-10 border border-border px-3 text-[13px] font-medium hover:bg-secondary active:bg-muted focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring">
+              <button onClick={() => setIsHowItWorksOpen(true)} className="min-h-10 border border-border px-3 text-[13px] font-medium hover:bg-secondary active:bg-muted focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring">
                 {/* @ts-ignore */}
                 <iconify-icon icon="ph:question-light" class="mr-1 align-middle text-base"></iconify-icon>
                 How it works
@@ -243,38 +260,12 @@ export const Detector = () => {
                 <p className="mt-3 max-w-2xl text-[13px] leading-6 text-muted-foreground">Start with a document or draft. MIRO maps writing signals so you can make a more informed review decision.</p>
               </div>
               
-              <div className="mt-8 grid flex-1 grid-cols-1 border border-border lg:grid-cols-12">
-                <section className="flex min-h-80 flex-col border-b border-border p-5 lg:col-span-4 lg:border-b-0 lg:border-r lg:p-6">
+              <div className="mt-8 flex flex-1 flex-col border border-border">
+                <section className="flex min-h-80 flex-col p-5 lg:p-8">
                   <div className="flex items-start justify-between gap-4">
                     <div>
-                      <p className="font-mono text-[10px] uppercase tracking-widest text-muted-foreground">01 / Import</p>
-                      <h2 className="mt-2 font-heading text-lg font-semibold">Upload a document</h2>
-                      <p className="mt-2 text-[13px] leading-5 text-muted-foreground">PDF, DOCX, or TXT<br/>Maximum file size: 20 MB</p>
-                    </div>
-                    <span className="flex h-10 w-10 items-center justify-center border border-border bg-secondary">
-                      {/* @ts-ignore */}
-                      <iconify-icon icon="ph:file-arrow-up-light" class="text-xl"></iconify-icon>
-                    </span>
-                  </div>
-                  <button className="mt-6 flex min-h-64 flex-1 flex-col items-center justify-center border border-dashed border-input bg-secondary px-5 text-center transition-all duration-300 ease-out hover:scale-[1.01] hover:shadow-sm hover:border-foreground hover:bg-muted active:scale-[0.99] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring">
-                    {/* @ts-ignore */}
-                    <iconify-icon icon="ph:upload-simple-light" class="text-2xl"></iconify-icon>
-                    <span className="mt-4 text-[13px] font-semibold">Drop your essay here</span>
-                    <span className="mt-1 text-[11px] text-muted-foreground">or choose a file from your device</span>
-                    <span className="mt-5 border border-foreground bg-background px-4 py-2 text-[11px] font-semibold">Browse files</span>
-                  </button>
-                  <p className="mt-4 flex items-start gap-2 text-[11px] leading-4 text-muted-foreground">
-                    {/* @ts-ignore */}
-                    <iconify-icon icon="ph:info-light" class="mt-px text-sm"></iconify-icon>
-                    <span>Files are checked locally for type before upload.</span>
-                  </p>
-                </section>
-                
-                <section className="flex min-h-80 flex-col p-5 lg:col-span-8 lg:p-6">
-                  <div className="flex items-start justify-between gap-4">
-                    <div>
-                      <p className="font-mono text-[10px] uppercase tracking-widest text-muted-foreground">02 / Compose</p>
-                      <h2 className="mt-2 font-heading text-lg font-semibold">Or paste your essay</h2>
+                      <p className="font-mono text-[10px] uppercase tracking-widest text-muted-foreground">01 / Compose</p>
+                      <h2 className="mt-2 font-heading text-lg font-semibold">Paste your essay</h2>
                       <p className="mt-2 text-[13px] leading-5 text-muted-foreground">For responses, drafts, and excerpts. We evaluate linguistic patterns, not author identity.</p>
                     </div>
                     <button onClick={() => setText('')} disabled={!text} className="min-h-10 px-2 text-[13px] font-medium text-muted-foreground hover:text-foreground focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring disabled:cursor-not-allowed disabled:opacity-40">
@@ -287,7 +278,7 @@ export const Detector = () => {
                     id="essay" 
                     value={text}
                     onChange={(e) => setText(e.target.value)}
-                    className="mt-2 min-h-64 w-full flex-1 resize-y border border-input bg-background p-4 text-base leading-relaxed text-foreground placeholder:text-muted-foreground transition-all duration-300 ease-out hover:shadow-sm hover:border-foreground focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring" 
+                    className="mt-2 min-h-64 w-full flex-1 resize-y border border-input bg-background p-4 text-base leading-relaxed text-foreground placeholder:text-muted-foreground transition-all duration-300 ease-out hover:border-foreground/50 hover:shadow-sm focus:border-primary focus:shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring" 
                     placeholder="Enter the text you want to analyze here... It should be at least a few sentences long for the best results."
                   />
                   
@@ -315,10 +306,10 @@ export const Detector = () => {
                   <span className="mt-1 h-2 w-2 shrink-0 bg-tertiary"></span>
                   <p className="max-w-2xl text-[13px] leading-5 text-muted-foreground">Ready to analyze. Results include an overall signal, sentence-level evidence, and writing-quality metrics.</p>
                 </div>
-                <button onClick={analyzeEssay} className="min-h-11 shrink-0 border border-primary bg-primary px-5 py-3 text-[13px] font-semibold text-primary-foreground transition-all duration-300 ease-out hover:scale-[1.02] hover:shadow-sm hover:bg-foreground active:scale-95 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring disabled:cursor-not-allowed disabled:opacity-40">
+                <button onClick={analyzeEssay} className="group min-h-11 shrink-0 border border-primary bg-primary px-5 py-3 text-[13px] font-semibold text-primary-foreground transition-all duration-300 ease-out hover:bg-foreground hover:shadow-sm active:scale-[0.98] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring disabled:cursor-not-allowed disabled:opacity-40">
                   <span>Analyze essay</span>
                   {/* @ts-ignore */}
-                  <iconify-icon icon="ph:arrow-right-light" class="ml-2 align-middle text-base"></iconify-icon>
+                  <iconify-icon icon="ph:arrow-right-light" class="ml-2 align-middle text-base transition-transform duration-300 group-hover:translate-x-0.5"></iconify-icon>
                 </button>
               </footer>
               
@@ -425,38 +416,56 @@ export const Detector = () => {
                       <p className="font-mono text-[10px] uppercase tracking-widest text-muted-foreground">Document reader</p>
                       <h2 className="mt-1 font-heading text-lg font-semibold">Passages</h2>
                     </div>
-                    <button className="flex min-h-10 min-w-10 items-center justify-center border border-border hover:bg-secondary">
-                      {/* @ts-ignore */}
-                      <iconify-icon icon="ph:magnifying-glass-light" class="text-lg"></iconify-icon>
-                    </button>
+                    
+                    <div className="flex items-center">
+                      <div className={`overflow-hidden transition-all duration-300 ease-out ${isSearchOpen ? 'w-48 opacity-100 mr-2' : 'w-0 opacity-0 mr-0'}`}>
+                        <input
+                          type="text"
+                          placeholder="Search text..."
+                          value={searchQuery}
+                          onChange={(e) => setSearchQuery(e.target.value)}
+                          className="w-full h-10 border border-border bg-background px-3 text-[13px] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary"
+                        />
+                      </div>
+                      <button 
+                        onClick={() => {
+                          setIsSearchOpen(!isSearchOpen);
+                          if (isSearchOpen) setSearchQuery('');
+                        }} 
+                        className={`flex min-h-10 min-w-10 items-center justify-center border border-border transition-colors ${isSearchOpen ? 'bg-secondary text-foreground' : 'hover:bg-secondary'}`}
+                      >
+                        {/* @ts-ignore */}
+                        <iconify-icon icon={isSearchOpen ? "ph:x-light" : "ph:magnifying-glass-light"} class="text-lg"></iconify-icon>
+                      </button>
+                    </div>
                   </div>
                   <div className="p-5 text-base leading-relaxed space-y-4">
                     {result.sentences?.map((sentence, idx) => {
                       if (sentence.band === 'high_ai') {
                         return (
-                          <button key={idx} className="mt-2 w-full border-l-4 border-destructive bg-destructive/10 p-4 text-left leading-relaxed transition-all duration-300 ease-out hover:shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring">
-                            <span className="font-mono text-[10px] font-semibold uppercase tracking-widest text-destructive">
+                          <button key={idx} className="group mt-2 w-full border-l-4 border-destructive bg-destructive/10 p-4 text-left leading-relaxed transition-all duration-300 ease-out hover:bg-destructive/20 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring">
+                            <span className="font-mono text-[10px] font-semibold uppercase tracking-widest text-destructive transition-transform duration-300 inline-block group-hover:translate-x-0.5">
                               {/* @ts-ignore */}
                               <iconify-icon icon="ph:warning-circle-light" class="mr-1 align-middle text-sm"></iconify-icon>
                               {(sentence.ai_probability * 100).toFixed(0)}% / High AI signal
                             </span>
-                            <span className="mt-2 block text-[13px]">{sentence.text}</span>
+                            <span className="mt-2 block text-[13px] transition-colors duration-300 group-hover:text-foreground">{renderHighlightedText(sentence.text, searchQuery)}</span>
                           </button>
                         );
                       } else if (sentence.band === 'uncertain') {
                         return (
-                          <button key={idx} className="mt-2 w-full border-l-4 border-[#F5C518] bg-[#F5C518]/20 p-4 text-left leading-relaxed focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring">
-                            <span className="font-mono text-[10px] font-semibold uppercase tracking-widest text-[#78350F]">
+                          <button key={idx} className="group mt-2 w-full border-l-4 border-[#F5C518] bg-[#F5C518]/20 p-4 text-left leading-relaxed transition-all duration-300 ease-out hover:bg-[#F5C518]/30 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring">
+                            <span className="font-mono text-[10px] font-semibold uppercase tracking-widest text-[#78350F] transition-transform duration-300 inline-block group-hover:translate-x-0.5">
                               {/* @ts-ignore */}
                               <iconify-icon icon="ph:warning-circle-light" class="mr-1 align-middle text-sm"></iconify-icon>
                               {(sentence.ai_probability * 100).toFixed(0)}% / Review signal
                             </span>
-                            <span className="mt-2 block text-[13px]">{sentence.text}</span>
+                            <span className="mt-2 block text-[13px] transition-colors duration-300 group-hover:text-foreground">{renderHighlightedText(sentence.text, searchQuery)}</span>
                           </button>
                         );
                       } else {
                         return (
-                          <span key={idx} className="inline mr-1 bg-tertiary/10 rounded-sm px-1 leading-relaxed">{sentence.text}</span>
+                          <span key={idx} className="inline mr-1 bg-tertiary/10 rounded-sm px-1 leading-relaxed">{renderHighlightedText(sentence.text, searchQuery)}</span>
                         );
                       }
                     })}
@@ -468,7 +477,7 @@ export const Detector = () => {
                   <section className="border border-border bg-card p-5">
                     <p className="font-mono text-[10px] uppercase tracking-widest text-muted-foreground">Overall signal</p>
                     <div className="mt-5 flex items-center gap-5">
-                      <div className={`flex h-28 w-28 shrink-0 items-center justify-center rounded-full border-8 ${result.band === 'high_ai' ? 'border-destructive' : result.band === 'human' ? 'border-tertiary' : 'border-accent'}`}>
+                      <div className={`flex h-28 w-28 shrink-0 items-center justify-center rounded-full border-8 transition-all duration-500 ease-out hover:scale-[1.02] hover:shadow-md ${result.band === 'high_ai' ? 'border-destructive hover:shadow-destructive/20' : result.band === 'human' ? 'border-tertiary hover:shadow-tertiary/20' : 'border-accent hover:shadow-accent/20'}`}>
                         <div className="text-center">
                           <p className="font-mono text-3xl font-bold">{(result.authenticity_score * 100).toFixed(0)}%</p>
                           <p className="text-[10px] text-muted-foreground">Authenticity</p>
@@ -532,6 +541,44 @@ export const Detector = () => {
           )}
 
         </main>
+      </div>
+
+      {/* How it Works Modal */}
+      <div 
+        className={`fixed inset-0 z-50 flex items-center justify-center transition-all duration-500 ease-out ${isHowItWorksOpen ? 'opacity-100 pointer-events-auto backdrop-blur-md bg-background/40' : 'opacity-0 pointer-events-none backdrop-blur-none bg-background/0'}`}
+        onClick={() => setIsHowItWorksOpen(false)}
+      >
+        <div 
+          className={`relative w-full max-w-lg border border-border bg-card p-6 shadow-2xl transition-all duration-500 delay-100 ease-out ${isHowItWorksOpen ? 'translate-y-0 opacity-100' : 'translate-y-8 opacity-0'}`}
+          onClick={(e) => e.stopPropagation()}
+        >
+          <button onClick={() => setIsHowItWorksOpen(false)} className="absolute right-4 top-4 text-muted-foreground hover:text-foreground transition-colors">
+            {/* @ts-ignore */}
+            <iconify-icon icon="ph:x-light" class="text-xl"></iconify-icon>
+          </button>
+          
+          <p className="font-mono text-[10px] uppercase tracking-widest text-primary">Instructions</p>
+          <h2 className="mt-2 font-heading text-xl font-semibold">How to get the best results</h2>
+          
+          <div className="mt-6 space-y-5 text-[13px] text-muted-foreground">
+            <div className="flex gap-4">
+              <span className="flex h-7 w-7 shrink-0 items-center justify-center border border-border bg-secondary font-mono text-[10px] font-bold text-foreground">1</span>
+              <p><strong className="text-foreground">Length matters.</strong> AI detection works best on texts that are at least 150-250 words long. Short snippets lack the necessary linguistic variation to map patterns accurately.</p>
+            </div>
+            <div className="flex gap-4">
+              <span className="flex h-7 w-7 shrink-0 items-center justify-center border border-border bg-secondary font-mono text-[10px] font-bold text-foreground">2</span>
+              <p><strong className="text-foreground">Avoid extreme formatting.</strong> Paste standard prose and paragraphs. Heavy markdown, bulleted lists, or raw code blocks might skew the mathematical analysis.</p>
+            </div>
+            <div className="flex gap-4">
+              <span className="flex h-7 w-7 shrink-0 items-center justify-center border border-border bg-secondary font-mono text-[10px] font-bold text-foreground">3</span>
+              <p><strong className="text-foreground">Use as a signal, not absolute proof.</strong> Our engine highlights passages that exhibit mathematical probability mirroring AI training data. Treat it as a flag for editorial review, not as definitive proof of plagiarism.</p>
+            </div>
+          </div>
+          
+          <button onClick={() => setIsHowItWorksOpen(false)} className="mt-8 w-full min-h-11 border border-primary bg-primary px-3 text-[13px] font-semibold text-primary-foreground transition-all hover:bg-foreground">
+            Got it
+          </button>
+        </div>
       </div>
     </div>
   );

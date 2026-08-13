@@ -1,9 +1,11 @@
+import { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Hero } from './components/Hero';
 import { Intro } from './components/Intro';
 import { WorkCarousel } from './components/WorkCarousel';
 import { Footer } from './components/Footer';
 import { Detector } from './components/Detector';
+import { Preloader } from './components/Preloader';
 import './index.css';
 
 // Global flag to track if we've navigated to the app portion
@@ -33,13 +35,27 @@ function Home() {
 }
 
 function App() {
+  const [isPreloading, setIsPreloading] = useState(() => {
+    return !sessionStorage.getItem('preloaderSeen');
+  });
+
+  const handlePreloadComplete = () => {
+    sessionStorage.setItem('preloaderSeen', 'true');
+    setIsPreloading(false);
+  };
+
   return (
-    <Router>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/detect" element={<Detector />} />
-      </Routes>
-    </Router>
+    <>
+      {isPreloading && <Preloader onComplete={handlePreloadComplete} />}
+      {!isPreloading && (
+        <Router>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/detect" element={<Detector />} />
+          </Routes>
+        </Router>
+      )}
+    </>
   );
 }
 
