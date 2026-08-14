@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom';
+
 
 export const Hero = () => {
   return (
@@ -12,7 +12,7 @@ export const Hero = () => {
   <button data-brush="16">L</button><button data-brush="10" className="on">M</button><button data-brush="7">S</button>
 </div>
 
-<Link className="toplink" id="toplink" to="/detect" data-cursor-label="Detector">Launch AI Detector <svg className="ar" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M7 17 17 7"></path><path d="M8 7h9v9"></path></svg></Link>
+<a className="toplink" id="toplink" href="/detect" data-cursor-label="Detector">Launch AI Detector <svg className="ar" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M7 17 17 7"></path><path d="M8 7h9v9"></path></svg></a>
 
 
   <section className="hero" id="hero">
