@@ -1,13 +1,13 @@
 # AI Admissions Essay Detector
 
-<<<<<<< Updated upstream
+
 
 https://github.com/user-attachments/assets/78796f2e-803e-4a46-a6bd-f60788f938d7
 
 
-=======
+
 <video src="https://github.com/Joohhnnyyy/Miro/raw/main/Miro.mp4" autoplay loop muted playsinline width="100%"></video>
->>>>>>> Stashed changes
+
 
 **Live Demo:** [https://themiro.vercel.app](https://themiro.vercel.app)  
 **Hugging Face Model:** [https://huggingface.co/neo2454132/miro-detector-model](https://huggingface.co/neo2454132/miro-detector-model)  
